@@ -59,19 +59,6 @@ author:
   name   : "Fighting Lion"
   avatar : "/assets/images/bio-photo.png"
   bio    : "An Exotic Grenade Launcher in Destiny 2"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 sidebar:
   nav: "docs"
