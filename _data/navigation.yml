@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Quick-Start"
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -10,13 +10,23 @@ main:
 
 
 docs:
-  - title: Getting Started
+  - title: Using the Lion
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "The Gun"
+        url: /docs/the_gun/
+      - title: "Loadouts"
+        url: /docs/loadouts/
+      - title: "Subclasses"
+        url: /docs/subclasses/
+      - title: "Mastery"
+        url: /docs/mastery/
+      - title: "Videos"
+        url: /docs/videos/
+  - title: Resources
+    children:
+      - title: "The Origin"
+        url: /docs/the_origin/
+      - title: "Community"
+        url: /docs/Community/
+      - title: "Wallpapers & Memes"
+        url: /docs/images/
