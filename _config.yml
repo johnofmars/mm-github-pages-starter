@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "johnofmars"
+  name   : "Fighting Lion"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An Exotic Grenade Launcher in Destiny 2"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
