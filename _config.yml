@@ -76,12 +76,7 @@ author:
       url: "https://instagram.com/"
 
 sidebar:
-  - title: "The Gun"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  nav: "docs"
 
 footer:
   links:
@@ -102,11 +97,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
