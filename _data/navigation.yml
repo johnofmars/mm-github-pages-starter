@@ -2,9 +2,9 @@ main:
   - title: "Quick Start"
     url: /quick_start/
   - title: "Become a Master"
-    url: /docs/master/
+    url: /mastery/
   - title: "Resources"
-    url: /docs/resources/
+    url: /resources/
   - title: "About"
     url: /about/
 
@@ -14,7 +14,7 @@ docs:
     children:
       - title: "The Gun"
         url: /docs/the_gun/
-      - title: "Loadouts"
+      - title: "Weapon Pairs & Armor"
         url: /docs/loadouts/
       - title: "Subclasses"
         url: /docs/subclasses/
