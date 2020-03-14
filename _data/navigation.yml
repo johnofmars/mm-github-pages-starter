@@ -1,9 +1,9 @@
 main:
   - title: "Quick-Start"
-    url: /quick-start/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+    url: /quick_start/
+  - title: "The Gun"
+    url: /the_gun/
+  - title: "Resources"
     url: /tags/
   - title: "About"
     url: /about/
@@ -13,7 +13,7 @@ docs:
   - title: Using the Lion
     children:
       - title: "The Gun"
-        url: /docs/the_gun/
+        url: /the_gun/
       - title: "Loadouts"
         url: /docs/loadouts/
       - title: "Subclasses"
@@ -27,6 +27,6 @@ docs:
       - title: "The Origin"
         url: /docs/the_origin/
       - title: "Community"
-        url: /docs/Community/
+        url: /docs/community/
       - title: "Wallpapers & Memes"
         url: /docs/images/
