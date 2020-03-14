@@ -10,19 +10,19 @@ feature_row:
   - image_path: /assets/images/get_started.png
     alt: "Get Started"
     excerpt: "<br />Hold to fire, release to detonate."
-    url: "/docs/get_started/"
+    url: "/get_started/"
     btn_class: "btn--primary"
     btn_label: "Let's Go"
   - image_path: /assets/images/mastery.png
     alt: "Always more to Learn"
     excerpt: "<br />Deep details on how the Lion works & how to use it."
-    url: "/docs/mastery/"
+    url: "/mastery/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/resources.png
     alt: "Resources"
     excerpt: "<br />Lore, other guides, history, wallpapers and more."
-    url: "/docs/resources/"
+    url: "/resources/"
     btn_class: "btn--primary"
     btn_label: "For Wei"
 ---
