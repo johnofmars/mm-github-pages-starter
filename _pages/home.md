@@ -4,9 +4,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash.png
-  actions:
-    - label: "<i class='fas fa-download'></i> Get Started"
-      url: "/quick_start/"
 excerpt: >
   A guide to the Exotic Energy Grenade Launcher, Fighting Lion.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.0">Latest release v4.19.0</a></small>
@@ -17,14 +14,21 @@ feature_row:
     excerpt: "Deep Details on how the Lion works & how to use it."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+    btn_label: "Let's Go"
+  - image_path: /assets/images/mastery.png
     alt: "fully responsive"
     title: "Resources"
     excerpt: "Other guides, history, wallpapers and more."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/resources.png
+    alt: "fully responsive"
+    title: "Resources"
+    excerpt: "Other guides, history, wallpapers and more."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "For Wei"
 ---
 
 {% include feature_row %}
