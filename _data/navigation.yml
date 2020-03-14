@@ -14,8 +14,10 @@ docs:
     children:
       - title: "The Gun"
         url: /docs/the_gun/
-      - title: "Weapon Pairing & Armor"
-        url: /docs/loadouts/
+      - title: "Weapon Pairings"
+        url: /docs/pairings/
+      - title: "Armor: Perks & Stats"
+        url: /docs/armor/
       - title: "Subclasses"
         url: /docs/subclasses/
       - title: "Videos"
@@ -27,7 +29,7 @@ docs:
       - title: "Lore"
         url: /docs/lore/
       - title: "Development"
-        url: /docs/the_origin/
+        url: /docs/development/
       - title: "Community"
         url: /docs/community/
       - title: "Wallpapers & Memes"

@@ -14,7 +14,7 @@ How often do you chuckle with delight while playing Destiny 2? It's a game after
 The gun is primarily designed to blint enemies. Just like snipers in D1.
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/MinorFavoriteCopperbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/minorfavoritecopperbutterfly-destinythegame-destiny2">via Gfycat</a></p>
+  <iframe src='https://gfycat.com/ifr/impracticaldismalhectorsdolphin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 **blint (verb):** to body shot and quickly swap to a primary to secure the kill.
