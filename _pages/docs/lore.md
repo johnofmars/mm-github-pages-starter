@@ -39,7 +39,7 @@ _**"I call it the Zhang Fei. It hits almost as hard as I do." — Wei Ning**_
 ## The Ornaments
 {% include gallery caption="Ornaments for **Fighting Lion**." %}
 
-## Wei background
+## More on Wei Ning
 Wei Ning was [the greatest titan who ever lived](https://did-you-reboot.tumblr.com/post/122357474042/drew-this-little-wei-ning-comic-for).
 
 - Wei Ning's [lore entries](https://www.ishtar-collective.net/categories/wei-ning) on Ishtar Collective.

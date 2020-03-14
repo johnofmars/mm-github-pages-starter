@@ -1,5 +1,5 @@
 ---
-permalink: /docs/Historical/
+permalink: /docs/historical/
 title: "Historical (i.e. Annotated Patch Notes)"
 ---
 
