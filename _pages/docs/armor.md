@@ -11,4 +11,4 @@ title: "Armor: Perks & Stats"
 
 ## Perks to avoid:
 - Grenade Launcher Scavenger
-- Excessive GL launcher perks
+- Excessive GL launcher reload perks

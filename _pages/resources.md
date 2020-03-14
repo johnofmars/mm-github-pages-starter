@@ -3,8 +3,8 @@ permalink: /resources/
 title: "Resources"
 ---
 
-- "Lore & Development"
-- "The Origin"
-- "Community"
-- "Wallpapers & Memes"
-- "Other Guides"
+- [Lore](/docs/lore/)
+- [Development](/docs/development/)
+- [Community](/docs/community/)
+- [Wallpapers & Memes](/docs/images/)
+- [Other Guides](/docs/other_guides/)
