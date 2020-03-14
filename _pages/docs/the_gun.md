@@ -15,3 +15,5 @@ Lightweight Frame
 ## Firing
 
 ## Reloading
+
+## Ammo Management

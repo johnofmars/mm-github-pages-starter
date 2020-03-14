@@ -9,7 +9,7 @@ Current as of Patch 2.8.0
 
 ## PvE
 
-- Damage vs Shields
+- **Damage vs Shields**
 
 As tested in the Tribute Hall
 
@@ -19,7 +19,7 @@ As tested in the Tribute Hall
 |Total Damage  	|12,264   	| 25,128  	| 12,729   	| 19,453   	|
 |% Change  	|100%  	| 205%  	| 104%   	| 158%   	|
 
-- Damage per Combatant Tier
+- **Damage per Combatant Tier**
 
 | Stat  	| Minor  	| Major  	| Boss   	|
 |---	|---	|---	|---	|
@@ -27,7 +27,7 @@ As tested in the Tribute Hall
 | Total  	|17,917   	|12,877   	| 12,264    	|
 | % Increase  	| 100%  	| 72%  	| 68%  	|
 
-- Sustained DPS
+- **Sustained DPS**
 (Using Ehroar's method)
 
 ## PvP
