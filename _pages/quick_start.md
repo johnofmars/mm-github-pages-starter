@@ -3,19 +3,19 @@ permalink: /quick_start/
 title: "Quick Start"
 ---
 
-# The Intro
+## The Intro
 
 How often do you chuckle with delight while playing Destiny 2? It's a game after all? Are you sick of Vigilance Wing and Graviton Lance? Are you ready to find a lethal toy? Are you ready to become a real Guardian?
 
-Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
+[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
 
-# Part 1: The Gun
+## Part 1: The Gun
 
 The gun is primarily designed to blint enemies. Just like snipers in D1
 
 **blint (verb):** to body shot and quickly swap to a primary to secure the kill.
 
-## Firing The Lion
+### Firing The Lion
 
 * **Tap to Fire.** ***NEVER, EVER DO THIS.***
 * **Hold & Release to Explode**
@@ -48,7 +48,7 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
    * I tested this in Private Matches this week and it does *not* work in Crucible.
    * Shoutout to [ManBearPiglets](https://twitter.com/ManBearPigIets) for pointing this out.
 
-# Part 2: Getting Kills
+## Part 2: Getting Kills
 
 Fighting Lion does the same damage regardless of distance, but your preferred engagement distance will dictate your playstyle. A Fighting Lion loadout is primarily defined by the engagement distance of your Kinetic. That said, regardless of your loadout, it's important to know how to use the Lion at every distance.
 
