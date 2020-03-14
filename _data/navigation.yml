@@ -1,32 +1,36 @@
 main:
-  - title: "Quick-Start"
+  - title: "Quick Start"
     url: /quick_start/
-  - title: "The Gun"
-    url: /the_gun/
+  - title: "Become a Master"
+    url: /docs/master/
   - title: "Resources"
-    url: /resources/
+    url: /docs/resources/
   - title: "About"
     url: /about/
 
 
 docs:
-  - title: Using the Lion
+  - title: Become a Master
     children:
       - title: "The Gun"
-        url: /the_gun/
+        url: /docs/the_gun/
       - title: "Loadouts"
         url: /docs/loadouts/
       - title: "Subclasses"
         url: /docs/subclasses/
-      - title: "Mastery"
-        url: /docs/mastery/
       - title: "Videos"
         url: /docs/videos/
+      - title: "Historical"
+        url: /docs/Historical/
   - title: Resources
     children:
+      - title: "Lore & Development"
+        url: /docs/lore/
       - title: "The Origin"
         url: /docs/the_origin/
       - title: "Community"
         url: /docs/community/
       - title: "Wallpapers & Memes"
         url: /docs/images/
+      - title: "Other Guides"
+        url: /docs/other_guides/
