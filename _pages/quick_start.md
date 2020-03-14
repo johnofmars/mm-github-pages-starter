@@ -47,13 +47,13 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
 Fighting Lion does the same damage regardless of distance, but your preferred engagement distance will dictate your playstyle. A Fighting Lion loadout is primarily defined by the engagement distance of your Kinetic. That said, regardless of your loadout, it's important to know how to use the Lion at every distance.
 
 **Melee Range**
-
 Treat it like a shotgun, follow up with melee. Charged or uncharged melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
 
 **Close Range**
-
 Aggressive sidearm/SMG play is a natural fit for FL. Utilizing sliding or vertical space, it's very easy to clean up kills.
 
-**Medium Range** Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion (details below).
+**Medium Range**
+Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion (details below).
 
-**Long Range** Teamshot, zoning, deterring pushes Double-tapping
+**Long Range**
+Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
