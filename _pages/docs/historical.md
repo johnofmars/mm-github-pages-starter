@@ -8,7 +8,7 @@ title: "Historical (i.e. Annotated Patch Notes)"
 Graph of Damage Changes
 
 
-Current:
+# Current Status:
 {::options parse_block_html="false" /}
 
 <div class="center">
@@ -18,7 +18,7 @@ Current:
 
 </div>
 
-#Patch notes:
+# Patch notes:
 
 [Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838)
 
@@ -34,9 +34,11 @@ Current:
 - Increased ammo inventory
 - Increased spawn ammo
 - Kills with this weapon guarantee Energy ammo drop
+
 _Note: Warmind patch_
 
 [Update 1.1.0](https://www.bungie.net/en/News/Article/46522)
 
 - Increased Fighting Lion damage and changed Thin the Herd perk to now grant bonus ammo rather than pulling ammo from the player inventory
+
 _Note: Curse of Osiris patch_
