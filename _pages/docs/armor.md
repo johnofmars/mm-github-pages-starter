@@ -6,9 +6,9 @@ title: "Armor: Perks & Stats"
 (Under Construction)
 
 
-##Perks to take:
+## Perks to take:
 - Kinetic dexterity mods
 
-##Perks to avoid:
+## Perks to avoid:
 - Grenade Launcher Scavenger
 - Excessive GL launcher perks

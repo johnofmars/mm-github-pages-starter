@@ -18,7 +18,7 @@ feature_row:
     excerpt: "<br />The Lion has the highest skill ceiling in the game. Deep details on how the Lion works & how to use it."
     url: "/mastery/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Always More to Learn"
   - image_path: /assets/images/resources.png
     alt: "Resources"
     excerpt: "<br />Lore, development background, community, wallpapers, memes, other guides and more."
