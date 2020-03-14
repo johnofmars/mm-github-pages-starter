@@ -5,19 +5,19 @@ title: "Get Started"
 
 ## The Intro
 
-How often do you chuckle with delight while playing Destiny 2? It's a game after all? Are you sick of Vigilance Wing and Graviton Lance? Are you ready to find a lethal toy? Are you ready to become a real Guardian?
+How often do you chuckle with delight while playing Destiny 2? It's a game, after all? Are you sick of the meta? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
 
-[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
+![Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
 
 ## Part 1: The Gun
 
-The gun is primarily designed to blint enemies. Just like snipers in D1.
+Fighting Lion is primarily designed to blint enemies. Just like snipers in D1.
+
+**blint (verb):** to body shot and quickly swap to a primary to secure the kill.
 
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/impracticaldismalhectorsdolphin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
-
-**blint (verb):** to body shot and quickly swap to a primary to secure the kill.
 
 ### Firing The Lion
 
@@ -28,15 +28,14 @@ The gun is primarily designed to blint enemies. Just like snipers in D1.
    * This can be used to Laying Trap around doorways, and to Explode Rounds in Doorways to block pushes.
    * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself. This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
 * **Damage**
-   * 144 Splash and 22 for direct hit. This was buffed from 100 Splash + 48 direct hit damage in the go fast update. [This was in turn buffed](https://i.imgur.com/lhb0h9s.gifv) from before where it was 69 splash and 66 direct (for a total of 135).
+   * 144 Splash and 22 for direct hit.
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
    * Point blank shots (typically against enemies) will damage you just as much as them, and likely get you killed.
-* **ADS vs Hip Fire**
-   * Makes no difference in my testing. You'll learn the arc and won't need the cross-hairs anyway.
+
 * **Practice, practice, practice.**
 
 * **General advice:**
-   * Be mobile! Strafe & Jump! You don't need to track your targets after the round if off, so there's less penalty for movement.
+   * Be mobile! Strafe & Jump! You don't need to track your targets after the round is off, so there's less penalty for movement.
    * Peek fire! Blind Fire! After you have enough time with the gun, you'll learn when to release to explode without even seeing your target. The damage number popping up will tell you if you were successful, where the enemy is and (because it's splash damage) will tell you how many enemies are there.
    * Bounce around corners. [Even over/around shields.](https://media.giphy.com/media/1VV2DQDQ0G0xApuQDw/giphy.gifv) No one can hide from Fighting Lion, lol.
 
