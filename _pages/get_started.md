@@ -13,6 +13,11 @@ How often do you chuckle with delight while playing Destiny 2? It's a game after
 
 The gun is primarily designed to blint enemies. Just like snipers in D1
 
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/MinorFavoriteCopperbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/minorfavoritecopperbutterfly-destinythegame-destiny2">via Gfycat</a></p>
+</figure>
+
+
 **blint (verb):** to body shot and quickly swap to a primary to secure the kill.
 
 ### Firing The Lion
@@ -35,7 +40,7 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
    * Be mobile! Strafe & Jump! You don't need to track your targets after the round if off, so there's less penalty for movement.
    * Peek fire! Blind Fire! After you have enough time with the gun, you'll learn when to release to explode without even seeing your target. The damage number popping up will tell you if you were successful, where the enemy is and (because it's splash damage) will tell you how many enemies are there.
    * Bounce around corners. [Even over/around shields.](https://media.giphy.com/media/1VV2DQDQ0G0xApuQDw/giphy.gifv) No one can hide from Fighting Lion, lol.
-   
+
 * **Exotic Perk: Thin the Herd** Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Energy ammo.
 
 * **The Combo**
