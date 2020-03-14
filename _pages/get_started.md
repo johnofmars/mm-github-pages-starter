@@ -41,7 +41,7 @@ Fighting Lion is primarily designed to **blint** enemies.
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
    * Point blank shots (typically against enemies) will damage you just as much as them, and likely get you killed.
 
-* **Practice, practice, practice.**
+
 
 * **General advice:**
    * Be mobile! Strafe & Jump! You don't need to keep your target in your reticule after the round is off, so there's less penalty for movement.
@@ -67,3 +67,5 @@ Hand cannons are crispy and have good range and versatility. They're the signatu
 **Long Range**
 
 Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
+
+# Practice, practice, practice.
