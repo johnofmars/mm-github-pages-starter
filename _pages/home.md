@@ -9,19 +9,19 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/get_started.png
     alt: "Get Started"
-    excerpt: "<br />Hold to fire, release to detonate."
+    excerpt: "<br />It's a gun that rewards skill and practice, which is why when you do well with it, you'll feel amazing."
     url: "/get_started/"
     btn_class: "btn--primary"
-    btn_label: "Let's Go"
+    btn_label: "Hold to fire, release to detonate."
   - image_path: /assets/images/mastery.png
     alt: "Always more to Learn"
-    excerpt: "<br />Deep details on how the Lion works & how to use it."
+    excerpt: "<br />The Lion has the highest skill ceiling in the game. Deep details on how the Lion works & how to use it."
     url: "/mastery/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/resources.png
     alt: "Resources"
-    excerpt: "<br />Lore, other guides, history, wallpapers and more."
+    excerpt: "<br />Lore, community, wallpapers, memes, other guides and more."
     url: "/resources/"
     btn_class: "btn--primary"
     btn_label: "For Wei"
