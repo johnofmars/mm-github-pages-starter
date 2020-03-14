@@ -20,6 +20,7 @@ As tested in the Tribute Hall
 |% Change  	|100%  	| 205%  	| 104%   	| 158%   	|
 
 - Damage per Combatant Tier
+
 | Stat  	| Minor  	| Major  	| Boss   	|
 |---	|---	|---	|---	|
 | Raw  	| 15,544+2373   	|10,883+1,994   	| 10,365 + 1,899  	|
