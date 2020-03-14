@@ -6,9 +6,8 @@ header:
   overlay_image: /assets/images/splash.png
 excerpt: >
   A guide to the Exotic Energy Grenade Launcher, Fighting Lion.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.0">Latest release v4.19.0</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/get-started.png
     alt: "customizable"
     title: "The Gun"
     excerpt: "Deep Details on how the Lion works & how to use it."
