@@ -1,6 +1,6 @@
 main:
   - title: "Quick Start"
-    url: /quick_start/
+    url: /get_started/
   - title: "Become a Master"
     url: /mastery/
   - title: "Resources"
@@ -24,9 +24,9 @@ docs:
         url: /docs/Historical/
   - title: Resources
     children:
-      - title: "Lore & Development"
+      - title: "Lore"
         url: /docs/lore/
-      - title: "The Origin"
+      - title: "Development"
         url: /docs/the_origin/
       - title: "Community"
         url: /docs/community/
