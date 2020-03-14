@@ -23,7 +23,7 @@ docs:
       - title: "Videos"
         url: /docs/videos/
       - title: "Historical"
-        url: /docs/Historical/
+        url: /docs/historical/
   - title: Resources
     children:
       - title: "Lore"
