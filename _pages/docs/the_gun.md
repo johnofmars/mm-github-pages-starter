@@ -10,6 +10,8 @@ title: "The Gun"
 Lightweight Frame
 ~~72~~ 90 RPM
 
+## Masterwork
+
 ## Firing
 
 ## Reloading

@@ -11,7 +11,7 @@ How often do you chuckle with delight while playing Destiny 2? It's a game, afte
 
 ## Part 1: The Gun
 
-Fighting Lion is primarily designed to **blint** enemies. 
+Fighting Lion is primarily designed to **blint** enemies.
 
 >**blint (verb):** to body shot and quickly swap to a primary to secure the kill.
 {: .notice--primary}
@@ -19,6 +19,9 @@ Fighting Lion is primarily designed to **blint** enemies.
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/impracticaldismalhectorsdolphin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
+
+> **The Combo** Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go. This is the trademark Fighting Lion move.
+{: .notice--primary}
 
 ### Firing The Lion
 
