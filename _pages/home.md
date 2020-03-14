@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash.png
 excerpt: >
-  A guide to the Exotic Energy Grenade Launcher, Fighting Lion.<br />
+  A guide to Destiny 2's Exotic Energy Grenade Launcher, the Fighting Lion.
 feature_row:
   - image_path: /assets/images/get-started.png
     alt: "customizable"
