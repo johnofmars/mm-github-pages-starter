@@ -7,13 +7,14 @@ title: "Get Started"
 
 How often do you chuckle with delight while playing Destiny 2? It's a game, after all? Are you sick of the meta? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
 
-![Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
+[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
 
 ## Part 1: The Gun
 
-Fighting Lion is primarily designed to blint enemies. Just like snipers in D1.
+Fighting Lion is primarily designed to **blint** enemies. 
 
-**blint (verb):** to body shot and quickly swap to a primary to secure the kill.
+>**blint (verb):** to body shot and quickly swap to a primary to secure the kill.
+{: .notice--primary}
 
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/impracticaldismalhectorsdolphin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
