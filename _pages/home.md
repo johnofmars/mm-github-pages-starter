@@ -9,7 +9,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/get_started.png
     alt: "Get Started"
-    excerpt: "<br />Deep Details on how the Lion works & how to use it."
+    excerpt: "<br />Hold to fire, release to detonate."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Let's Go"
