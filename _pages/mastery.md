@@ -9,4 +9,4 @@ title: "Become a Master"
 - [Armor: Perks & Stats](/docs/armor/)
 - [Subclasses](/docs/subclasses/)
 - [Videos](/docs/videos/)
-- [Historical](/docs/Historical/)
+- [Historical](/docs/historical/)
