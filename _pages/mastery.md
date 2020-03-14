@@ -4,7 +4,7 @@ title: "Become a Master"
 ---
 
 - "The Gun"
-- "Weapon Pairs & Armor"
+- "Weapon Pairing & Armor"
 - "Subclasses"
 - "Videos"
 - "Historical"

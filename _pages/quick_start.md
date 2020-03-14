@@ -24,7 +24,7 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
    * This can be used to Laying Trap around doorways, and to Explode Rounds in Doorways to block pushes.
    * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself. This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
 * **Damage**
-   * **UPDATE FOR FORSAKEN** 144 Splash and 22 for direct hit. This was buffed from 100 Splash + 48 direct hit damage in the go fast update. [This was in turn buffed](https://i.imgur.com/lhb0h9s.gifv) from before where it was 69 splash and 66 direct (for a total of 135).
+   * 144 Splash and 22 for direct hit. This was buffed from 100 Splash + 48 direct hit damage in the go fast update. [This was in turn buffed](https://i.imgur.com/lhb0h9s.gifv) from before where it was 69 splash and 66 direct (for a total of 135).
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
    * Point blank shots (typically against enemies) will damage you just as much as them, and likely get you killed.
 * **ADS vs Hip Fire**
@@ -41,12 +41,6 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
 
 * **The Combo**
    * Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go. This is the trademark Fighting Lion move.
-* [The Inverse Combo (PvE only!)](https://www.youtube.com/watch?v=ULJv4Kg4-f8)
-   * But the perk description isn't complete or totally accurate.
-   * It doesn't have be grenade->kill->auto-reload. It can be kill->grenade->auto-reload->2nd grenade. This is admittedly very niche, but rapid firing Fighting Lion is nuts.
-   * Further, you do not need to get the rapid kill on same enemy you damaged with the Lion. You can get a snipe across the map, swap to your lion and fire two rounds back to back.
-   * I tested this in Private Matches this week and it does *not* work in Crucible.
-   * Shoutout to [ManBearPiglets](https://twitter.com/ManBearPigIets) for pointing this out.
 
 ## Part 2: Getting Kills
 
@@ -62,4 +56,4 @@ Aggressive sidearm/SMG play is a natural fit for FL. Utilizing sliding or vertic
 
 **Medium Range** Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion (details below).
 
-**Long Range** Teamshot, zoning, deterring pushes Double-tapping, lol
+**Long Range** Teamshot, zoning, deterring pushes Double-tapping

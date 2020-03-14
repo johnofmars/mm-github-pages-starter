@@ -14,7 +14,7 @@ docs:
     children:
       - title: "The Gun"
         url: /docs/the_gun/
-      - title: "Weapon Pairs & Armor"
+      - title: "Weapon Pairing & Armor"
         url: /docs/loadouts/
       - title: "Subclasses"
         url: /docs/subclasses/

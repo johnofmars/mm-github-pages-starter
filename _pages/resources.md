@@ -1,6 +1,6 @@
 ---
-permalink: /mastery/
-title: "Become a Master"
+permalink: /resources/
+title: "Resources"
 ---
 
 - "Lore & Development"
