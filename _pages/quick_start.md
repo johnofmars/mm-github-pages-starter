@@ -35,9 +35,8 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
    * Be mobile! Strafe & Jump! You don't need to track your targets after the round if off, so there's less penalty for movement.
    * Peek fire! Blind Fire! After you have enough time with the gun, you'll learn when to release to explode without even seeing your target. The damage number popping up will tell you if you were successful, where the enemy is and (because it's splash damage) will tell you how many enemies are there.
    * Bounce around corners. [Even over/around shields.](https://media.giphy.com/media/1VV2DQDQ0G0xApuQDw/giphy.gifv) No one can hide from Fighting Lion, lol.
-* **Exotic Perk:**
-
-**Thin the Herd** Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Energy ammo.
+   
+* **Exotic Perk: Thin the Herd** Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Energy ammo.
 
 * **The Combo**
    * Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go. This is the trademark Fighting Lion move.
@@ -47,13 +46,17 @@ The gun is primarily designed to blint enemies. Just like snipers in D1
 Fighting Lion does the same damage regardless of distance, but your preferred engagement distance will dictate your playstyle. A Fighting Lion loadout is primarily defined by the engagement distance of your Kinetic. That said, regardless of your loadout, it's important to know how to use the Lion at every distance.
 
 **Melee Range**
+
 Treat it like a shotgun, follow up with melee. Charged or uncharged melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
 
 **Close Range**
+
 Aggressive sidearm/SMG play is a natural fit for FL. Utilizing sliding or vertical space, it's very easy to clean up kills.
 
 **Medium Range**
+
 Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion (details below).
 
 **Long Range**
+
 Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
