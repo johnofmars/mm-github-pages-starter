@@ -20,7 +20,8 @@ Fighting Lion is primarily designed to **blint** enemies.
   <iframe src='https://gfycat.com/ifr/impracticaldismalhectorsdolphin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-> **The Combo** Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go. This is the trademark Fighting Lion move.
+> **The Combo** Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go.
+>This is the trademark Fighting Lion move.
 {: .notice--primary}
 
 ### Firing The Lion
@@ -29,8 +30,12 @@ Fighting Lion is primarily designed to **blint** enemies.
 * **Hold & Release to Explode**
    * There is no proximity detonation. It has to be a direct hit to get maximum damage.
    * Unless you get a direct hit, you will need to manually detonate the grenade.
-   * This can be used to Laying Trap around doorways, and to Explode Rounds in Doorways to block pushes.
-   * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself. This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
+   * This can be used Explode Rounds in Doorways to block pushes or trap enemies.
+   * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
+
+   >This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
+   {: .notice--warning}
+
 * **Damage**
    * 144 Splash and 22 for direct hit.
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
@@ -39,14 +44,9 @@ Fighting Lion is primarily designed to **blint** enemies.
 * **Practice, practice, practice.**
 
 * **General advice:**
-   * Be mobile! Strafe & Jump! You don't need to track your targets after the round is off, so there's less penalty for movement.
+   * Be mobile! Strafe & Jump! You don't need to keep your target in your reticule after the round is off, so there's less penalty for movement.
    * Peek fire! Blind Fire! After you have enough time with the gun, you'll learn when to release to explode without even seeing your target. The damage number popping up will tell you if you were successful, where the enemy is and (because it's splash damage) will tell you how many enemies are there.
-   * Bounce around corners. [Even over/around shields.](https://media.giphy.com/media/1VV2DQDQ0G0xApuQDw/giphy.gifv) No one can hide from Fighting Lion, lol.
-
-* **Exotic Perk: Thin the Herd** Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Energy ammo.
-
-* **The Combo**
-   * Direct hit, swap to kinetic to finish, FL is reloaded and you're good to go. This is the trademark Fighting Lion move.
+   * Bounce around corners. Even over/around shields. No one can hide from Fighting Lion, lol.
 
 ## Part 2: Getting Kills
 
