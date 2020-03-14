@@ -8,23 +8,23 @@ excerpt: >
   A guide to Destiny 2's Exotic Energy Grenade Launcher, the Fighting Lion.
 feature_row:
   - image_path: /assets/images/get-started.png
-    alt: "customizable"
-    title: "The Gun"
+    alt: "Get Started"
+    title: "Hold to fire, release to detonate"
     excerpt: "Deep Details on how the Lion works & how to use it."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Let's Go"
   - image_path: /assets/images/mastery.png
-    alt: "fully responsive"
-    title: "Resources"
-    excerpt: "Other guides, history, wallpapers and more."
+    alt: "Always more to Learn"
+    title: "Go In-Depth"
+    excerpt: "Deep Details on how the Lion works & how to use it."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/resources.png
-    alt: "fully responsive"
-    title: "Resources"
-    excerpt: "Other guides, history, wallpapers and more."
+    alt: "Resources"
+    title: "Learn from others"
+    excerpt: "Lore, other guides, history, wallpapers and more."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "For Wei"
