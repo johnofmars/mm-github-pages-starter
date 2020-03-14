@@ -3,8 +3,10 @@ permalink: /mastery/
 title: "Become a Master"
 ---
 
-- "The Gun"
-- "Weapon Pairing & Armor"
+- "Using The Gun"
+- "Detailed Damage"
+- "Weapon Pairings"
+- "Perks & Armor"
 - "Subclasses"
 - "Videos"
 - "Historical"
