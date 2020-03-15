@@ -11,7 +11,8 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ![Thin the Herd](/assets/images/thin_the_herd.png)
 
-## Archetype & perks
+## The Basics
+### Archetype & perks
 
 Lightweight Frame
 > Like all _lightweight_ frames in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
@@ -19,7 +20,7 @@ Lightweight Frame
 ~~72~~ 90 RPM
 > Misleading, RPM is gated by reload speed, not firing rate.
 
-## Masterwork
+### Masterwork
 
 ![Masterwork](/assets/images/catalyst.jpg)
 
@@ -31,22 +32,23 @@ New perk:
 
 **Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw** and **Opening Shot**.
 
-## Firing
+### Firing
 
 Timer
 
 Too close to arm
 
-## Reloading
+### Reloading
 
 [Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
 
 > **Disclosure** Scripts are not legal in Destiny, especially in Pvp. As such, using them, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
 {: .notice--warning}
 
-## Ammo Management
+## The Details
+### Ammo Management
 
-Exotic Perk: Thin the Herd
+**Exotic Perk: Thin the Herd**
 
 **Crucible**
 
@@ -57,13 +59,13 @@ Exotic Perk: Thin the Herd
 - Ammo per random drop brick: 8,10,15
 - Ammo per kill brick: _FULL_ (i.e. 20 to 24)
 
-## Grenade Health
+### Grenade Health
 
 It is possible to have your grenade shot out of the air.
 
 > The Fighting Lion grenade has <=11 hp in Crucible
 
-## Tricks
+### Tricks
 
 -**Deflecting other Projectiles**
 
@@ -73,7 +75,7 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 -**Traps**
 
 
-## Glitches
+### Glitches
 
 > **Disclosure** These are very rare, and/or hard to exploit, so don't freak out.
 {: .notice--warning}
@@ -87,6 +89,7 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/freshartisticeyra' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
+Watch close and you can see the Lion did 180+33, killing the Golden Gun Hunter.
 
 If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **142+26** damage, it will instead be **180 + 33**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
 
