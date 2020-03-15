@@ -69,4 +69,4 @@ Hand cannons are crispy and have good range and versatility. They're the signatu
 Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
 
 ># Practice, practice, practice.
-{: .notice--success}
+{: .text-center}{: .notice--success}

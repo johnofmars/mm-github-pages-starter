@@ -30,6 +30,8 @@ Graph of Damage Changes
 [Update 2.0.4](https://www.bungie.net/en/News/Article/47335) - _Forsaken Cleanup patch_
 - Decreased Fighting Lion damage to be brought in line with other breach-load Grenade Launchers
 
+> This patch was in response to the fact that Fighting Lion with autoloading rifts/barricades was [doing more DPS than Power slot Grenade Launchers](https://www.reddit.com/r/DestinyTheGame/comments/9bbiwp/fighting_lion_is_currently_extremely_powerful_in/).
+
 [Update 1.2.0](https://www.bungie.net/en/News/Article/46849) - _Warmind patch_
 - Deals more blast damage and less direct hit damage
 - Increased ammo inventory
