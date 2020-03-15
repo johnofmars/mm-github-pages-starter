@@ -5,7 +5,7 @@ title: "Get Started"
 
 ## The Intro
 
-How often do you chuckle with delight while playing Destiny 2? It's a game, after all? Are you sick of the meta? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
+How often do you chuckle with delight while playing Destiny 2? It's a game, after all! Are you [sick of the meta](/assets/images/off-meta.jpg)? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
 
 [Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
 
