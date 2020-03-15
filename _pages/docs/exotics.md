@@ -1,7 +1,6 @@
 ---
 permalink: /docs/exotics/
 title: "Exotic Armor Choices"
-author_profile: false
 ---
 
 (Under Construction)
