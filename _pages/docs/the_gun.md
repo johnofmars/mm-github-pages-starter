@@ -8,7 +8,7 @@ title: "The Gun"
 ## Archetype & perks
 
 Lightweight Frame
-> Inherent Mobility bonus, +10
+> Like all _lightweight_ frames in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
 
 ~~72~~ 90 RPM
 > Misleading, RPM is gated by reload speed, not firing rate

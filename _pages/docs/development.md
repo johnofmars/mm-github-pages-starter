@@ -22,8 +22,9 @@ gallery:
 - [Initial Concept work](https://www.artstation.com/artwork/3n5K2) by [Adrian Majkrzak](https://twitter.com/ghostorbit)
 - [3D Model](https://www.artstation.com/artwork/5lPmO) by Mark Van Haitsma
 - [Name & Flavor Text](https://twitter.com/JillScharr/status/1170457832245755905) by [Jill Scharr](https://twitter.com/JillScharr)
-- [Lore Tab](https://twitter.com/JillScharr/status/1170457832245755905) by Seth Dickinson
-- Sandbox championing by [Jon Weisnewski](https://twitter.com/sharkeatsman) & [Josh Hamrick](https://twitter.com/Josh_Hamrick)
+- [Lore Tab](https://twitter.com/JillScharr/status/1170457832245755905) by [Seth Dickinson](https://twitter.com/sethjdickinson?lang=en)
+- Sandbox Design work by the whole Bungie sandbox team
+- Special acknowledgment for the Championing by [Jon Weisnewski](https://twitter.com/sharkeatsman) & [Josh Hamrick](https://twitter.com/Josh_Hamrick)
 
 ## The tweet that started it all for me
 
@@ -37,7 +38,7 @@ gallery:
 
 ## Predecssor
 
-** Halo: Reach's M319 Grenade Launcher**
+**Halo: Reach's M319 Grenade Launcher**
 
 Bungie's last game before Destiny 1 was Halo Reach and it included a break action, breech-loading grenade launcher very similar to Fighting Lion. If Halo's Rocket Launcher was the newb tube, then the Grenade Launcher was the **Pro Pipe.**
 
