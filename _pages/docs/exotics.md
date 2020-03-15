@@ -1,6 +1,6 @@
 ---
-permalink: /docs/armor/
-title: "Armor: Perks & Stats"
+permalink: /docs/exotics/
+title: "Exotic Armor Choices"
 ---
 
 (Under Construction)
