@@ -19,16 +19,25 @@ Lightweight Frame
 
 ## Reloading
 
-[Auto-Relader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
+[Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
+
+> **Disclosure** Scripts are not legal in Destiny, especially in Pvp. As such, using them, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
+{: .notice--warning}
 
 ## Ammo Management
 
+**Crucible**
+Spawning Ammo:
+Ammo per brick:
+Maximum Ammo:
 
 ## Glitches
 
-> **Disclosure** These are very rare.
+> **Disclosure** These are very rare, and/or hard to exploit, so don't freak out.
 {: .notice--warning}
 
-- Double Impact
+**Double Impact**
 
-- Double Damage after death
+![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
+
+**Double Damage after death**
