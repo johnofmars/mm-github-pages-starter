@@ -75,7 +75,7 @@ Deflecting grenades and Sentinel Shields
 **~~Double~~ Increased Damage after death**
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/frighteninggranulararmedcrab' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/freshartisticeyra' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **142+26** damage, it will instead be **180 + 33**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
