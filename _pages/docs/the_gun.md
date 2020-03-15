@@ -7,7 +7,9 @@ title: "The Gun"
 
 Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/3549153978) for the Fighting Lion.
 
+![Delayed Gratification](/assets/images/delayed_grat.png)
 
+![Thin the Herd](/assets/images/thin_the_herd.png)
 
 ## Archetype & perks
 
@@ -19,7 +21,7 @@ Lightweight Frame
 
 ## Masterwork
 
-![Masterwork](/assets/catalyst.jpg)
+![Masterwork](/assets/images/catalyst.jpg)
 
 +27 Reload speed from **55** to **82**.
 
