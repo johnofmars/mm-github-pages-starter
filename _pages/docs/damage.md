@@ -32,9 +32,46 @@ As tested in the Tribute Hall
 
 ## PvP
 
-- Damage vs each super
+### Damage vs each super
+Testing thanks to Discord member, **Wizard Magizard**.
+
+**Warlock**
+
+|  Element 	| Super           	| Damage 	|
+|----------	|-----------------	|--------	|
+| Base    	| (no super)       	| 142+26 	|
+| Solar    	| Daybreak        	| 70+13  	|
+|          	| Well of Radiance 	| 114+21 	|
+|          	| Well Sword       	| 142+26 	|
+| Arc      	| Stormtrance      	| 67+13  	|
+|          	| Chaos Reach      	| 85+16  	|
+| Void     	| Nova Bomb        	| 142+26 	|
+|          	| Nova Warp       	| 70+13  	|
+
+**Hunter**
+
+|  Element 	| Super                   	| Damage 	|
+|----------	|--------------------------	|--------	|
+| Base   	  | (no super)               	| 142+26 	|
+| Solar    	| Golden Gun               	| 142+26 	|
+|          	| Blade Barrage           	| 73+14  	|
+| Arc      	| Arcstaff                	| 67+13  	|
+|          	| Arcstaff reflected round 	| 180+33 	|
+| Void     	| Spectral Blades         	| 68+13  	|
+|          	| Spectral Blades (invis) 	| 65+12  	|
+|          	| Shadowshot              	| 67+13  	|
+
+**Titan**
+
+|  Element 	| Super          	| Damage 	|
+|----------	|----------------	|--------	|
+| Base    	| (no super)    	| 142+26 	|
+| Solar    	| Hammer of Sol 	| 70+13  	|
+|          	| Burning Maul   	| 67+13  	|
+| Arc      	| Fist of Havoc  	| 67+13  	|
+|          	| Thundercrash   	| 23+13  	|
+| Void     	| Sentinel Shield	| 67+13  	|
+|          	| Armor of Light 	| 142+26 	|
 
 
-Self-Damage
-
-<=11 damage to kill your grenade round
+**Self-Damage**

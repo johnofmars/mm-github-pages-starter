@@ -53,7 +53,15 @@ Exotic Perk: Thin the Herd
 - Maximum Ammo: 21 without perks
 - Maximum Ammo: 24 with double reserves
 
+## Grenade Health
 
+It is possible to have your grenade shot out of the air.
+
+> The Fighting Lion grenade has <=11 hp in Crucible
+
+## Tricks
+
+Deflecting grenades and Sentinel Shields
 
 ## Glitches
 
@@ -64,6 +72,12 @@ Exotic Perk: Thin the Herd
 
 ![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
 
-**Double Damage after death**
+**~~Double~~ Increased Damage after death**
 
-180 + 33
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/frighteninggranulararmedcrab' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **142+26** damage, it will instead be **180 + 33**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
+
+_This used to be literally double damage, but since patch 2.8.0, it's merely +27% damage._
