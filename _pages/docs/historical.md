@@ -8,7 +8,8 @@ title: "Historical (i.e. Annotated Patch Notes)"
 Graph of Damage Changes
 
 
-# Current Status:
+## Current Status:
+
 {::options parse_block_html="false" /}
 
 <div class="center">
@@ -18,7 +19,7 @@ Graph of Damage Changes
 
 </div>
 
-# Patch notes:
+## Patch notes:
 
 [Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838)
 

@@ -6,7 +6,7 @@ title: "Exotic Armor Choices"
 (Under Construction)
 
 
-## Exotics
+### Considerations
 
 Exotic choices will favor one of three things:
 - **Reloading** (like Transversive Steps or Dragon's Shadow)
