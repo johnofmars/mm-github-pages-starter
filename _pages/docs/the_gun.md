@@ -53,11 +53,13 @@ Too close to arm
 **Crucible**
 
 - Spawning Ammo:  
-- Maximum Ammo: 21 without perks
+- Maximum Ammo: 20 without perks
 - Maximum Ammo: 24 with double reserves
 
 - Ammo per random drop brick: 8,10,15
 - Ammo per kill brick: _FULL_ (i.e. 20 to 24)
+
+[Refer to Armor: Perks & Stats](/docs/armor/#perks-to-take/) for more on how to manage your ammo.
 
 ### Grenade Health
 
