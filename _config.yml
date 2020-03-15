@@ -64,6 +64,10 @@ author:
 
 sidebar:
   nav: "docs"
+  - title: "Fight Lion"
+    image: /assets/images/bio-photo.png
+    image_alt: "Lion"
+    text: "An Exotic Grenade Launcher in Destiny 2"
 
 footer:
   links:
