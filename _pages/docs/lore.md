@@ -37,6 +37,7 @@ _**"I call it the Zhang Fei. It hits almost as hard as I do." — Wei Ning**_
 
 
 ## The Ornaments
+
 {% include gallery caption="Ornaments for **Fighting Lion**." %}
 
 ## More on Wei Ning
