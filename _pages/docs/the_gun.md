@@ -26,10 +26,13 @@ Lightweight Frame
 
 ## Ammo Management
 
+Exotic Perk: Thin the Herd
+
 **Crucible**
-Spawning Ammo:
-Ammo per brick:
-Maximum Ammo:
+
+- Spawning Ammo:  
+- Ammo per brick:
+- Maximum Ammo:
 
 ## Glitches
 
