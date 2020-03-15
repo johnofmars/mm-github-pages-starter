@@ -33,6 +33,10 @@ New perk:
 
 ## Firing
 
+Timer
+
+Too close to arm
+
 ## Reloading
 
 [Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
@@ -47,11 +51,11 @@ Exotic Perk: Thin the Herd
 **Crucible**
 
 - Spawning Ammo:  
-- Ammo per random drop brick: 8,10,15
-- Ammo per kill brick: _FULL_ (i.e. 20 to 24)
-
 - Maximum Ammo: 21 without perks
 - Maximum Ammo: 24 with double reserves
+
+- Ammo per random drop brick: 8,10,15
+- Ammo per kill brick: _FULL_ (i.e. 20 to 24)
 
 ## Grenade Health
 
@@ -61,7 +65,13 @@ It is possible to have your grenade shot out of the air.
 
 ## Tricks
 
-Deflecting grenades and Sentinel Shields
+-**Deflecting other Projectiles**
+
+The Lion's grenade is treated as a projectile so that means that besides getting shot out of the air, it can deflect other projectiles, such as grenades, and yes, Sentinel Shields.
+<iframe src="https://giphy.com/embed/hrA9F7LEVwyEEpHqDT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+-**Traps**
+
 
 ## Glitches
 
