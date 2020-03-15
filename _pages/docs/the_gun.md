@@ -16,4 +16,6 @@ Lightweight Frame
 
 ## Reloading
 
+[Auto-Relader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
+
 ## Ammo Management
