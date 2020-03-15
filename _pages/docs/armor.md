@@ -8,6 +8,7 @@ title: "Armor: Perks & Stats"
 
 ## Perks to take:
 - Kinetic dexterity mods
+- Dire Artillery
 
 ## Perks to avoid:
 - Grenade Launcher Scavenger
