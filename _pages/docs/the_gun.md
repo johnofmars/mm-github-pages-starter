@@ -22,3 +22,13 @@ Lightweight Frame
 [Auto-Relader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
 
 ## Ammo Management
+
+
+## Glitches
+
+> **Disclosure** These are very rare.
+{: .notice--warning}
+
+- Double Impact
+
+- Double Damage after death
