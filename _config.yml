@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "An Exotic Grenade Launcher in Destiny 2"
 
-sidebar:
-  nav: "docs"
-
 footer:
   links:
     - label: "Twitter"
