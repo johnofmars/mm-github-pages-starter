@@ -31,8 +31,6 @@ Fighting Lion is primarily designed to **blint** enemies.
    * There is no proximity detonation. It has to be a direct hit to get maximum damage.
    * Unless you get a direct hit, you will need to manually detonate the grenade.
    * This can be used Explode Rounds in Doorways to block pushes or trap enemies.
-   * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
-
    >This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
    {: .notice--warning}
 
@@ -62,7 +60,7 @@ Aggressive sidearm/SMG play is a natural fit for FL. Utilizing sliding or vertic
 
 **Medium Range**
 
-Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion (details below).
+Hand cannons are crispy and have good range and versatility. They're the signature pairing with FL. Hand cannons also allow for more cautious use and I prefer them in Comp/Trials where deaths are more costly. For most hand cannons, a single headshot will put down an enemy directly hit by a Lion.
 
 **Long Range**
 

@@ -37,6 +37,7 @@ New perk:
 Timer
 
 Too close to arm
+   * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
 
 ### Reloading
 
