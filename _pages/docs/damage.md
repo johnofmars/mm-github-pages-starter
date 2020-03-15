@@ -9,7 +9,7 @@ Current as of Patch 2.8.0
 
 ## PvE
 
-- **Damage vs Shields**
+### Damage vs Shields
 
 As tested in the Tribute Hall
 
@@ -17,17 +17,17 @@ As tested in the Tribute Hall
 |---	|---	|---	|---	|---	|
 |Raw Damage	| 10,365 + 1,899  	| 14,602 + 7,091 + 3,435  	| 10,365 + 2,364  	| 14,725 + 4,728   	|
 |Total Damage  	|12,264   	| 25,128  	| 12,729   	| 19,453   	|
-|% Change  	|100%  	| 205%  	| 104%   	| 158%   	|
+|% Change  	|base  	| 205%  	| 104%   	| 158%   	|
 
-- **Damage per Combatant Tier**
+### Damage per Combatant Tier
 
 | Stat  	| Minor  	| Major  	| Boss   	|
 |---	|---	|---	|---	|
 | Raw  	| 15,544+2373   	|10,883+1,994   	| 10,365 + 1,899  	|
 | Total  	|17,917   	|12,877   	| 12,264    	|
-| % Increase  	| 100%  	| 72%  	| 68%  	|
+| % Change  	| base  	| 72%  	| 68%  	|
 
-- **Sustained DPS**
+### Sustained DPS
 (Using Ehroar's method)
 
 ## PvP
@@ -56,7 +56,7 @@ Testing thanks to Discord member, **Wizard Magizard**.
 | Solar    	| Golden Gun               	| 142+26 	|
 |          	| Blade Barrage           	| 73+14  	|
 | Arc      	| Arcstaff                	| 67+13  	|
-|          	| Arcstaff reflected round 	| 180+33 	|
+|          	| Arcstaff reflected round 	| 180+33!!! 	|
 | Void     	| Spectral Blades         	| 68+13  	|
 |          	| Spectral Blades (invis) 	| 65+12  	|
 |          	| Shadowshot              	| 67+13  	|
