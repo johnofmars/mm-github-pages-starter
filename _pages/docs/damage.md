@@ -33,3 +33,8 @@ As tested in the Tribute Hall
 ## PvP
 
 - Damage vs each super
+
+
+Self-Damage
+
+<=11 damage to kill your grenade round

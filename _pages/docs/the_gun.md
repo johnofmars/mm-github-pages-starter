@@ -5,6 +5,10 @@ title: "The Gun"
 
 (Under Construction)
 
+Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/3549153978) for the Fighting Lion.
+
+
+
 ## Archetype & perks
 
 Lightweight Frame
@@ -14,6 +18,16 @@ Lightweight Frame
 > Misleading, RPM is gated by reload speed, not firing rate.
 
 ## Masterwork
+
+![Masterwork](/assets/catalyst.jpg)
+
++27 Reload speed from **55** to **82**.
+
+New perk:
+> **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
+{: .notice--success}
+
+**Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw** and **Opening Shot**.
 
 ## Firing
 
@@ -31,8 +45,13 @@ Exotic Perk: Thin the Herd
 **Crucible**
 
 - Spawning Ammo:  
-- Ammo per brick:
-- Maximum Ammo:
+- Ammo per random drop brick: 8,10,15
+- Ammo per kill brick: _FULL_ (i.e. 20 to 24)
+
+- Maximum Ammo: 21 without perks
+- Maximum Ammo: 24 with double reserves
+
+
 
 ## Glitches
 
@@ -44,3 +63,5 @@ Exotic Perk: Thin the Herd
 ![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
 
 **Double Damage after death**
+
+180 + 33

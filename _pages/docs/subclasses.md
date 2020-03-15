@@ -17,3 +17,5 @@ title: "Subclasses"
 ## Titan Subclasses
 
 ## Hunter Subclasses
+
+One shot kill on reflect
