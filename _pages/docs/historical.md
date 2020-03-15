@@ -21,25 +21,21 @@ Graph of Damage Changes
 
 ## Patch notes:
 
-[Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838)
+[Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838) -_Note: Season of the Worthy patch_
 
 - Due to backend changes with the grenade launcher archetype, Fighting Lion inherited minor adjustments
 - Rate of Fire increased from 72 RPM to 90 RPM
 - Direct hit damage in PvE is now 35 (Previously 27)
 
-[Update 2.0.4](https://www.bungie.net/en/News/Article/47335)
+[Update 2.0.4](https://www.bungie.net/en/News/Article/47335) - _Note: Forsaken Cleanup patch_
 - Decreased Fighting Lion damage to be brought in line with other breach-load Grenade Launchers
 
-[Update 1.2.0](https://www.bungie.net/en/News/Article/46849)
+[Update 1.2.0](https://www.bungie.net/en/News/Article/46849) - _Note: Warmind patch_
 - Deals more blast damage and less direct hit damage
 - Increased ammo inventory
 - Increased spawn ammo
 - Kills with this weapon guarantee Energy ammo drop
 
-_Note: Warmind patch_
-
-[Update 1.1.0](https://www.bungie.net/en/News/Article/46522)
+[Update 1.1.0](https://www.bungie.net/en/News/Article/46522) - _Note: Curse of Osiris patch_
 
 - Increased Fighting Lion damage and changed Thin the Herd perk to now grant bonus ammo rather than pulling ammo from the player inventory
-
-_Note: Curse of Osiris patch_
