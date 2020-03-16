@@ -43,7 +43,10 @@ As tested in the Tribute Hall
 
 In patch 2.8.0, Titan Barricades have been given increased health to 600 hp, but now take 30% extra damage from Grenade Launchers.
 
-This means that Lion rounds now do ??? splash and ?? direct hit damage, but crucially, the damage numbers are precision yellow. This means that when you fire a shot around a shield, you can now distinguish between the damage the Titan is taking and the shield is taking.
+This means that Lion rounds now do 184 splash and 34 direct hit damage, so it will take three (3) Lion rounds to break a shield.
+
+Crucially, the damage numbers against the shield are precision yellow. This means that when you fire a shot around a shield, you can now distinguish between the damage the Titan is taking and the shield is taking.
+
 
 ### Damage vs each super
 Testing thanks to Discord member, **Wizard Magizard**.

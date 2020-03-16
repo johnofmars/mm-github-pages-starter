@@ -36,11 +36,13 @@ Exotic choices will favor one of three things:
 **Getaway Artist**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-**Sanguine Alchemy**
+**The Stag**
 [Utility](#warlock-exotics){: .btn .btn--warning}
+Empowering Rifts give a 20% damage buff, and as of patch 2.8.0 it buffs direct hit damage as well. That means a direct hit will do 170+32, or 202, enough to kill all resiliences. If you want to play a more
 
 **Lunafaction Boots**
-[Utility](#warlock-exotics){: .btn .btn--warning} [Reloading](#warlock-exotics){: .btn .btn--danger}
+[Reloading](#warlock-exotics){: .btn .btn--danger}
+Another victim of nerfs. Lunafaction rifts used to allow Lion users to become Siege Tanks and shell the blam! out of enemy targets. Sadly, they now only give an increase to reload speed.
 
 **Vertiy's Brow**
 [Utility](#warlock-exotics){: .btn .btn--warning}
@@ -48,9 +50,17 @@ Exotic choices will favor one of three things:
 **Wings of Sacred Dawn**
 [Mobility](#warlock-exotics){: .btn .btn--success}
 
+**Others**
+Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 meters if you stood in a rift. This allowed for some very fun Duck Hunt shenanigans. It's new perk of allowing indefinite rift duration with continual damage is sadly, no longer a top-tier choice for Lion users.
+
 ### Titan Exotics
+
+![Titan Exotics](/assets/images/exotic/titan.png)
 
 Peacekeepers,Lion Rampants
 
 ### Hunter Exotics
+
+![Hunter Exotics](/assets/images/exotic/Hunter.png)
+
 Lucky Pants, Mechaneer's Tricksleeves,
