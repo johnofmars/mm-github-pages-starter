@@ -1,7 +1,14 @@
 ---
 permalink: /get_started/
 title: "Get Started"
+
+header:
+  video:
+    id: DfoRT-ER5TM
+    provider: youtube
 ---
+
+{% include video id="DfoRT-ER5TM" provider="youtube" %}
 
 ## The Intro
 
