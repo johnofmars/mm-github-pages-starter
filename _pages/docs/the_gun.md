@@ -25,13 +25,31 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 {% include feature_row %}
 
 ## The Basics
-### Archetype & perks
 
-Lightweight Frame
-> Like all _lightweight_ frames in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
+### Exotic perks and Archetype
 
-~~72~~ 90 RPM
-> Misleading, RPM is gated by reload speed, not firing rate.
+The "Exotic" perk is **Delayed Gratification**, which is the same perk as **Lightweight Frame** from legendary single shot grenade launchers:
+
+>One-shot handheld Grenade Launcher with remote detonation. Hold to fire, release to detonate.
+
+Like all _lightweight_ frames in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
+
+> ~~72~~ 90 RPM like all Lightweight frames
+
+Misleading, RPM is gated by reload speed, not firing rate. See [**Reloading**](https://www.fightinglion.club/docs/the_gun/#reloading) below for more.
+
+With that out of the way, it's worth looking at the _actual_ exotic perk: **Thin the Herd**. There are three aspects and each of them is more than can be discussed in a short list.
+1. Direct hits do more damage to enemy combatant shields.
+
+  In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over an unshielded enemy and bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
+2. Rapid kills against grenade-damaged enemies refill the magazine.
+
+  This aspect of the perk is badly worded in PvE. A rapid kill after _or before_ causing damage with the target will refill it.
+  [See **Techniques** for more.](/docs/techniques/)
+3. Kills always drop Primary ammo.
+
+    There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks.
+    [See **Ammo Management** below for more.](/docs/the_gun/#ammo-management)
 
 ### Masterwork
 
@@ -45,6 +63,7 @@ New perk:
 
 **Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw** and **Opening Shot**.
 
+## Using the Guns
 ### Firing
 
 Timer
