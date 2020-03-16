@@ -83,7 +83,7 @@ Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 mete
 ![Hunter Exotics](/assets/images/exotic/hunter.png)
 
 **Dragon's Shadow**
-[Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}[Mobility](#warlock-exotics){: .btn .btn--success}
+[Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}[Mobility](#hunter-exotics){: .btn .btn--success}
 
 **Ophidian's Spathe**
 [Melee](#hunter-exotics){: .btn .btn--info}

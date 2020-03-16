@@ -17,6 +17,8 @@ title: "Techniques"
 
 ## Zoning
 
+## Close range
+
 ### Tricks
 
 -**Deflecting other Projectiles**
