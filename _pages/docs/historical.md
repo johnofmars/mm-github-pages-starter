@@ -3,10 +3,8 @@ permalink: /docs/historical/
 title: "Historical (i.e. Annotated Patch Notes)"
 ---
 
-(Under Construction)
-
 Graph of Damage Changes
-
+![Fighting Lion Damage per Patch](/assets/images/damage.png)
 
 ## Current Status:
 
