@@ -36,6 +36,12 @@ Exotic choices will favor one of three things:
 **Getaway Artist**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
+**Sanguine Alchemy**
+[Utility](#warlock-exotics){: .btn .btn--warning}
+
+**Lunafaction Boots**
+[Utility](#warlock-exotics){: .btn .btn--warning} [Reloading](#warlock-exotics){: .btn .btn--danger}
+
 **Vertiy's Brow**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
