@@ -9,7 +9,7 @@ feature_row:
     excerpt: "Grenades bounce. Delayed detonation"
   - image_path: /assets/images/thin_the_herd.png
     alt: "Thin the Herd"
-    title: "Thin the Heard"
+    title: "Thin the Herd"
     excerpt: "Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Primary ammo."
   - image_path: /assets/images/Infestation_icon.png
     alt: "Chimera"
@@ -85,12 +85,12 @@ Too close to arm
 
 **Crucible**
 
-- Spawning Ammo:  
-- Maximum Ammo: 20 without perks
-- Maximum Ammo: 24 with double reserves
+- Spawning Ammo: **9**
+- Maximum Ammo: **20** without perks
+- Maximum Ammo: **24** with double reserves
 
-- Ammo per random drop brick: 8,10,15
-- Ammo per kill brick: _FULL_ (i.e. 20 to 24)
+- Ammo per random drop brick: **8,10,15**
+- Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
 
 [Refer to Armor: Perks & Stats](/docs/armor/#perks-to-take/) for more on how to manage your ammo.
 

@@ -32,6 +32,18 @@ As tested in the Tribute Hall
 
 ## PvP
 
+### Base damage
+
+142 splash + 26 direct hit damage. [Refer to **Historical**](https://www.fightinglion.club/docs/historical/) for more information.
+
+100% Falloff is about 3.5-4 meters.
+
+### Titan Barricade Damage
+
+In patch 2.8.0, Titan Barricades have been given increased health to 600 hp, but now take 30% extra damage from Grenade Launchers.
+
+This means that Lion rounds now do ??? splash and ?? direct hit damage, but crucially, the damage numbers are precision yellow. This means that when you fire a shot around a shield, you can now distinguish between the damage the Titan is taking and the shield is taking.
+
 ### Damage vs each super
 Testing thanks to Discord member, **Wizard Magizard**.
 
