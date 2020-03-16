@@ -1,15 +1,28 @@
 ---
 permalink: /docs/the_gun/
 title: "The Gun"
+
+feature_row:
+  - image_path: /assets/images/delayed_grat.png
+    alt: "Delayed Gratification"
+    title: "Delayed Gratification"
+    excerpt: "Grenades bounce. Delayed detonation"
+  - image_path: /assets/images/thin_the_herd.png
+    alt: "Thin the Herd"
+    title: "Thin the Heard"
+    excerpt: "Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Primary ammo."
+  - image_path: /assets/images/Infestation_icon.png
+    alt: "Chimera"
+    title: "Chimera"
+    excerpt: "After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy."
+
 ---
 
 (Under Construction)
 
 Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/3549153978) for the Fighting Lion.
 
-![Delayed Gratification](/assets/images/delayed_grat.png)
-
-![Thin the Herd](/assets/images/thin_the_herd.png)
+{% include feature_row %}
 
 ## The Basics
 ### Archetype & perks
