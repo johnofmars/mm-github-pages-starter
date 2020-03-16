@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/delayed_grat.png
     alt: "Delayed Gratification"
     title: "Delayed Gratification"
-    excerpt: "Grenades bounce. Delayed detonation"
+    excerpt: "Grenades bounce. Delayed detonation."
   - image_path: /assets/images/thin_the_herd.png
     alt: "Thin the Herd"
     title: "Thin the Herd"
@@ -23,6 +23,11 @@ feature_row:
 Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/3549153978) for the Fighting Lion.
 
 {% include feature_row %}
+
+![The Stats](/assets/images/stats.png)
+
+> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values.
+{: .notice--warning}
 
 ## The Basics
 
