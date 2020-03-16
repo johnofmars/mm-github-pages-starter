@@ -73,7 +73,7 @@ New perk:
 
 - Hold to Fire, How Long to Detonate?
 
-  You can hold a grenade for 6 seconds before it times out and detonated on it's own.
+  You can hold a grenade for 6 seconds before it times out and detonates on its own.
 - Too close to arm
 
    The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
