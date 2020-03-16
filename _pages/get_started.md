@@ -1,14 +1,7 @@
 ---
 permalink: /get_started/
 title: "Get Started"
-
-header:
-  video:
-    id: DfoRT-ER5TM
-    provider: youtube
 ---
-
-{% include video id="DfoRT-ER5TM" provider="youtube" %}
 
 ## The Intro
 
@@ -39,7 +32,6 @@ Fighting Lion is primarily designed to **blint** enemies.
    * There is no proximity detonation. It has to be a direct hit to get maximum damage.
    * Unless you get a direct hit, you will need to manually detonate the grenade.
    * This can be used Explode Rounds in Doorways to block pushes or trap enemies.
-
 
 * **Damage**
 
