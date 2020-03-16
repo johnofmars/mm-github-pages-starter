@@ -19,26 +19,28 @@ Exotic choices will favor one of three things:
 
 ### Warlock Exotics
 
+![Warlock Exotics](/assets/images/exotic/warlock.png)
+
 **Ophidian Aspects**
-[Melee](#){: .btn .btn--info} [Reloading/Dexterity](#){: .btn .btn--danger}
+[Melee](#warlock-exotics){: .btn .btn--info} [Reloading/Dexterity](#warlock-exotics){: .btn .btn--danger}
 
 **Transversive Steps**
-[Reloading](#){: .btn .btn--danger} [Mobility](#){: .btn .btn--success}
+[Reloading](#warlock-exotics){: .btn .btn--danger} [Mobility](#warlock-exotics){: .btn .btn--success}
 
 **Claws of the Ahamkara**
-[Melee](#){: .btn .btn--info}
+[Melee](#warlock-exotics){: .btn .btn--info}
 
 **Nezarac's Sins**
-[Utility](#){: .btn .btn--warning}
+[Utility](#warlock-exotics){: .btn .btn--warning}
 
 **Getaway Artist**
-[Utility](#){: .btn .btn--warning}
+[Utility](#warlock-exotics){: .btn .btn--warning}
 
 **Vertiy's Brow**
-[Utility](#){: .btn .btn--warning}
+[Utility](#warlock-exotics){: .btn .btn--warning}
 
 **Wings of Sacred Dawn**
-[Mobility](#){: .btn .btn--success}
+[Mobility](#warlock-exotics){: .btn .btn--success}
 
 ### Titan Exotics
 
