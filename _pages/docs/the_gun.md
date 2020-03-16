@@ -13,7 +13,7 @@ feature_row:
     excerpt: "Direct hits do more damage to enemy combatant shields. Rapid kills against grenade-damaged enemies refill the magazine. Kills always drop Primary ammo."
   - image_path: /assets/images/Infestation_icon.png
     alt: "Chimera"
-    title: "Chimera"
+    title: "Masterwork Perk: Chimera"
     excerpt: "After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy."
 
 ---
