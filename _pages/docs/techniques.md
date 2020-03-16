@@ -5,21 +5,21 @@ title: "Techniques"
 
 (Under Construction)
 
-### Kills
+## Kills
 
-## Opening
+### Opening
 
-## Cleanup
+### Cleanup
 
-## Double Tap
+### Double Tap
 
-## Blind Firing
+### Blind Firing
 
-## Zoning
+### Zoning
 
-## Close range
+### Close range
 
-### Tricks
+## Tricks
 
 -**Deflecting other Projectiles**
 
