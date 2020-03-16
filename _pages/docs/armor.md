@@ -23,3 +23,4 @@ title: "Armor: Perks & Stats"
 
 - Grenade Launcher Scavenger
 - Excessive GL launcher reload perks
+- Concussive Dampener does NOT work in Crucible

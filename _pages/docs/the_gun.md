@@ -66,10 +66,12 @@ New perk:
 ## Using the Guns
 ### Firing
 
-Timer
+- Hold to Fire, How Long to Detonate?
 
-Too close to arm
-   * Note: The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
+  You can hold a grenade for 6 seconds before it times out and detonated on it's own.
+- Too close to arm
+
+   The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
 
 ### Reloading
 
@@ -81,7 +83,7 @@ Too close to arm
 ## The Details
 ### Ammo Management
 
-**Exotic Perk: Thin the Herd**
+**Exotic Perk: Thin the Herd** guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
 
 **Crucible**
 
@@ -92,7 +94,7 @@ Too close to arm
 - Ammo per random drop brick: **8,10,15**
 - Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
 
-[Refer to Armor: Perks & Stats](/docs/armor/#perks-to-take/) for more on how to manage your ammo.
+[Refer to Armor: Perks & Stats](/docs/armor/#perks-to-take/) for more on how to manage your ammo with perks.
 
 ### Grenade Health
 
