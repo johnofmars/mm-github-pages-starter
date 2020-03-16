@@ -20,7 +20,7 @@ Exotic choices will favor one of three things:
 ### Warlock Exotics
 
 **Ophidian Aspects**
-[Melee](){: .btn .btn--info} [Reloading](){: .btn .btn--danger} [Dexterity](){: .btn .btn--warning}
+[Melee](""){: .btn .btn--info} [Reloading](""){: .btn .btn--danger} [Dexterity](""){: .btn .btn--warning}
 
 ### Titan Exotics
 
