@@ -10,7 +10,7 @@ title: "Exotic Armor Choices"
 
 Exotic choices will favor one of three things:
 - **Reloading &/or Dexterity (for Weapon Swaps)** (like Transversive Steps or Dragon's Shadow)
-- **Synergies with melees** (Like Titan overshields)
+- **Synergies with melees or grenades** (Like Titan overshields)
 - **Mobility, but especially vertical play** (like St0mp-335)
 - **Utility, like damage buffs or other exotic perks** (like Nezarac's Sin using Lion's void damage)
 
@@ -57,10 +57,42 @@ Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 mete
 
 ![Titan Exotics](/assets/images/exotic/titan.png)
 
-Peacekeepers,Lion Rampants
+**Insurmountable Skullfort**
+[Melee](#titan-exotics){: .btn .btn--info}
+
+**Synthoceps**
+[Melee](#titan-exotics){: .btn .btn--info}
+
+**Ashen Wake**
+[Grenade](#titan-exotics){: .btn .btn--info}
+
+**Doom Fang Pauldrons**
+[Melee](#titan-exotics){: .btn .btn--info}
+
+**Lion Rampant**
+[Mobility](#titan-exotics){: .btn .btn--success}
+
+**Peacekeepers**
+[Reloading/Dexterity](#titan-exotics){: .btn .btn--danger}
 
 ### Hunter Exotics
 
-![Hunter Exotics](/assets/images/exotic/Hunter.png)
+![Hunter Exotics](/assets/images/exotic/hunter.png)
 
-Lucky Pants, Mechaneer's Tricksleeves,
+**Dragon's Shadow**
+[Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}[Mobility](#warlock-exotics){: .btn .btn--success}
+
+**Ophidian's Spathe**
+[Melee](#hunter-exotics){: .btn .btn--info}
+
+**Young Ahamkara's Spine**
+[Grenade](#hunter-exotics){: .btn .btn--info}
+
+**Mechaneer's Tricksleeves**
+[Dexterity](#hunter-exotics){: .btn .btn--danger}
+
+**FR0ST-EE5**
+[Mobility](#hunter-exotics){: .btn .btn--success}
+
+**ST0MP-EE5**
+[Mobility](#hunter-exotics){: .btn .btn--success}
