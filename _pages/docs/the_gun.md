@@ -100,7 +100,7 @@ New perk:
 
 It is possible to have your grenade shot out of the air.
 
-> The Fighting Lion grenade has <=11 hp in Crucible
+> The Fighting Lion grenade has <=11 hp in Crucible, as tested by a rapid fire SMG.
 
 ### Glitches
 
@@ -110,6 +110,7 @@ It is possible to have your grenade shot out of the air.
 **Double Impact**
 
 ![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
+Sorry, mate. One shot Lion. No clue on how to reproduce this one, but it seems to happen when someone is very close to a wall???
 
 **~~Double~~ Increased Damage after death**
 

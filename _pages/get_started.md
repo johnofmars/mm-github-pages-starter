@@ -69,3 +69,7 @@ Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
 
 ># Practice, practice, practice.
 {: .text-center}
+
+You got this!
+
+And come back when [you're ready to take the next step!](/mastery/)
