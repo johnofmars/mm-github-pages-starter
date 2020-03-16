@@ -90,8 +90,8 @@ The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloadin
 **Crucible**
 
 - Spawning Ammo: **9**
-- Maximum Ammo: **20** without perks
-- Maximum Ammo: **24** with double reserves
+- Maximum Ammo: **20**, without perks
+- Maximum Ammo: **24**, with double reserves
 
 - Ammo per random drop brick: **8,10,15**
 - Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
