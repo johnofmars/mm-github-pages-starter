@@ -25,10 +25,21 @@ Graph of Damage Changes
 - Rate of Fire increased from 72 RPM to 90 RPM
 - Direct hit damage in PvE is now 35 (Previously 27)
 
+[Festival of the Lost 2018](https://www.bungie.net/en/News/Article/47315)
+
+> Addition of the Catalyst and Prideglass ornament.
+
 [Update 2.0.4](https://www.bungie.net/en/News/Article/47335) - _Forsaken Cleanup patch_
+
 - Decreased Fighting Lion damage to be brought in line with other breach-load Grenade Launchers
 
 > This patch was in response to the fact that Fighting Lion with autoloading rifts/barricades was [doing more DPS than Power slot Grenade Launchers](https://www.reddit.com/r/DestinyTheGame/comments/9bbiwp/fighting_lion_is_currently_extremely_powerful_in/).
+
+[Update 2.0](https://www.bungie.net/en/News/Article/47127) - _Forsaken Preparation_
+
+- No explicit patch notes.
+
+> Converted Lion to use primary ammo. Increased damage.
 
 [Update 1.2.0](https://www.bungie.net/en/News/Article/46849) - _Warmind patch_
 - Deals more blast damage and less direct hit damage
