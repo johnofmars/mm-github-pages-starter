@@ -9,7 +9,7 @@ title: "Exotic Armor Choices"
 ### Considerations
 
 Exotic choices will favor one of three things:
-- **Reloading & Dexterity (for Weapon Swaps)** (like Transversive Steps or Dragon's Shadow)
+- **Reloading &/or Dexterity (for Weapon Swaps)** (like Transversive Steps or Dragon's Shadow)
 - **Synergies with melees** (Like Titan overshields)
 - **Mobility, but especially vertical play** (like St0mp-335)
 - **Utility, like damage buffs or other exotic perks** (like Nezarac's Sin using Lion's void damage)
@@ -38,7 +38,7 @@ Exotic choices will favor one of three things:
 [Utility](#){: .btn .btn--warning}
 
 **Wings of Sacred Dawn**
-[Utility](#){: .btn .btn--warning}
+[Mobility](#){: .btn .btn--success}
 
 ### Titan Exotics
 
