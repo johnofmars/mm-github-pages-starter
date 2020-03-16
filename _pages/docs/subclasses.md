@@ -16,4 +16,6 @@ title: "Subclasses"
 
 ## Titan Subclasses
 
+Healing melees
+
 ## Hunter Subclasses

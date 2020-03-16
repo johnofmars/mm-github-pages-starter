@@ -35,18 +35,17 @@ Fighting Lion is primarily designed to **blint** enemies.
 
 * **Tap to Fire.** ***NEVER, EVER DO THIS.***
 * **Hold & Release to Explode**
+
    * There is no proximity detonation. It has to be a direct hit to get maximum damage.
    * Unless you get a direct hit, you will need to manually detonate the grenade.
    * This can be used Explode Rounds in Doorways to block pushes or trap enemies.
-   >This is very important to note that *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
-   {: .notice--warning}
+
 
 * **Damage**
-   * 144 Splash and 22 for direct hit.
+
+   * 142 Splash and 26 for direct hit. That's 168 damage, so you'll need almost nothing to clean it up.
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
    * Point blank shots (typically against enemies) will damage you just as much as them, and likely get you killed.
-
-
 
 * **General advice:**
    * Be mobile! Strafe & Jump! You don't need to keep your target in your reticule after the round is off, so there's less penalty for movement.
@@ -60,6 +59,9 @@ Fighting Lion does the same damage regardless of distance, but your preferred en
 **Melee Range**
 
 Treat it like a shotgun, follow up with melee. Charged or uncharged melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
+
+>This is very important to note that the Lion takes 15m or 0.5 seconds to before manual detotation is possible. That means: *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
+{: .notice--warning}
 
 **Close Range**
 
