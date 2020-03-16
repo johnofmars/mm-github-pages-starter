@@ -30,6 +30,7 @@ As tested in the Tribute Hall
 ### Sustained DPS
 (Using Ehroar's method)
 
+
 ## PvP
 
 ### Base damage

@@ -5,7 +5,17 @@ title: "Techniques"
 
 (Under Construction)
 
+### Kills
 
+## Opening
+
+## Cleanup
+
+## Double Tap
+
+## Blind Firing
+
+## Zoning
 
 ### Tricks
 
