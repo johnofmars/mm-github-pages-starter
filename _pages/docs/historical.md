@@ -6,6 +6,8 @@ title: "Historical (i.e. Annotated Patch Notes)"
 Graph of Damage Changes
 ![Fighting Lion Damage per Patch](/assets/images/damage.png)
 
+![Stonks!](/assets/images/stonks.jpg)
+
 ## Current Status:
 
 {::options parse_block_html="false" /}

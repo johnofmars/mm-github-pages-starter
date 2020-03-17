@@ -117,6 +117,7 @@ It is possible to have your grenade shot out of the air.
 **Double Impact**
 
 ![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
+
 Sorry, mate. One shot Lion. No clue on how to reproduce this one, but it seems to happen when someone is very close to a wall???
 
 **~~Double~~ Increased Damage after death**
@@ -129,3 +130,8 @@ Watch close and you can see the Lion did 180+33, killing the Golden Gun Hunter.
 If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **142+26** damage, it will instead be **180 + 33**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
 
 _This used to be literally double damage, but since patch 2.8.0, it's merely +27% damage._
+
+
+**~~Murder~~ Friendly Fire**
+
+Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts) to receive too much change in velocity and the Architects will kill them. Only really doable in The Haul in Recknoning and Public Event lifts, and such.
