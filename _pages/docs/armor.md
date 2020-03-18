@@ -29,7 +29,6 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hEe-rTdkdn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
 ### **Reload mods**
 
 | Perks       	| Time  	| Reduction |
@@ -50,11 +49,11 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 | One Scavenger 	|       	|     	|            	|
 | Two Scavenger 	|       	|     	|            	|
 
-| Perk          	| Spawn 	| Max 	| Ammo Brick 	|
-|---------------	|-------	|-----	|------------	|
-| None          	|       	|     	|            	|
-| One Reserves  	|       	|     	|            	|
-| Two Reserves  	|       	|     	|            	|
+| Perk          	| Spawn 	| Max 	| Ammo Brick (2x primary / 1x Special) 	| Kill Brick (2x primary / 1x Special)  |
+|---------------	|-------	|-----	|------------	|------------	|
+| None          	|       	|     	|            	|            	|
+| One Reserves  	|       	|     	|            	|            	|
+| Two Reserves  	|       	|     	| 3 / 8  	|  12/24          	|
 
 ## Traction
 
