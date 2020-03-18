@@ -17,9 +17,7 @@ title: "Armor: Perks & Stats"
 
 This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). [Confirmed to work with Fighting Lion, but _not_ Mountaintop.](https://thumbs.gfycat.com/UnderstatedMarvelousIrukandjijellyfish-mobile.mp4)
 
-<figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/UnderstatedMarvelousIrukandjijellyfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-</figure>
+Also, it stacks.
 
 ![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
 > Tested with a Tier 1 combatant in the Tribute Hall. Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
