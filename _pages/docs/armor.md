@@ -26,6 +26,10 @@ Also, it stacks.
 
 You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hEe-rTdkdn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ### **Reload mods**
 
 | Perks       	| Time  	| Reduction |
