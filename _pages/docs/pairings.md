@@ -33,11 +33,15 @@ Look at difference with a low handling Redrix's Broadsword:
 
 Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon the following perks:
 
+![Chimera Perks](/assets/images/chimera_perks.png)
+
 ### Other perks
+
 **Mobility Improving**
 
 Lightweight Frames, Moving Target, Hipfire Grip
-![Chimera Perks](/assets/images/chimera_perks.png)
+
+**Damage Perks**
 
 ## Specific Recommendations
 
