@@ -27,7 +27,7 @@ Fighting Lion is primarily designed to **blint** enemies.
 ### Firing The Lion
 
 * **Tap to Fire.** ***NEVER, EVER DO THIS.***
-* **Hold & Release to Explode**
+* **Hold to Fire, Release to Detonate**
 
    * There is no proximity detonation. It has to be a direct hit to get maximum damage.
    * Unless you get a direct hit, you will need to manually detonate the grenade.

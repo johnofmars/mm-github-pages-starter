@@ -64,11 +64,15 @@ New perk:
 > **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
-**Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**.
+**Chimera** lasts for 3 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**.
 
 Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon the following perks:
 
 ![Chimera Perks](/assets/images/chimera_perks.png)
+
+It's essentially **Lucky Pants**. It's better than **Ophidian Aspect**, but can be stacked with Chimera. **Dragon's Shadow** is faster, and cannot be stacked with Chimera.
+
+For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/9ph01t/quick_breakdown_of_chimera_on_fighting_lion/) thread and [this video by Drewsky](https://youtu.be/i3zq_SWEkLM?t=273).
 
 ## Using the Gun
 ### Firing
