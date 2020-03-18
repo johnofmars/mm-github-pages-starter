@@ -80,7 +80,7 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 - Hold to Fire, Release to Detonate
   - 90% of your hits will not be full damage, but that is okay.
 - How long can you hold for detonation?
-- You can hold a grenade for 6 seconds before it times out and detonates on its own.
+  - You can hold a grenade for 6 seconds before it times out and detonates on its own.
 - Hipfire!
   - Lion is a gun that is meant to be hip-fired. The iron sights are there, but you should avoid using them. Learn the arcs and distances without it and you'll be a stronger player. Especially because hipfiring skill carries over to other guns like The Last Word, sidearms, etc.
 - Too close to arm
