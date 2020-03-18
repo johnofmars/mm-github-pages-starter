@@ -72,22 +72,21 @@ New perk:
 
 **Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**.
 
-## Using the Guns
+Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon the following perks:
+
+![Chimera Perks](/assets/images/chimera_perks.png)
+
+## Using the Gun
 ### Firing
 
 - Hold to Fire, Release to Detonate
-
+  - 90% of your hits will not be full damage, but that is okay.
 - How long can you hold for detonation?
-
-  You can hold a grenade for 6 seconds before it times out and detonates on its own.
-
+- You can hold a grenade for 6 seconds before it times out and detonates on its own.
 - Hipfire!
-
-  Lion is a gun that is meant to be hip-fired. The iron sights are there, but you should avoid using them. Learn the arcs and distances without it and you'll be a stronger player. Especially because hipfiring skill carries over to other guns like The Last Word, sidearms, etc.
-
+  - Lion is a gun that is meant to be hip-fired. The iron sights are there, but you should avoid using them. Learn the arcs and distances without it and you'll be a stronger player. Especially because hipfiring skill carries over to other guns like The Last Word, sidearms, etc.
 - Too close to arm
-
-   The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
+  - The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
 
 ### Reloading
 
