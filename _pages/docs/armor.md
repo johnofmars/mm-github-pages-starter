@@ -28,13 +28,13 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 
 ### **Reload mods**
 
-| Perk 1            	| Perk 2    	| Time  	| Reduction |
-|-------------------	|-----------	|-------	|---------	|
-| None              	| None      	| 3:05   	| _(base)_  |
-| Ophidians         	| Ophidians 	| 2:49  	| -9%      	|
-| Reloader          	| None      	| 2:32  	| -18%     	|
-| Enhanced Reloader 	| None      	| 2:29  	| -19%     	|
-| Reloader          	| Reloader  	| 2:27  	| -21%     	|
+| Perks       	| Time  	| Reduction |
+|-----------  	|-------	|---------	|
+| None        	| 3:05   	| _(base)_  |
+| Ophidians, no perks   	| 2:49  	| -9%      	|
+| 1x GL Loader  | 2:32  	| -18%     	|
+| 1x Enhanced   | 2:29  	| -19%     	|
+| 2x GL loader  | 2:27  	| -21%     	|
 
 
 
