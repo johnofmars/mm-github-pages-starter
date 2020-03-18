@@ -15,7 +15,7 @@ title: "Armor: Perks & Stats"
 (Source: Obelisks in Season of the Dawn, Vendor rank ups afterward.)
 >Grants additional Super energy on Energy or Power Grenade Launcher final blows.
 
-This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). Confirmed to work with Fighting Lion, but _not_ Mountaintop.
+This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). [Confirmed to work with Fighting Lion, but _not_ Mountaintop.](https://thumbs.gfycat.com/UnderstatedMarvelousIrukandjijellyfish-mobile.mp4)
 
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/UnderstatedMarvelousIrukandjijellyfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
