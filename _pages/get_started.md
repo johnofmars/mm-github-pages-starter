@@ -43,6 +43,7 @@ Fighting Lion is primarily designed to **blint** enemies.
    * Be mobile! Strafe & Jump! You don't need to keep your target in your reticule after the round is off, so there's less penalty for movement.
    * Peek fire! Blind Fire! After you have enough time with the gun, you'll learn when to release to explode without even seeing your target. The damage number popping up will tell you if you were successful, where the enemy is and (because it's splash damage) will tell you how many enemies are there.
    * Bounce around corners. Even over/around shields. No one can hide from Fighting Lion, lol.
+   * Hip fire! ADSing doesn't really offer much and if you get used to hip firing, you'll be able to use that same skill with other weapons like The Last Word or sidearms, etc.
 
 ## Part 2: Getting Kills
 

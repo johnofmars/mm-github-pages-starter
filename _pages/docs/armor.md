@@ -5,22 +5,103 @@ title: "Armor: Perks & Stats"
 
 (Under Construction)
 
+[Here is a breakdown](https://i.imgur.com/hixbrKA.jpg) of which mods are available in which slot and which elemental affinity.
 
 ## Perks to take:
 
-- Kinetic dexterity mods
+### Dire Artillery
+![Dire Artillery](/assets/images/dire_artillery.png)
 
+(Source: Obelisks in Season of the Dawn, Vendor rank ups afterward.)
+>Grants additional Super energy on Energy or Power Grenade Launcher final blows.
 
-**Dire Artillery**
+This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). Confirmed to work with Fighting Lion, but _not_ Mountaintop.
 
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/UnderstatedMarvelousIrukandjijellyfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 ![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
+> Tested with a Tier 1 combatant in the Tribute Hall. Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
+
+### **Unflinching mods** (but not GL unfliching)
+
+You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unfliching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
+
+### **Reload mods**
+
+### **Scavenger mods**
+
+| Perk          	| Spawn 	| Max 	| Ammo Brick 	|
+|---------------	|-------	|-----	|------------	|
+| None          	|       	|     	|            	|
+| One Scavenger 	|       	|     	|            	|
+| Two Scavenger 	|       	|     	|            	|
+
+| Perk          	| Spawn 	| Max 	| Ammo Brick 	|
+|---------------	|-------	|-----	|------------	|
+| None          	|       	|     	|            	|
+| One Reserves  	|       	|     	|            	|
+| Two Reserves  	|       	|     	|            	|
+
+## Traction
 
 ## Perks to avoid:
 
+- Ammo Finder
+  - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
 - Grenade Launcher Scavenger
+  - Only works for special ammo.
 - Excessive GL launcher reload perks
+  - Fighting Lion reload caps at 1.25 Enhanced Grenade Launcher mods. [See the **Reloading** for more detail.](/docs/the_gun/#reloading)
 - Concussive Dampener does NOT work in Crucible
+- Dexterity mods
+  - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it's diminishing returns.
+  - For more on Dexterity Perks, Freehand Mod and Quickdraw, refer to [this post on r/CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/a0itxx/massive_breakdown_of_dexterity_perks_with/)
+
+## Sample Builds
+
+**Head (any element):**
+- Enhanced Aiming Perks or 2x Regular Aiming Perks
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+**Void Gloves:**
+- Enhanced GL loader (5 energy)
+- HC Loader (3 energy) OR
+- Sniper Loader (4 energy)
+
+**Void Gloves:**
+- Enhanced GL loader (5 energy)
+- Sidearm loader (1 energy)
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+**Ophidian Aspects (Solar/Arc):**
+> Because Ophidians gives a +30 to handling and huge reload boosts, you get more bang for your buck with other perks for your grenades/melees.
+
+- Fastball (2 energy)
+- Enhanced Momentum Transfer (3 Solar energy) OR
+- Enhanced Impact Induction (5 Arc energy)
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+**Chest (any element):**
+- Unfliching
+
+**Boots with _Primary_ Ammo Kinetic Weapon (any element):**
+> With Chimera giving Quickdraw like boosts to handling, you don't need Dexterity perks, really. Additionally, GL scavenger doesn't work on Lion, since it takes Primary ammo. But honestly, there aren't a lot of options left, so take a dexterity perk anyway.
+
+- Traction (3 energy)
+- Primary Weapon Dexterity (1-2 energy)
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+**Boots with _Special_ Ammo Kinetic Weapon (any element):**
+> With Chimera giving Quickdraw like boosts to handling, you don't need Dexterity perks, really. Additionally, GL scavenger doesn't work on Lion, since it takes Primary ammo. So take a dexterity perk anyway.
+
+- Traction (3 energy)
+- Special Ammo Weapon Dexterity (2-4 energy)
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+**Void Class Item**
+> The only element and perk that has direct Lion synergy is Dire Artillery. If you don't want to use Lion as your primary means of getting kills, then build however you would otherwise.
+
+- Dire Artillery x2 (3 energy x2)
+- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)

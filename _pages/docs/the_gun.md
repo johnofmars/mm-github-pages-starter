@@ -49,8 +49,12 @@ With that out of the way, it's worth looking at the _actual_ exotic perk: **Thin
   In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over an unshielded enemy and bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
 2. Rapid kills against grenade-damaged enemies refill the magazine.
 
-  This aspect of the perk is badly worded in PvE. A rapid kill after _or before_ causing damage with the target will refill it.
+  This aspect of the perk is badly worded.
+  - If you do damage with Fighting Lion, getting a kill (against any target), will refill the magazine.
+  - A rapid kill after _or before_ causing damage with the target will refill it.
+
   [See **Techniques** for more.](/docs/techniques/)
+
 3. Kills always drop Primary ammo.
 
     There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks.
@@ -66,14 +70,21 @@ New perk:
 > **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
-**Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw** and **Opening Shot**.
+**Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**.
 
 ## Using the Guns
 ### Firing
 
-- Hold to Fire, How Long to Detonate?
+- Hold to Fire, Release to Detonate
+
+- How long can you hold for detonation?
 
   You can hold a grenade for 6 seconds before it times out and detonates on its own.
+
+- Hipfire!
+
+  Lion is a gun that is meant to be hip-fired. The iron sights are there, but you should avoid using them. Learn the arcs and distances without it and you'll be a stronger player. Especially because hipfiring skill carries over to other guns like The Last Word, sidearms, etc.
+
 - Too close to arm
 
    The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.

@@ -13,13 +13,15 @@ title: "Techniques"
 
 ### Double Tap
 
-### Blind Firing
+### Blind Firing with Radar
 
 ### Zoning
 
 ### Close range
 
 ### Team Support
+
+### PvE only: Inverted Lion
 
 ## Tricks
 
@@ -30,3 +32,8 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 <iframe src="https://giphy.com/embed/hrA9F7LEVwyEEpHqDT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **Traps**
+
+
+## Old techniques
+
+###  Lunafaction Well / Rally  barricades
