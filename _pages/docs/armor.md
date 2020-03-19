@@ -26,13 +26,13 @@ Also, it stacks.
 
 You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
 
+### **Reload mods**
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hEe-rTdkdn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-### **Reload mods**
 
 | Perks       	| Time  	| Reduction |
-|-----------  	|-------	|---------	|
+|:-----------  	|-------:	|---------:	|
 | None        	| 3:04   	| _(base)_  |
 | Ophidians, no mods   	| 2:49  	| -8%      	|
 | 1x GL Loader  | 2:32  	| -17%     	|
@@ -41,19 +41,36 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 
 Ophidians with Enhanced + Normal ==
 
-### **Scavenger mods**
+### **Scavenger & Reserve Mods**
 
-| Perk          	| Spawn 	| Max 	| Ammo Brick 	|
-|---------------	|-------	|-----	|------------	|
-| None          	|       	|     	|            	|
-| One Scavenger 	|       	|     	|            	|
-| Two Scavenger 	|       	|     	|            	|
+Two Kinds of Ammo Bricks
 
-| Perk          	| Spawn 	| Max 	| Ammo Brick (2x primary / 1x Special) 	| Kill Brick (2x primary / 1x Special)  |
-|---------------	|-------	|-----	|------------	|------------	|
-| None          	|       	|     	|            	|            	|
-| One Reserves  	|       	|     	|            	|            	|
-| Two Reserves  	|       	|     	| 3 / 8  	|  12/24          	|
+| Mod           	| Ammo Brick | Kill Brick |
+|:---------------	|	-------:	|------------:	|
+| None          	| 3 / 6 | 10 / 20 |
+| One Reserves  	| 3 / 7 | 11 / 22 |
+| Two Reserves  	| 3 / 8 |  12 / 24 |
+
+
+| Mod           	| Spawn 	| Max 	|
+|:---------------	|-------:	|-----:	|
+| None          	| 10*    	| 20    	|
+| One Reserves  	| 10*    	|  22   	|
+| Two Reserves  	| 10*    	|  24   	|
+
+* somewhat random, I've spawned with 10,11 or 12
+
+
+|  Mod         	| none 	| 1x Reserves 	| 2x Reserves 	|
+|:--------------	|------:	|-------------:	|-------------:	|
+| none         	| 7    	| 7           	| 7           	|
+| 1x Scavenger 	| 7    	| 8           	| 9           	|
+| 2x Scavenger 	| 7    	| 9           	| 9           	|
+
+**Notes:**
+- Heavy Ammo bricks and Heavey Ammo Crucible Spawns do _not_ give Lion ammo.
+- If you are empty in Crucible, you have to wait for an enemy to give you a primary brick. There is no automatic granting of ammo like in PvE.
+
 
 ## Traction
 
