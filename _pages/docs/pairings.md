@@ -35,7 +35,7 @@ Of course, there are other options to consider such as handling, engagement dist
 The Masterwork is *essential* to using the Lion in Crucible!
 
 New perk:
-> `Chimera` - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
+> **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
 `Chimera` lasts for 2 seconds after firing the Lion and gives the same bonuses as `Quick Draw`, `Snapshot Sights` and `Opening Shot`

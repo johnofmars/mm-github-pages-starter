@@ -61,7 +61,7 @@ With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin 
 +27 Reload speed from **55** to **82**.
 
 New perk:
-> `Chimera` - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
+> **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
 `Chimera` lasts for 3 seconds after firing the Lion and gives the same bonuses as `Quick Draw`, `Snapshot Sights` and `Opening Shot`.
@@ -98,7 +98,7 @@ The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloadin
 ## The Details
 ### Ammo Management
 
-`Exotic Perk: Thin the Herd` guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
+**Exotic Perk: Thin the Herd** guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
 
 **Crucible**
 
