@@ -42,6 +42,7 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 | 1x GL Loader  | 2:32  	| -17%     	|
 | 1x Enhanced   | 2:29  	| -19%     	|
 | 2x GL loader  | 2:27  	| -20%     	|
+| 2x Enhanced   | 2:26  	| -21%     	|
 
 Ophidians with Enhanced + Normal ==
 
