@@ -16,7 +16,7 @@ A perfect Lion shot in PvP will result in 168 damage. But it's also possible to 
 - Small damage follow-up
   - Picture recluse:  it's fast RPM means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
 
-Using [Mercule's Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it show Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons to show the effect between Big & Small Damage follow-ups:
+Using [Mercules' Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it determine Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons. The below charts will show the effect between Big & Small Damage follow-ups:
 
 ![STK & TTK](/assets/images/hc_ttk.png)
 
