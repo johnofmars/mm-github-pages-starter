@@ -49,7 +49,7 @@ With that out of the way, it's worth looking at the _actual_ exotic perk: **Thin
 2. Rapid kills against grenade-damaged enemies refill the magazine.
   - This aspect of the perk is badly worded.
     - If you do damage with Fighting Lion, getting a kill (against any target), will refill the magazine.
-    - A rapid kill after _or before_ causing damage with the target will refill it.[See **Techniques** for more.](/docs/techniques/)
+    - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/docs/techniques/)
 
 3. Kills always drop Primary ammo.
   - There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks. [See **Ammo Management** below for more.](/docs/the_gun/#ammo-management)
