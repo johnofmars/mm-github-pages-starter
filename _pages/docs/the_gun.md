@@ -70,7 +70,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 ![Chimera Perks](/assets/images/chimera_perks.png)
 
-It's essentially **Lucky Pants**. It's better than **Ophidian Aspect**, but can be stacked with Chimera. **Dragon's Shadow** is faster, and cannot be stacked with Chimera.
+It's essentially **Lucky Pants** 2.0 but for every weapons type. It's better than **Ophidian Aspect**, but can be stacked with Chimera. **Dragon's Shadow** is faster, and cannot be stacked with Chimera.
 
 For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/9ph01t/quick_breakdown_of_chimera_on_fighting_lion/) thread and [this video by Drewsky](https://youtu.be/i3zq_SWEkLM?t=273).
 

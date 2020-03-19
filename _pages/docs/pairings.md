@@ -8,11 +8,24 @@ title: "Weapon Pairings"
 
 ## Archetypes
 
-A perfect Lion shot in PvP will result in 168 damage. But it's also possible to get as low as 40 damage.
+A perfect Lion shot in PvP will result in 168 damage. But it's also possible to get as low as 40 damage. There are two schools of thought to this problem:
 
 - Big damage follow-up
+  - The first is a big damage follow-up, like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries are also very viable, and for big damage clean-up, a 110 RPM hand cannon's
 
 - Small damage follow-up
+  - Picture recluse:  it's fast RPM means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
+
+Using [Mercule's Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it show Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons to show the effect between Big & Small Damage follow-ups:
+
+![STK & TTK](assets/images/hc_ttk.png)
+
+As you can see:
+- you're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
+- you're _more_ likely to need a follow-up shot with a 180rpm, _but_ it'll be ready sooner.
+- Included for reference is a Lightweight RPM (like Recluse) so you can see the effect of the fasest RPM gun and how strong a fast flexible choice is as well.
+
+Of course, there are other options to consider such as handling, engagement distance, whether you want to prioritize accuracy or number of shots, etc. But with this information, you can make an informed choice.
 
 ## Distance & playstyle
 
