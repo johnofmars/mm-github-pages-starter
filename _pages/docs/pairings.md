@@ -18,7 +18,7 @@ A perfect Lion shot in PvP will result in 168 damage. But it's also possible to 
 
 Using [Mercule's Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it show Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons to show the effect between Big & Small Damage follow-ups:
 
-![STK & TTK](assets/images/hc_ttk.png)
+![STK & TTK](/assets/images/hc_ttk.png)
 
 As you can see:
 - you're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
