@@ -32,7 +32,7 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 
 ### Reload mods
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hEe-rTdkdn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/V2PZj-Wz0VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 | Perks       	| Time  	| Reduction |
@@ -43,8 +43,6 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 | 1x Enhanced   | 2:29  	| -19%     	|
 | 2x GL loader  | 2:27  	| -20%     	|
 | 2x Enhanced   | 2:26  	| -21%     	|
-
-Ophidians with Enhanced + Normal ==
 
 ### Ammo Mods (Scavenger & Reserve)
 
@@ -89,7 +87,7 @@ Two things determine how ammo will work for your lion:
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
 - Excessive GL launcher reload perks
-  - Fighting Lion reload caps at 1.25 Enhanced Grenade Launcher mods. [See the **Reloading** for more detail.](/docs/the_gun/#reloading)
+  - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/docs/armor/#reload-mods)
 - Concussive Dampener does NOT work in Crucible
 - Dexterity mods
   - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it's diminishing returns.
@@ -102,13 +100,9 @@ Two things determine how ammo will work for your lion:
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 **Void Gloves:**
-- Enhanced GL loader (5 energy)
-- HC Loader (3 energy) OR
-- Sniper Loader (4 energy)
-
-**Void Gloves:**
-- Enhanced GL loader (5 energy)
-- Sidearm loader (1 energy)
+- 1x Grenade Launcher loader (3 energy)
+- 1x HC Loader (3 energy) OR
+- 1x Sniper Loader (4 energy)
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 **Ophidian Aspects (Solar/Arc):**
