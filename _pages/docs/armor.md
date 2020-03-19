@@ -1,6 +1,12 @@
 ---
 permalink: /docs/armor/
 title: "Armor: Perks & Stats"
+
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Lion Club"
+    text: "An Exotic Grenade Launcher in Destiny 2"
 ---
 
 (Under Construction)
@@ -31,6 +37,13 @@ It works in Crucible too:
 You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
 
 ### Reload mods
+
+The Lion has two phases before another round can be fired: `Reload Delay` + `Reload Animation`. Reload Delay can be mitigated by  `Manual Reloads`, i.e. reloading as soon as you fire, not after the round explodes. We will test both the reload animation alone as well as the shot to shot time, which would include both Reload Delay and Reload Animation.
+
+
+**Reload Animation**
+This test only judges the time from the start of reload animation to return to neutral position.
+
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/V2PZj-Wz0VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
@@ -43,6 +56,18 @@ You only need to be on your target for an instant with Fighting Lion out. But th
 | 1x Enhanced   | 2:29  	| -19%     	|
 | 2x GL loader  | 2:27  	| -20%     	|
 | 2x Enhanced   | 2:26  	| -21%     	|
+
+**Fire to Fire**
+
+| Perks       	| Time  	| Reduction |
+|:-----------  	|-------:	|---------:	|
+| Hand-off reload | x  	| _(base)_  |
+| Manual reload   | x  	| x  	|
+| Ophidians, no mods   	| x  	| x  	|
+| 1x GL Loader  | x  	| x  	|
+| 1x Enhanced   | x  	| x  	|
+| 2x GL loader  | x  	| x  	|
+| 2x Enhanced   | x  	| x  	|
 
 ### Ammo Mods (Scavenger & Reserve)
 

@@ -8,6 +8,8 @@ title: "Weapon Pairings"
 
 ## Archetypes
 
+A perfect Lion shot in PvP will result in 168 damage. But it's also possible to get as low as 40 damage.
+
 - Big damage follow-up
 
 - Small damage follow-up

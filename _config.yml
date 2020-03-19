@@ -24,6 +24,8 @@ github_username: johnofmars
 minimal_mistakes_skin: dark
 search: true
 
+teaser: /assets/images/500x300.png
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
