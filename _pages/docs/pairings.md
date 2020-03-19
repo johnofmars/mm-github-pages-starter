@@ -5,6 +5,12 @@ title: "Weapon Pairings"
 
 (Under Construction)
 
+To help you pick a weapon for pairing with your Lion, we're going to do look at 3 things:
+- Preferred Engagement Distance and Playstyle
+- Archetypes
+- Perks
+
+And then end with some of my favorites.
 
 ## Archetypes
 
@@ -57,6 +63,10 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 Lightweight Frames, Moving Target, Hipfire Grip
 
 **Damage Perks**
+
+**Utility perks**
+
+Auto-loading holster
 
 ## Specific Recommendations
 
