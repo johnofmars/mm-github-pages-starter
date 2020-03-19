@@ -7,7 +7,7 @@ title: "Become a Master"
 - [Techniques](/docs/techniques/)
 - [Detailed Damage Analysis](/docs/damage/)
 - [Weapon Pairings](/docs/pairings/)
-- [Armor: Perks & Stats](/docs/armor/)
+- [Armor: Mods & Stats](/docs/armor/)
 - [Exotic Armor Choices](/docs/exotics/)
 - [Subclasses](/docs/subclasses/)
 - [Videos](/docs/videos/)
