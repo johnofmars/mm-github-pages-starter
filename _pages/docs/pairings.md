@@ -23,7 +23,7 @@ Using [Mercule's Massive Breakdown Weapons Stats Spreadsheet](https://docs.googl
 As you can see:
 - you're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
 - you're _more_ likely to need a follow-up shot with a 180rpm, _but_ it'll be ready sooner.
-- Included for reference is a Lightweight RPM (like Recluse) so you can see the effect of the fasest RPM gun and how strong a fast flexible choice is as well.
+- Included for reference is a Lightweight RPM (like Recluse), shooting at 80% accuracy, so you can see the effect of the fastest RPM gun and how strong a fast flexible choice is as well.
 
 Of course, there are other options to consider such as handling, engagement distance, whether you want to prioritize accuracy or number of shots, etc. But with this information, you can make an informed choice.
 
