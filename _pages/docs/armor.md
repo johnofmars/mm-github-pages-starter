@@ -1,12 +1,6 @@
 ---
 permalink: /docs/armor/
 title: "Armor: Perks & Stats"
-
-sidebar:
-  - title: "Fighting Lion"
-    image: /assets/images/sidebar_photo.png
-    image_alt: "Lion Club"
-    text: "An Exotic Grenade Launcher in Destiny 2"
 ---
 
 (Under Construction)

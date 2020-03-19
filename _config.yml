@@ -24,7 +24,7 @@ github_username: johnofmars
 minimal_mistakes_skin: dark
 search: true
 
-teaser: /assets/images/500x300.png
+teaser: /assets/images/teaser.jpg
 
 # Build settings
 markdown: kramdown
