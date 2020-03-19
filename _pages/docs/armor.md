@@ -1,6 +1,6 @@
 ---
 permalink: /docs/armor/
-title: "Armor: Perks & Stats"
+title: "Armor: Mods & Stats"
 ---
 
 (Under Construction)
@@ -101,7 +101,7 @@ Two things determine how ammo will work for your lion:
 
 ### Traction
 
-## Perks to avoid:
+## Mods to avoid:
 
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
@@ -154,3 +154,5 @@ Two things determine how ammo will work for your lion:
 
 - Dire Artillery x2 (3 energy x2)
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
+
+## Stats

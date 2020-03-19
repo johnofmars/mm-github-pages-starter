@@ -50,8 +50,7 @@ This means that Lion rounds now do 184 splash and 34 direct hit damage, so it wi
 Crucially, the damage numbers against the shield are precision yellow. This means that when you fire a shot around a shield, you can now distinguish between the damage the Titan is taking and the shield is taking.
 
 
-### Damage vs each super
-Testing thanks to Discord member, **Wizard Magizard**.
+### Damage vs each Super
 
 **Warlock**
 
