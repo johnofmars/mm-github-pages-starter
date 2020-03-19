@@ -87,8 +87,6 @@ Two things determine how ammo will work for your lion:
 
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
-- Grenade Launcher Scavenger
-  - Only works for special ammo.
 - Excessive GL launcher reload perks
   - Fighting Lion reload caps at 1.25 Enhanced Grenade Launcher mods. [See the **Reloading** for more detail.](/docs/the_gun/#reloading)
 - Concussive Dampener does NOT work in Crucible
