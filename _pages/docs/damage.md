@@ -1,6 +1,7 @@
 ---
 permalink: /docs/damage/
 title: "Detailed Damage Analysis"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

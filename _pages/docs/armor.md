@@ -1,6 +1,7 @@
 ---
 permalink: /docs/armor/
 title: "Armor: Mods & Stats"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

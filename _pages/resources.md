@@ -1,6 +1,7 @@
 ---
 permalink: /resources/
 title: "Resources"
+teaser: /assets/images/teaser.jpg
 ---
 
 - [Lore](/docs/lore/)

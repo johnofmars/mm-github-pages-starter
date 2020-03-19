@@ -1,6 +1,7 @@
 ---
 permalink: /mastery/
 title: "Become a Master"
+teaser: /assets/images/teaser.jpg
 ---
 
 - [The Gun](/docs/the_gun/)

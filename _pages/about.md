@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+teaser: /assets/images/teaser.jpg
 ---
 
 John of Mars fell in love with Fighting Lion in January 2018 and has praised it ever since.

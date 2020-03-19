@@ -1,6 +1,7 @@
 ---
 permalink: /docs/subclasses/
 title: "Subclasses"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

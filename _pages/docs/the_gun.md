@@ -1,6 +1,7 @@
 ---
 permalink: /docs/the_gun/
 title: "The Gun"
+teaser: /assets/images/teaser.jpg
 
 feature_row:
   - image_path: /assets/images/delayed_grat.png

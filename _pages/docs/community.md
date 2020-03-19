@@ -1,6 +1,7 @@
 ---
 permalink: /docs/community/
 title: "Community"
+teaser: /assets/images/teaser.jpg
 ---
 
 [![Subreddit](/assets/images/reddit.png)](https://www.reddit.com/r/FightingLion/)

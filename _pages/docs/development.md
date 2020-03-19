@@ -1,6 +1,7 @@
 ---
 permalink: /docs/development/
 title: "Development"
+teaser: /assets/images/teaser.jpg
 
 gallery:
   - url: /assets/images/propipe1.png

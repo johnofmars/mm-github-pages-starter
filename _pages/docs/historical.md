@@ -1,6 +1,7 @@
 ---
 permalink: /docs/historical/
 title: "Historical (i.e. Annotated Patch Notes)"
+teaser: /assets/images/teaser.jpg
 ---
 
 Graph of Damage Changes

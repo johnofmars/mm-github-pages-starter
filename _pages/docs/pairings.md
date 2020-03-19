@@ -1,6 +1,7 @@
 ---
 permalink: /docs/pairings/
 title: "Weapon Pairings"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

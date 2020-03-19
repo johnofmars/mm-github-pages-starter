@@ -1,6 +1,7 @@
 ---
 permalink: /docs/videos/
 title: "Videos"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

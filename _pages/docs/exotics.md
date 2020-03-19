@@ -1,6 +1,7 @@
 ---
 permalink: /docs/exotics/
 title: "Exotic Armor Choices"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

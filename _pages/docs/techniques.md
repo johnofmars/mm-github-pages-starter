@@ -1,6 +1,7 @@
 ---
 permalink: /docs/techniques/
 title: "Techniques"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)

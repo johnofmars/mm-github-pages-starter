@@ -1,6 +1,7 @@
 ---
 permalink: /docs/other_guides/
 title: "Other Guides"
+teaser: /assets/images/teaser.jpg
 ---
 
 (Under Construction)
