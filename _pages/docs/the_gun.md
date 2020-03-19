@@ -33,17 +33,17 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ### Exotic perks and Archetype
 
-The "Exotic" perk is **Delayed Gratification**, which is the same perk as **Lightweight Frame** from legendary single shot grenade launchers:
+The "Exotic" perk is `Delayed Gratification`, which is the same perk as `Lightweight Frame` from legendary single shot grenade launchers:
 
 >One-shot handheld Grenade Launcher with remote detonation. Hold to fire, release to detonate.
 
-Like all _lightweight_ frames in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
+Like all `Lightweight Frames` in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
 
 > ~~72~~ 90 RPM like all Lightweight frames
 
 Misleading, RPM is gated by reload speed, not firing rate. See [**Reloading**](https://www.fightinglion.club/docs/the_gun/#reloading) below for more.
 
-With that out of the way, it's worth looking at the _actual_ exotic perk: **Thin the Herd**. There are three aspects and each of them is more than can be discussed in a short list.
+With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin the Herd`. There are three aspects and each of them is more than can be discussed in a short list.
 1. Direct hits do more damage to enemy combatant shields.
   - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over an unshielded enemy and bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
 2. Rapid kills against grenade-damaged enemies refill the magazine.
@@ -61,10 +61,10 @@ With that out of the way, it's worth looking at the _actual_ exotic perk: **Thin
 +27 Reload speed from **55** to **82**.
 
 New perk:
-> **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
+> `Chimera` - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
-**Chimera** lasts for 3 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**.
+`Chimera` lasts for 3 seconds after firing the Lion and gives the same bonuses as `Quick Draw`, `Snapshot Sights` and `Opening Shot`.
 
 Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon the following perks:
 
@@ -92,13 +92,13 @@ The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloadin
 
 [Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
 
-> **Disclosure** Scripts are not legal in Destiny, especially in Pvp. As such, using them, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
+> **Disclosure** Scripts are not legal in Destiny, especially in PvP. As such, using them, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
 {: .notice--warning}
 
 ## The Details
 ### Ammo Management
 
-**Exotic Perk: Thin the Herd** guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
+`Exotic Perk: Thin the Herd` guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
 
 **Crucible**
 

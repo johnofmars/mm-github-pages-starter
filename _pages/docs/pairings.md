@@ -14,7 +14,7 @@ A perfect Lion shot in PvP will result in 168 damage. But it's also possible to 
   - The first is a big damage follow-up, like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries are also very viable, and for big damage clean-up, a 110 RPM hand cannon's
 
 - Small damage follow-up
-  - Picture recluse:  it's fast RPM means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
+  - Picture **Recluse**:  its fast 900 RPM means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
 
 Using [Mercules' Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it determine Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons. The below charts will show the effect between Big & Small Damage follow-ups:
 
@@ -35,12 +35,12 @@ Of course, there are other options to consider such as handling, engagement dist
 The Masterwork is *essential* to using the Lion in Crucible!
 
 New perk:
-> **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
+> `Chimera` - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
-**Chimera** lasts for 2 seconds after firing the Lion and gives the same bonuses as **Quick Draw**, **Snapshot Sights** and **Opening Shot**
+`Chimera` lasts for 2 seconds after firing the Lion and gives the same bonuses as `Quick Draw`, `Snapshot Sights` and `Opening Shot`
 
-Look at difference with a low handling Redrix's Broadsword:
+Look at difference with a low handling **Redrix's Broadsword**:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/QvxoTAA"><a href="//imgur.com/a/QvxoTAA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
