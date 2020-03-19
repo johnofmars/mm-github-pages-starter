@@ -16,3 +16,4 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 
 - **SunSun** for testing and editing.
 - **Wizard Magizard** for PvP damage & glitch testing.
+- **Prostate Puncher** for PvP testing and Video Editing Software.
