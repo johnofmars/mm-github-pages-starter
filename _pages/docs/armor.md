@@ -22,6 +22,10 @@ Also, it stacks.
 ![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
 > Tested with a Tier 1 combatant in the Tribute Hall. Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
 
+It works in Crucible too:
+![No Mods](/assets/images/crucible_nomods.png)
+![2 Mods](/assets/images/crucible_2mods.png)
+
 ### **Unflinching mods** (but not GL unflinching)
 
 You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
