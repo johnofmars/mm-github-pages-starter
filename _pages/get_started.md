@@ -54,7 +54,7 @@ Fighting Lion does the same damage regardless of distance, but your preferred en
 
 Treat it like a shotgun, follow up with melee. Charged or uncharged melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
 
->It is very important to note that the Lion takes 15m or 0.5 seconds to before manual detonation is possible. That means: *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
+>It is very important to note that the Lion takes 15m or 0.5 seconds to arm before manual detonation is possible. That means: *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
 {: .notice--warning}
 
 **Close Range**
