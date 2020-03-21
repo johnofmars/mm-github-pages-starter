@@ -25,7 +25,7 @@ Exotic choices will favor one of three things:
 **Ophidian Aspects**
 [Melee](#warlock-exotics){: .btn .btn--info} [Reloading/Dexterity](#warlock-exotics){: .btn .btn--danger}
 
-If you prefer a strong neutral game, then Ophidians are for you. Giving +30 reload and strong handling bonuses, they’re a natural fit for Lion’s **blint** play style. That inherent reload speed buff is approximately 50% of the Fighting Lion’s reload cap. And you can stack mods to increase it.
+If you prefer a strong neutral game, then Ophidians are for you. Giving +30 reload and strong handling bonuses, they’re a natural fit for Lion’s **blint** play style. That inherent reload speed buff is approximately 50% of the Fighting Lion’s reload cap. And you can stack mods to increase it. Don’t forget about the extended melee range!
 
 **Transversive Steps**
 [Reloading](#warlock-exotics){: .btn .btn--danger} [Mobility](#warlock-exotics){: .btn .btn--success}
@@ -78,22 +78,32 @@ Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 mete
 **Insurmountable Skullfort**
 [Melee](#titan-exotics){: .btn .btn--info}
 
+Melee synergy with Arc health regeneration.
+
 **Synthoceps**
 [Melee](#titan-exotics){: .btn .btn--info}
+
+Melee synergy with long range melees.
 
 **Ashen Wake**
 [Grenade](#titan-exotics){: .btn .btn--info}
 
-The new Titan terror. Getting a kill with a sticky grenade
+The new Titan terror. Getting a kill with a sticky grenade recharges your grenade. And since sticky grenades do 140+ damage, they’re perfect for clean-up.  Don’t forget `Fastball` perk on your gloves.
 
 **Doom Fang Pauldrons**
 [Melee](#titan-exotics){: .btn .btn--info}
 
+Melee synergy with Super regeneration.
+
 **Lion Rampant**
 [Mobility](#titan-exotics){: .btn .btn--success}
 
+Okay, so it’s not Ramparts, it’s Rampant. In Hearldry, Rampant means a Lion rearing up on its rear legs, which fits this exotic perfectly. Gain the Warlock `Strafe Glide` jump and increased in-air accuracy. A perfect fit for Lion users.
+
 **Peacekeepers**
 [Reloading/Dexterity](#titan-exotics){: .btn .btn--danger}
+
+SMGs are a great pairing with Lion, so getting auto-loading SMGs is perfect.
 
 ### Hunter Exotics
 
@@ -101,6 +111,8 @@ The new Titan terror. Getting a kill with a sticky grenade
 
 **Dragon's Shadow**
 [Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}[Mobility](#hunter-exotics){: .btn .btn--success}
+
+Top-tier choice for Hunters. Reload all weapons and gain MAXIMUM bonuses to handling and increased agility. Start here.
 
 **Ophidian's Spathe**
 [Melee](#hunter-exotics){: .btn .btn--info}
@@ -114,5 +126,9 @@ The new Titan terror. Getting a kill with a sticky grenade
 **FR0ST-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}
 
+An understated exotic, but sprinting increasing abilities is a great synergy.
+
 **ST0MP-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}
+
+Another top-tier choice. Increased jump height is perfect for using Lion and other hip-fire/Icarus weapons.
