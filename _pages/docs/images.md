@@ -24,6 +24,12 @@ gallery:
     image_path: /assets/images/memes/hammer.jpg
   - url: /assets/images/memes/the_boys.JPG
     image_path: /assets/images/memes/the_boys.JPG
+  - url: /assets/images/memes/letmein.jpg
+    image_path: /assets/images/memes/letmein.jpg
+  - url: /assets/images/memes/bank_those.jpg
+    image_path: /assets/images/memes/bank_those.jpg
+  - url: /assets/images/memes/bernie.jpg
+    image_path: /assets/images/memes/bernie.jpg
 
 gallery2:
 - url: /assets/images/memes/lion_wapp.png
