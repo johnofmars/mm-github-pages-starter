@@ -125,7 +125,7 @@ Exotic choices will favor one of three things:
 	-  If Fighting Lion is all about using geometry, then this exotic is the same. Use your sticky nades to start or clean-up Lion kills.
 
 - **Mechaneer's Tricksleeves**
-[Dexterity](#hunter-exotics){: .btn .btn--danger}
+[Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}
 
 	-  A year one exotic for Sidearms that’s never been meta. But they’re a great fit for Lion. Increased swap & reload time for sidearms is good enough, but that’s the basic stuff. The bonus is that your sidearm gets extra damage if you swap while critically wounded, which is a common use case for Fighting Lion.
 
