@@ -19,7 +19,7 @@ feature_row:
 
 ---
 
-(Under Construction)
+Let's get started.
 
 Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/3549153978) for the Fighting Lion.
 
