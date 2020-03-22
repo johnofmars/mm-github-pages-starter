@@ -16,8 +16,8 @@ gallery:
     image_path: /assets/images/memes/safari.png
   - url: /assets/images/memes/two_points.jpg
     image_path: /assets/images/memes/two_points.jpg
-  - url: /assets/images/memes/lion_cult.png
-    image_path: /assets/images/memes/lion_cult.png
+  - url: /assets/images/memes/lion_cult.jpg
+    image_path: /assets/images/memes/lion_cult.jpg
   - url: /assets/images/memes/smoothie.jpg
     image_path: /assets/images/memes/smoothie.jpg
   - url: /assets/images/memes/hammer.jpg
