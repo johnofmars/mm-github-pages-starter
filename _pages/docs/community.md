@@ -26,3 +26,12 @@ The place for theory-crafting, meming, shit-talking Jötunn and just hanging out
 - [Light.gg](https://www.light.gg/db/items/3549153978/fighting-lion/)'s database entry for Fighting Lion
 - [Destiny Tracker](https://destinytracker.com/destiny-2/db/items/3549153978?perks=425960662,3809316345,3492396210,2003108620,1067908860,0,3034617041,924149234)'s database entry for Fighting Lion
 - [Promethean, The Archival Mind](https://www.youtube.com/channel/UCdg1JKoKDFiNhPTFVHtoSpQ) is a source for all the non-soundtrack music in the game.
+
+
+## Think you're hardcore?
+
+I did,  until I joined the community and met people this:
+
+![360k](https://i.redd.it/kg27dl7omej41.png)
+
+To my friends, I'm a hardcore Lion user. To this community, I'm a casual, lol.
