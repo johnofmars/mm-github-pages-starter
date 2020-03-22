@@ -14,16 +14,16 @@ gallery:
     image_path: /assets/images/memes/hulk.png
   - url: /assets/images/memes/safari.png
     image_path: /assets/images/memes/safari.png
-  - url: /assets/images/memes/two_points.png
-    image_path: /assets/images/memes/two_points.png
+  - url: /assets/images/memes/two_points.jpg
+    image_path: /assets/images/memes/two_points.jpg
   - url: /assets/images/memes/lion_cult.png
     image_path: /assets/images/memes/lion_cult.png
   - url: /assets/images/memes/smoothie.jpg
     image_path: /assets/images/memes/smoothie.jpg
   - url: /assets/images/memes/hammer.jpg
     image_path: /assets/images/memes/hammer.jpg
-  - url: /assets/images/memes/the_boys.jpg
-    image_path: /assets/images/memes/the_boys.jpg
+  - url: /assets/images/memes/the_boys.JPG
+    image_path: /assets/images/memes/the_boys.JPG
 
 gallery2:
 - url: /assets/images/memes/lion_wapp.png
@@ -37,13 +37,17 @@ gallery2:
 The best way to spread a message in the 21st century is memes, and so here we go:
 
 ## Memes I've made
+
 {% include gallery caption="These are memes I made." %}
 
 ## Community Memes
 
 [![JagJon](https://i.redd.it/8xn4zaihuyy31.png)](https://www.reddit.com/r/FightingLion/comments/dx1g90/only_in_dreams/)
-Check out all the best on r/FightingLion
+
+Check out all the best on [r/FightingLion](https://www.reddit.com/r/FightingLion/top/?t=all).
 
 {% include gallery id="gallery2" caption="These are my Lion wallpapers. I'm bi, if you're curious about the pink,purple,blue roses one. ;)" %}
 
-![nut](/assets/images/memes/fighting_nut.png)
+## How I play Destiny 2
+
+![nut](/assets/images/memes/fighting_nut.gif)
