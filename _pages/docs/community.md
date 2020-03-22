@@ -35,3 +35,22 @@ I did,  until I joined the community and met people this:
 ![360k](https://i.redd.it/kg27dl7omej41.png)
 
 To my friends, I'm a hardcore Lion user. To this community, I'm a casual, lol.
+
+
+## The Feud
+
+The Fighting Lion maintains a friendly war with Jotunn users.
+
+[![chad lion](https://i.redd.it/kp2jpwcsdcu31.png)](https://www.reddit.com/r/FightingLion/comments/dm4ax9/down_with_jotunn/)
+
+Let's see:
+
+|            	| Fighting Lion     	| Jotunn    	|
+|------------	|-------------------	|-----------	|
+| Ammo       	| Primary           	| Special   	|
+| Aiming     	| PhD in Geometry   	| Nah       	|
+| Detonation 	| Intuition & Heart 	| Proximity 	|
+| Damage     	| Blint             	| One-shot  	|
+
+**Winner**: _Fighting Lion!_
+**Loser**: No skill Jotunn!

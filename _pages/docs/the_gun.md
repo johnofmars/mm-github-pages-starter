@@ -143,4 +143,8 @@ _This used to be literally double damage, but since patch 2.8.0, it's merely +27
 
 **~~Murder~~ Friendly Fire**
 
-Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts) to receive too much change in velocity and the Architects will kill them. Only really doable in The Haul in Recknoning and Public Event lifts, and such.
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/ivinganchoredaustraliancurlew' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts) to receive too much change in velocity and the Architects will kill them. Only really doable in The Haul in Recknoning and Public Event lifts, and such. Sorry,,,

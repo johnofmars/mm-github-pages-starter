@@ -42,7 +42,11 @@ As tested in the Tribute Hall
 
 100% Falloff is about 3.5-4 meters.
 
-### Titan Barricade Damage
+### Rifts & Weapons of Light
+
+
+
+### Damage Against Titan Barricades
 
 In patch 2.8.0, Titan Barricades have been given increased health to 600 hp, but now take 30% extra damage from Grenade Launchers.
 

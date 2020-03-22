@@ -156,4 +156,16 @@ Two things determine how ammo will work for your lion:
 - Dire Artillery x2 (3 energy x2)
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
+## Charged with Light Build
+Courtesy of u/Sunsun
+
+- 1x High Energy Fire, 1x Protective Light, and either 2x Blast Radius (double solar) or 1x Blast Radius, 1x Stacks on Stacks (one solar, one void for GL affinity)
+- In total requires 4 pieces of armor, leaving your Exotic open, and only requires one or two solar so you can spec GLs
+- I typically go GL loader gauntlets with High Energy Fire, double Dire Artillery class item with Protective Light, and solar chest and boots for Blast Radius, leaving my helmet on Warlock for Nezarec's Sin, which cannot take a Seasonal mod.
+
 ## Stats
+
+Top 3:
+1. Mobility
+2. Recovery
+3. Strength or Discipline, depending on your subclass & playstyle
