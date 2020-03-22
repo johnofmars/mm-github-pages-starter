@@ -30,7 +30,7 @@ gallery2:
 
 ---
 
-(Under Construction)
+The best way to spread a message in the 21st century is memes, and so here we go:
 
 ## Memes I've made
 {% include gallery caption="These are memes I made." %}
@@ -41,3 +41,5 @@ gallery2:
 Check out all the best on r/FightingLion
 
 {% include gallery id="gallery2" caption="These are my Lion wallpapers. I'm bi, if you're curious about the pink,purple,blue roses one. ;)" %}
+
+![nut](/assets/images/memes/fighting_nut.png)
