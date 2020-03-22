@@ -91,9 +91,9 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 
 The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloading. [Testing by the Fighting Lion community](https://www.reddit.com/r/FightingLion/comments/f7ls48/fighting_lions_reload_speed_and_the_upcoming_buffs/) pegs the actual RPM as 40.5 RPM.
 
-[Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/fgl9sm/autolion_v25_weapon_toggle/)
+[Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/f5a5ba/autolion_v2/)
 
-> **Disclosure** Scripts are not legal in Destiny, especially in PvP. As such, using them, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
+> **Disclosure** Bungie's stance on scripting is really unclear since Titan Skate macro users weren't punished in any way, and manual reload is technically possible without the script. There's nothing in here about aiming or exploiting code. Using a macro, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
 {: .notice--warning}
 
 ## The Details

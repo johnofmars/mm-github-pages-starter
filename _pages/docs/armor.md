@@ -157,7 +157,7 @@ Two things determine how ammo will work for your lion:
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 ## Charged with Light Build
-Courtesy of u/Sunsun
+Courtesy of **u/Sunsun**
 
 - 1x High Energy Fire, 1x Protective Light, and either 2x Blast Radius (double solar) or 1x Blast Radius, 1x Stacks on Stacks (one solar, one void for GL affinity)
 - In total requires 4 pieces of armor, leaving your Exotic open, and only requires one or two solar so you can spec GLs
