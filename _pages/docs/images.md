@@ -20,6 +20,10 @@ gallery:
     image_path: /assets/images/memes/lion_cult.png
   - url: /assets/images/memes/smoothie.jpg
     image_path: /assets/images/memes/smoothie.jpg
+  - url: /assets/images/memes/hammer.jpg
+    image_path: /assets/images/memes/hammer.jpg
+  - url: /assets/images/memes/the_boys.jpg
+    image_path: /assets/images/memes/the_boys.jpg
 
 gallery2:
 - url: /assets/images/memes/lion_wapp.png
