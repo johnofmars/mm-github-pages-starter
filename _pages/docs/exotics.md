@@ -30,7 +30,7 @@ If you prefer a strong neutral game, then Ophidians are for you. Giving +30 relo
 **Transversive Steps**
 [Reloading](#warlock-exotics){: .btn .btn--danger} [Mobility](#warlock-exotics){: .btn .btn--success}
 
-Sprint faster, after sprinting for 2 seconds, your currently equipped weapon is reloaded. Lion has a minimum 2.5 second reload, so this is already a savings.
+Sprint faster, after sprinting for 2 seconds, your currently equipped weapon is reloaded. Lion has a minimum 2.5 second reload, so this is already a savings. This is an incredibly strong choice for Trials/Survival where you need to quickly re-engage and don’t always have the time for Lion’s long reload.
 
 **Claws of the Ahamkara**
 [Melee](#warlock-exotics){: .btn .btn--info}
@@ -65,7 +65,7 @@ Recently reworked in 2.8.0. Energy weapon kills give up to 3x stacks. Each stack
 **Wings of Sacred Dawn**
 [Mobility](#warlock-exotics){: .btn .btn--success}
 
-Aiming down sights holds you in place in mind-air and gives you incoming 15% damage reduction. But, you are incredibly exposed while this happens, so it has a very high risk component. Use sparingly and with a hip-fire weapon as possible. Use `Strafe` glide to expand your maneuverability when not holding in air. All that said, you can do some very cool plays such as holding above door frames and choke points. Don’t activate in the middle of the open of Bannerfall’s courtyard.
+Aiming down sights holds you in place in mind-air and gives you incoming 15% damage reduction. But, you are incredibly exposed while this happens, so it has a very high risk component. _The choice_ for Snipelion users. Use the hold perk sparingly and with a hip-fire weapon as possible. Use top tree Dawnblade and `Strafe` glide to expand your maneuverability when not holding in air. All that said, you can do some very cool plays such as holding above door frames and choke points. Don’t activate in the middle of the open of Bannerfall’s courtyard.
 
 **Others**
 
@@ -109,26 +109,32 @@ SMGs are a great pairing with Lion, so getting auto-loading SMGs is perfect.
 
 ![Hunter Exotics](/assets/images/exotic/hunter.png)
 
-**Dragon's Shadow**
+- **Dragon's Shadow**
 [Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}[Mobility](#hunter-exotics){: .btn .btn--success}
 
-Top-tier choice for Hunters. Reload all weapons and gain MAXIMUM bonuses to handling and increased agility. Start here.
+	- Top-tier choice for Hunters. Reload all weapons and gain MAXIMUM bonuses to handling and increased agility. Start here.
 
-**Ophidian's Spathe**
+- **Ophidian's Spathe**
 [Melee](#hunter-exotics){: .btn .btn--info}
 
-**Young Ahamkara's Spine**
+	-  An extra knife charge is a strong way to clean up Lion kills.
+
+- **Young Ahamkara's Spine**
 [Grenade](#hunter-exotics){: .btn .btn--info}
 
-**Mechaneer's Tricksleeves**
+	-  If Fighting Lion is all about using geometry, then this exotic is the same. Use your sticky nades to start or clean-up Lion kills.
+
+- **Mechaneer's Tricksleeves**
 [Dexterity](#hunter-exotics){: .btn .btn--danger}
 
-**FR0ST-EE5**
+	-  A year one exotic for Sidearms that’s never been meta. But they’re a great fit for Lion. Increased swap & reload time for sidearms is good enough, but that’s the basic stuff. The bonus is that your sidearm gets extra damage if you swap while critically wounded, which is a common use case for Fighting Lion.
+
+- **FR0ST-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}
 
-An understated exotic, but sprinting increasing abilities is a great synergy.
+	-  An understated exotic, but sprinting increasing abilities is a great synergy.
 
-**ST0MP-EE5**
+- **ST0MP-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}
 
-Another top-tier choice. Increased jump height is perfect for using Lion and other hip-fire/Icarus weapons.
+	-  Another top-tier choice. Increased jump height is perfect for using Lion and other hip-fire/Icarus weapons.
