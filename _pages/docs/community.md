@@ -53,4 +53,5 @@ Let's see:
 | Damage     	| Blint             	| One-shot  	|
 
 **Winner**: _Fighting Lion!_
+
 **Loser**: No skill Jotunn!
