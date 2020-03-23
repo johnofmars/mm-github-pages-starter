@@ -67,4 +67,4 @@ Antaeus Wards will ruin your day.
   <iframe src='https://gfycat.com/ifr/bigpaltryerin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-Lunafaction Rifts and
+Lunafaction Rifts and Rally Barricades used to auto-matically reload weapons. And for Fighting Lion, that turned it into a Siege Tank. Those days are over as of _Year 3: Shadowkeep_.
