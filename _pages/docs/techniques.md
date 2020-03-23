@@ -31,7 +31,9 @@ Enemy got away with just a bit of health, but he's hiding, huh. **Cover does not
   <iframe src='https://gfycat.com/ifr/enchantingqueasyafricanfisheagle' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-### Zoning
+### Zoning (Deterring Pushes)
+
+Not gonna waste your space & bandwidth with a video for this one. Detonate Lion rounds in doorways to prevent people from pushing.
 
 ### Super Long Range
 <figure class="video_container">
@@ -65,19 +67,19 @@ This is one of the trickiest situations for Lion users. Your enemy is close rang
   <iframe src='https://gfycat.com/ifr/delectablecapitaljunco' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-Lion has perfect hip-fire accuracy, and even imperfect detonations do massive damage. So keep moving, move unpredictably and use your enemy's weapon range against them.
+It is very easy to hang back and play passive, but that is not how you win. Lion has perfect hip-fire accuracy, and even imperfect detonations do massive damage. So keep moving, move unpredictably and use your enemy's weapon range against them.
 
-### Up High
+### Vertical Play!
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/regularinfinitearchaeocete' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 Lion has no in-air accuracy penalties. Pair it with other weapons with low/no in-air accuracy penalties, such as sidearms, SMGs, 180rpm hand cannons, etc.
 
-### Use Cover
+### Use Cover!
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/halfplaintivedachshund' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/unsteadyfixedgrasshopper' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 A sniper poking out of cover has to aim. A hand cannon user has to be out of cover has to aim for three (3) shots minimum. A lion user? Just poke and hop twice (2) and you can get your kill. Just remember, you'll be doing it blind, so learn your velocity and geometry to get the kill.
@@ -98,6 +100,13 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 
 <iframe src="https://giphy.com/embed/hrA9F7LEVwyEEpHqDT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+Yeah, but other people can deflect your grenades too!
+
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/pleasinguglyirukandjijellyfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+Antaeus Wards will ruin your day.
 
 ### Traps
 

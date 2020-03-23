@@ -62,11 +62,14 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 - **Mobility Improving**
 
-- Lightweight Frames, Moving Target, Hipfire Grip
+  - Lightweight Frames, Moving Target, Hipfire Grip
 
 - **Damage Perks**
 
-- Kill clip, Rampage
+  - Kill clip, Rampage
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/ablewhoppingargusfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
 
 - Vorpal
 
