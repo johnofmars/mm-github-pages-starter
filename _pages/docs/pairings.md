@@ -15,7 +15,7 @@ And then end with some of my favorites.
 
 The Getting Started page was all about Lion's strengths for distance and playstyle. But if you want to become a master, it's important to understand weaknesses as well as the strengths.
 
-- Lion is weakest in **close** quarters. It cannot be remoted detonated within 15meters or 0.5 seconds of firing. But don't worry, direct hits will explode. But with a requirement to get direct hits and a 2.5 second (minimum) reload time, you _must_ have something in your back pocket to deal with apes. Sidearms and SMGs are a great option, and so are SMGs, but you can also rely on your subclass abilities of grenades and melees to supplement. Even if you want to play long range, you must be prepared for apes.
+- Lion is weakest in **close** quarters. [It cannot be remoted detonated within 15 meters or 0.5 seconds of firing](https://i.imgur.com/R2S0XfD.jpg). But don't worry, direct hits will explode. But with a requirement to get direct hits and a 2.5 second (minimum) reload time, you _must_ have something in your back pocket to deal with apes. Sidearms and SMGs are a great option, and so are SMGs, but you can also rely on your subclass abilities of grenades and melees to supplement. Even if you want to play long range, you must be prepared for apes.
 - Lion is second weakest at **long** ranges. A 2.5 second reload time is often enough time for enemies to disengage and begin recovery. A long-range weapon such as a sniper or even pulse rifle can supplement here.
 
 Fighting Lion is incredibly versatile and can be used with just about any playstyle. So consider your own preferences as well as those weaknesses and start building your loadout.
