@@ -134,7 +134,7 @@ Sorry, mate. One shot Lion. No clue on how to reproduce this one, but it seems t
 **~~Double~~ Increased Damage after death**
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/freshartisticeyra' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/freshartisticeyra?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 Watch close and you can see the Lion did 180+33, killing the Golden Gun Hunter.
 
@@ -146,7 +146,7 @@ _This used to be literally double damage, but since patch 2.8.0, it's merely +27
 **~~Murder~~ Friendly Fire**
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/sparklingincompatibleamericanrobin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/sparklingincompatibleamericanrobin?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts) to receive too much change in velocity and the Architects will kill them. Only really doable in The Haul in Recknoning and Public Event lifts, and such. Sorry,,,

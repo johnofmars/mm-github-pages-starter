@@ -15,7 +15,7 @@ There are plenty of articles and thoughts about which Subclass to run in Crucibl
 
 - **Attunement of Sky (Top tree)**
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/minorfavoritecopperbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/minorfavoritecopperbutterfly?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
   - Top tree **Dawnblade** is perfect. High on mobility and the `Celestial Fire` melee, which has three homing bolts that do 33 damage each. Wonderful long range clean-up. Emphasis on mobile and aerial play fits perfectly with Lion having no in-air or hip-fire accuracy penalties. It's honestly the best choice, hands down.
 

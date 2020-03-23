@@ -4,8 +4,6 @@ title: "Other Guides"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
 ## Lion guides
 - Cammy Cakes - [Fighting Lion in Trials of the Nine](https://www.youtube.com/watch?v=9dIkZ-on3AQ)
 - Cammy Cakes - [We Ran out of Ammo](https://www.youtube.com/watch?v=GRciVGEcDy0)

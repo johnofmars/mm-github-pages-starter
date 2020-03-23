@@ -4,8 +4,6 @@ title: "Videos"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
 ### The original Tutorial from Year 1
 
 <figure class="video_container">
