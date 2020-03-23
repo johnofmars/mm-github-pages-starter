@@ -10,7 +10,7 @@ teaser: /assets/images/teaser.jpg
 
 >We are concerned guardians, who by virtue of taste are advancing the cause of the greatest weapon of all time, the Fighting Lion
 
-Over 3,000 members with tags for `Lion Tips` and `Lion Gameplay`.
+Over 3,000 members all helping and meming away. Helpful tags for `Lion Tips` and `Lion Gameplay` as resources.
 
 [![Discord](/assets/images/discord.png)](https://discord.gg/ejv9t2P)
 

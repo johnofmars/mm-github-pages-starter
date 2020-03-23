@@ -4,8 +4,6 @@ title: "Weapon Pairings"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
 To help you pick a weapon for pairing with your Lion, we're going to do look at 3 things:
 - Preferred Engagement Distance and Playstyle
 - Archetypes
@@ -14,6 +12,23 @@ To help you pick a weapon for pairing with your Lion, we're going to do look at 
 And then end with some of my favorites.
 
 ## Distance & playstyle
+
+The Getting Started page was all about Lion's strengths for distance and playstyle. But if you want to become a master, it's important to understand weaknesses as well as the strengths.
+
+- Lion is weakest in **close** quarters. It cannot be remoted detonated within 15meters or 0.5 seconds of firing. But don't worry, direct hits will explode. But with a requirement to get direct hits and a 2.5 second (minimum) reload time, you _must_ have something in your back pocket to deal with apes. Sidearms and SMGs are a great option, and so are SMGs, but you can also rely on your subclass abilities of grenades and melees to supplement. Even if you want to play long range, you must be prepared for apes.
+- Lion is second weakest at **long** ranges. A 2.5 second reload time is often enough time for enemies to disengage and begin recovery. A long-range weapon such as a sniper or even pulse rifle can supplement here.
+
+Fighting Lion is incredibly versatile and can be used with just about any playstyle. So consider your own preferences as well as those weaknesses and start building your loadout.
+- Lion is most comfortable at **close-mid range** _where you are the aggressor_. Put in shots until you tag the enemy and push with your kinetic.
+- Lion is a **team play gun**. A Lion round that hits while a teammate hits with a single hand cannon head shot is _INSTANT_ death.
+
+Lastly, triple grenade launcher isn't just a meme.
+
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/unhealthyimmaterialdutchsmoushond' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+It's real and big and is my friend.
 
 ## Archetypes
 
