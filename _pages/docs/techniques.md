@@ -98,7 +98,7 @@ A sniper poking out of cover has to aim. A hand cannon user has to be out of cov
 
 The Lion's grenade is treated as a projectile so that means that besides getting shot out of the air, it can deflect other projectiles, such as grenades, and yes, Sentinel Shields.
 
-<iframe src="https://giphy.com/embed/hrA9F7LEVwyEEpHqDT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/offensivedimwittedinexpectatumpleco" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Yeah, but other people can deflect your grenades too!
 
