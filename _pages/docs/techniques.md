@@ -98,11 +98,16 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 
 <iframe src="https://giphy.com/embed/hrA9F7LEVwyEEpHqDT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-###Traps###
+
+### Traps
 
 
 ## Old techniques
 
 ###  Lunafaction Well / Rally  barricades
 
-https://gfycat.com/bigpaltryerin
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/bigpaltryerin' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+Lunafaction Rifts and
