@@ -15,8 +15,8 @@ teaser: /assets/images/teaser.jpg
 - [Advanced Techniques](/docs/adv_techniques/)
   - How to use Lion in your playstyle, beyond just shooting. Aggressive, peaking, shelling, etc.
 
-> **Caution** This page is illustrated with gfycat `gifv` clips, and is about 15MB.
-{: .notice--warning}
+  > **Caution** This page is illustrated with gfycat `gifv` clips, and is about 15MB.
+  {: .notice--warning}
 
 - [Detailed Damage Analysis](/docs/damage/)
   - Details on Lion's damage in PvE from the Tribute Hall and in PvE from Private Match testing.
@@ -31,7 +31,8 @@ teaser: /assets/images/teaser.jpg
   - 5 to 10 choices per class, using criteria such as `Reloading/Dexterity`, `Mobility`, `Melee\Grenade Synergy` and `Utility`.
 
 - [Subclasses](/docs/subclasses/)
-  -
+  - Choices for each Class's options. I'm a Warlock main, so take the Hunter/Titan stuff as a best guess.
+
 - [Videos](/docs/videos/)
   - My montages of using Fighting Lion, from all 3 years of Destiny 2.
 
