@@ -84,7 +84,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 **Utility perks**
 
-  - `Auto-loading holster`
+  - `Auto-loading holster` is a solid choice for your kinetic, especially if it doesn't have a damage boosting perk that requires a reload. With an auto-loading holster kinetic, you basically never need to reload.
 
 ### Masterworks
 

@@ -42,9 +42,7 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 
 ### Base damage
 
-142 splash + 26 direct hit damage. [Refer to **Historical**](https://www.fightinglion.club/docs/historical/) for more information.
-
-100% Falloff is about 3.5-4 meters.
+142 splash + 26 direct hit damage. [Refer to **Patch Notes**](https://www.fightinglion.club/docs/patch_notes/) for more information.
 
 ### Rifts, Wells & Weapons of Light
 
@@ -52,6 +50,7 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 |------------------	|------:	|--------:	|------------:	|-------:	|
 | Base             	| --   	| 142    	| 26         	| 168   	|
 | Empowering Rift  	| +20% 	| 170    	| 32         	| 202   	|
+| Inertia Override	| +25% 	| 178   	| 33         	| 210   	|
 | Well of Radiance 	| +25% 	| 178   	| 33         	| 210   	|
 | Weapons of Light 	| +35% 	| 197    	| 36         	| 227   	|
 

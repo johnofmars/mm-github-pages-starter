@@ -4,41 +4,50 @@ title: "Subclasses"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
 > **Disclosure** I'm a warlock main.
 {: .notice--warning}
 
 ## Warlock subclasses
 
-### Dawnblade: 
+### Dawnblade:
 
-**Attunement of Sky (Top tree)**
+- **Attunement of Sky (Top tree)**
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/minorfavoritecopperbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
+  - Top tree **Dawnblade** is perfect. High on mobility and the `Celestial Fire` melee, which has three homing bolts that do 33 damage each. Wonderful long range clean-up. Emphasis on mobile and aerial play fits perfectly with Lion having no in-air or hip-fire accuracy penalties. It's honestly the best choice, hands down.
 
-Top tree Dawnblade is perfect. High on mobility and the `Celestial Fire` melee, which has three homing bolts that do 33 damage each. Wonderful long range clean-up.
+### Voidwalker:
 
-### Voidwalker: 
+- **Attunement of Fission (Middle Tree)**
+  -`Handheld Supernova (HHSN)` with **Contraverse Holds** used to be a monster and it filled the weak close quarters game of Lion admirably. It's still "viable", but not "broken" like before.
 
-**Attunement of Fission (Middle Tree)**
-`Handheld Supernova (HHSN)` with **Contraverse Holds** used to be a monster and it filled the weak close quarters game of Lion admirably. 
+- **Attunement of Chaos (Top Tree)**
+  - An alternative to middle tree, that still uses **Contraverse Holds**. Super-charging your Axion Grenade as a combo with Lion is very doable. Contraverse with Axion offers a shorter charge time and a longer hold time than HHSN. That said, it doesn’t offer that insta-kill short range solution of HHSN.
 
-**Attunement of Chaos (Top Tree)**
-An alternative to middle tree, that still uses **Contraverse Holds**. Super-charging your Axion Grenade as a combo with Lion is very doable. Contraverse with Axion offers a shorter charge time and a longer hold time than HHSN. That said, it doesn’t offer that insta-kill short range solution.
+### Stormcaller:
 
-### Stormcaller: 
+- **Attunement of Control (Middle Tree)**
+  - A shutdown super and another long range melee. Middle tree also offers `Pulsewave` that gives a bonus to speed for quickly disengaging.
 
-**Attunement of Control (MIddle Tree)**
-A beautiful shutdown super and another long range melee. Middle tree also offers `Pulsewave` that gives a bonus to speed for quickly disengaging. 
-
-**Atunement of the Elements (Bottom Tree)**
-It doesn’t have blink in Super, but you get an Arc Buddy on rifts for you and your allies. Your rifts charge faster, another incentive to play with your team and use your Lion for team shots. Also, your melee isn’t ranged, but does have extended range thanks to `Rising Storm`. Great choice for **Getaway Artist**.
-
+- **Atunement of the Elements (Bottom Tree)**
+  - It doesn’t have blink in Super, but you get an Arc Buddy on rifts for you and your allies. Your rifts charge faster, another incentive to play with your team and use your Lion for team shots. Also, your melee isn’t ranged, but does have extended range thanks to `Rising Storm`. Great choice for **Getaway Artist**.
 
 ## Titan Subclasses
 
-Healing melees
+### Sentinel:
+- **Code of the Protector (top tree)**
+  - `Defensive Strike` gives an overshield to you and your allies for a melee kill. Pair this with **Synthoceps** and you're gonna be a CQC beast. Additionally, top tree also offers `Ward of Dawn` and `Weapons of Light`. `Weapons of Light` gives +35% damage, increasing your perfect Lion damage from 168 to 227.
+
+### Striker:
+- **Code of the Missile (middle tree)**
+  - `Inertia Override`: Picking up ammo during a slide will reload your equipped weapon and increases weapon damage for a short time. Given how Lion ammo drops are 100% guaranteed on kill. A free reload and a damage buff of 25% is great. The damage buff takes perfect lion damage from 168 to 210.
+  - `Ballistic Slam` is a sprinting airborne smash into the ground for massive AoE damage. Pair with **Synthoceps** and this is a great way to clean up Lion kills for aggressive play.
 
 ## Hunter Subclasses
+
+### Arcstrider:
+- **Way of the Current (middle tree)**
+  - `Tempest Strike` is an slide uppercut with some serious range and AoE damage. Will clean up Lion hits well.
+
+Not a lot of synergies here, to be honest. Most of the Hunter subclasses will work well with Lion. **Way of the Sharpshooter** has the Weighted Knife, but the rest of the perks are about precision and Lion isn't precision capable. **Nighstalkers** have the wombo combo which is a fun way to clean up Lion shots.
