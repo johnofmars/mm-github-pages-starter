@@ -49,7 +49,7 @@ Enemy got away with just a bit of health, but he's hiding, huh. **Cover does not
   <iframe src='https://gfycat.com/ifr/idledampafricanporcupine' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-This is one of the trickiest situations for Lion users. Your enemy is close range, in mid-air and moving unpredictably. A direct shot is possible, but if you miss, your target is too close to allow for a manual detonation. Lion needs 15 meters or 0.5 seconds before it can be manually detonated. Instead of aiming directly at your opponent, aim down off the ground and get the travel distance you need to do a manual detona`tion.
+This is one of the trickiest situations for Lion users. Your enemy is close range, in mid-air and moving unpredictably. A direct shot is possible, but if you miss, your target is too close to allow for a manual detonation. Lion needs 15 meters or 0.5 seconds before it can be manually detonated. Instead of aiming directly at your opponent, aim down off the ground and get the travel distance you need to do a manual detonation.
 
 ![Diagram](/assets/images/close_diagram.png)
 
