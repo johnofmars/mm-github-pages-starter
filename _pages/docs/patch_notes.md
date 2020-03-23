@@ -1,6 +1,6 @@
 ---
-permalink: /docs/historical/
-title: "Historical (i.e. Annotated Patch Notes)"
+permalink: /docs/patch_notes/
+title: "Annotated Patch Notes"
 teaser: /assets/images/teaser.jpg
 ---
 
