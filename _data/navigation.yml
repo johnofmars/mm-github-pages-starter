@@ -17,7 +17,7 @@ docs:
       - title: "Basic Techniques"
         url: /docs/techniques/
       - title: "Advanced Techniques"
-        url: /docs/techniques/
+        url: /docs/adv_techniques/
       - title: "Detailed Damage Analysis"
         url: /docs/damage/
       - title: "Weapon Pairings"
