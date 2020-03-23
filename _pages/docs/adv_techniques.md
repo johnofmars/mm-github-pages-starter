@@ -4,6 +4,8 @@ title: "Advanced Techniques"
 teaser: /assets/images/teaser.jpg
 ---
 
+(Under Construction)
+
 ## Playing with Lion: Be Mobile
 
 ### Be Aggressive!

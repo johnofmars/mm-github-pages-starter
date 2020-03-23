@@ -35,6 +35,11 @@ Enemy got away with just a bit of health, but he's hiding, huh. **Cover does not
 
 Not gonna waste your space & bandwidth with a video for this one. Detonate Lion rounds in doorways to prevent people from pushing.
 
+### Team Support
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/respectfulglassiggypops' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
 ### Super Long Range
 <figure class="video_container">
   <iframe src='https://gfycat.com/ifr/defiantilliteratefoal' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
@@ -55,7 +60,8 @@ This is one of the trickiest situations for Lion users. Your enemy is close rang
 
 ![Diagram](/assets/images/close_diagram.png)
 
-### Team Support
-<figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/respectfulglassiggypops' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-</figure>
+### Titan barricades
+
+![dead barricades](/assets/images/dead_barricade.png)
+
+Bank shots behind barricades to kill Titans who think they are safe. Also notice that as of patch 2.8.0, barricade damage is shown as yellow and guardian damage is white. Thus it is easy to distinguish between barricade damage and guardian damage.
