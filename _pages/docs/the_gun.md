@@ -87,6 +87,8 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 - Too close to arm
   - The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
 
+### PvE only: Inverted Lion
+
 ### Reloading
 
 The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloading. [Testing by the Fighting Lion community](https://www.reddit.com/r/FightingLion/comments/f7ls48/fighting_lions_reload_speed_and_the_upcoming_buffs/) pegs the actual RPM as 40.5 RPM.

@@ -36,8 +36,6 @@ A sniper poking out of cover has to aim. A hand cannon user has to be out of cov
   <iframe src='https://gfycat.com/ifr/shockingelementarybrownbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-### PvE only: Inverted Lion
-
 ## Tricks
 
 ### Deflecting other Projectiles
