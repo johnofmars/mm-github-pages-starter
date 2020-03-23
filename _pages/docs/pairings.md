@@ -62,20 +62,29 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 - **Mobility Improving**
 
-  - Lightweight Frames, Moving Target, Hipfire Grip
+  - `Lightweight Frames`, gives +10 mobility.
+  - `Moving Target`, `Hipfire Grip` If you prefer to ADS or hipfire, these will help with your strafe speed greatly.
+  - `Air Assault` lmao, I dunno, I kinda want to try it with an **Austringer**.
 
 - **Damage Perks**
+  - `Kill clip`, `Rampage`
 
-  - Kill clip, Rampage
-<figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/ablewhoppingargusfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-</figure>
+    <figure class="video_container">
+      <iframe src='https://gfycat.com/ifr/ablewhoppingargusfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+    </figure>
 
-- Vorpal
+  - `Vorpal`
+    - **Breachlight**, a sidearm, does 50-55% extra dmg against supers.
+
+    <figure class="video_container">
+      <iframe src='https://gfycat.com/ifr/decentilliteratealligator' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+    </figure>
+
+    - **Trophy Hunter**, a sniper, only does 15%.
 
 **Utility perks**
 
-- Auto-loading holster
+  - `Auto-loading holster`
 
 ## Specific Recommendations
 

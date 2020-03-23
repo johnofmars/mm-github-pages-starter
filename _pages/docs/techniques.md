@@ -79,7 +79,7 @@ Lion has no in-air accuracy penalties. Pair it with other weapons with low/no in
 ### Use Cover!
 
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/unsteadyfixedgrasshopper' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+  <iframe src='https://gfycat.com/ifr/fantasticslushydanishswedishfarmdog' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
 A sniper poking out of cover has to aim. A hand cannon user has to be out of cover has to aim for three (3) shots minimum. A lion user? Just poke and hop twice (2) and you can get your kill. Just remember, you'll be doing it blind, so learn your velocity and geometry to get the kill.
