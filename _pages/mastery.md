@@ -5,7 +5,8 @@ teaser: /assets/images/teaser.jpg
 ---
 
 - [The Gun](/docs/the_gun/)
-- [Techniques](/docs/techniques/)
+- [Basic Techniques](/docs/basic_techniques/)
+- [Advanced Techniques](/docs/adv_techniques/)
 - [Detailed Damage Analysis](/docs/damage/)
 - [Weapon Pairings](/docs/pairings/)
 - [Armor: Mods & Stats](/docs/armor/)

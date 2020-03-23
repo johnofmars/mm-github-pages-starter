@@ -14,7 +14,9 @@ docs:
     children:
       - title: "The Gun"
         url: /docs/the_gun/
-      - title: "Techniques"
+      - title: "Basic Techniques"
+        url: /docs/techniques/
+      - title: "Advanced Techniques"
         url: /docs/techniques/
       - title: "Detailed Damage Analysis"
         url: /docs/damage/
