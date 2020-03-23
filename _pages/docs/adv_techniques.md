@@ -36,6 +36,8 @@ A sniper poking out of cover has to aim. A hand cannon user has to be out of cov
   <iframe src='https://gfycat.com/ifr/shockingelementarybrownbutterfly' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
+These are incredibly long range shots and with no proximity detonation, it takes intuition and practice to get good hits.
+
 ## Tricks
 
 ### Deflecting other Projectiles
