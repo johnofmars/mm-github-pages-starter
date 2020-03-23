@@ -15,7 +15,7 @@ docs:
       - title: "The Gun"
         url: /docs/the_gun/
       - title: "Basic Techniques"
-        url: /docs/techniques/
+        url: /docs/basic_techniques/
       - title: "Advanced Techniques"
         url: /docs/adv_techniques/
       - title: "Detailed Damage Analysis"
