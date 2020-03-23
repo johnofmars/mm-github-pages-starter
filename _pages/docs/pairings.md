@@ -86,6 +86,12 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
   - `Auto-loading holster`
 
+### Masterworks
+
+- Range (for PC) and Stability (Console) are mainstays, but Range is less important for a lot of weapons now.
+- Handling masterworks are somewhat redundant thanks to Fighting Lion's `Chimera` but it only works one way. If you want quick swap _back_ to your Lion, handling is good.
+- Reload masterwork is underrated for Lion users. If your Lion doesn't auto-reload itself, you're potentially looking at reloading both your kinetic and your Lion, so anything that cuts that down is nice. However, because Lion gives your kinetic `Quickdraw`, `Snapshot sights` and `Opening Shot`, you likely have more perk choices can take a Reload perk making a Reload masterwork redundant.
+
 ## Specific PvP Recommendations
 
 - Kill Clip **Service Revolver** (on console)
