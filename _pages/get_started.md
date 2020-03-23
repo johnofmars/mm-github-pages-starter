@@ -75,3 +75,9 @@ Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
 You got this!
 
 And come back when [you're ready to take the next step!](/mastery/)
+
+You will know your Lion well enough to shoot long-range and blind:
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O9b7Wq2xOKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

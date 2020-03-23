@@ -104,3 +104,5 @@ The Lion's grenade is treated as a projectile so that means that besides getting
 ## Old techniques
 
 ###  Lunafaction Well / Rally  barricades
+
+https://gfycat.com/bigpaltryerin
