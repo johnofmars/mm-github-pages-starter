@@ -4,21 +4,21 @@ title: "Detailed Damage Analysis"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
-Current as of Patch 2.8.0
+(Current as of Patch 2.8.0)
 
 ## PvE
 
-### Damage vs Shields
+As tested in the Tribute Hall.
 
-As tested in the Tribute Hall
+### Damage vs Shields
 
 |Stat       	|No Shield  	| Void        | Arc   	| Solar   	|
 |---	        |---	        |---	       |---	|---	|
 |Raw Damage	  | 10,365 + 1,899  	| 14,602 + 7,091 + 3,435  	| 10,365 + 2,364  	| 14,725 + 4,728   	|
 |Total Damage |12,264   	| 25,128  	| 12,729   	| 19,453   	|
 |% Change   	| _(base)_  	| 205%  	| 104%   	| 158%   	|
+
+As you can see, Arc bonus damage is busted.
 
 ### Damage per Combatant Tier
 
@@ -34,6 +34,10 @@ As tested in the Tribute Hall
 
 ### Fall-off
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qVmdIkF"><a href="//imgur.com/a/qVmdIkF">FL Blast Radius Test</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
+
 ## PvP
 
 ### Base damage
@@ -42,15 +46,22 @@ As tested in the Tribute Hall
 
 100% Falloff is about 3.5-4 meters.
 
-### Rifts & Weapons of Light
+### Rifts, Wells & Weapons of Light
 
-
+| Skill            	| Buff 	| Splash 	| Direct Hit 	| Total 	|
+|------------------	|------:	|--------:	|------------:	|-------:	|
+| Base             	| --   	| 142    	| 26         	| 168   	|
+| Empowering Rift  	| +20% 	| 170    	| 32         	| 202   	|
+| Well of Radiance 	| +25% 	| 178   	| 33         	| 210   	|
+| Weapons of Light 	| +35% 	| 197    	| 36         	| 227   	|
 
 ### Damage Against Titan Barricades
 
 In patch 2.8.0, Titan Barricades have been given increased health to 600 hp, but now take 30% extra damage from Grenade Launchers.
 
 This means that Lion rounds now do 184 splash and 34 direct hit damage, so it will take three (3) Lion rounds to break a shield.
+
+![dead barricades](/assets/images/dead_barricade.png)
 
 Crucially, the damage numbers against the shield are precision yellow. This means that when you fire a shot around a shield, you can now distinguish between the damage the Titan is taking and the shield is taking.
 

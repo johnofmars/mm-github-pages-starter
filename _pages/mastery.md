@@ -9,13 +9,13 @@ teaser: /assets/images/teaser.jpg
 - [Basic Techniques](/docs/basic_techniques/)
   - How to use Lion to get kills, techniques for every range and how to get the total damage for the kill.
 
-  > **Caution** This page is illustrated with gfycat `gifv` clips, and is about 15MB.
+  > **Heads-up!** This page is illustrated with gfycat `gifv` html5 clips, and is about 15MB.
   {: .notice--warning}
 
 - [Advanced Techniques](/docs/adv_techniques/)
   - How to use Lion in your playstyle, beyond just shooting. Aggressive, peaking, shelling, etc.
 
-  > **Caution** This page is illustrated with gfycat `gifv` clips, and is about 15MB.
+  > **Heads-up!** This page is illustrated with gfycat `gifv` html5 clips, and is about 15MB.
   {: .notice--warning}
 
 - [Detailed Damage Analysis](/docs/damage/)
