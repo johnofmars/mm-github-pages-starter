@@ -7,6 +7,8 @@ teaser: /assets/images/teaser.jpg
 > **Disclosure** I'm a warlock main.
 {: .notice--warning}
 
+There are plenty of articles and thoughts about which Subclass to run in Crucible. Below are thoughts on how each subclass synergizes with Lion usage. Based on that, you can make a choice as to prioritize it or not.
+
 ## Warlock subclasses
 
 ### Dawnblade:
