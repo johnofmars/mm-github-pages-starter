@@ -109,11 +109,11 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 ## Specific PvP Recommendations
 
-- Kill Clip **Service Revolver** (on console)
-- Vorpal, Hipfire Grip **Breachlight**
-- Kill Clip **Antiope-D**
+- `Kill Clip` **Service Revolver** (on console)
+- `Vorpal`, `Hipfire Grip` **Breachlight**
+- `Kill Clip` **Antiope-D**
 - **Redrix's Broadsword**
-- Auto-loading Holster, Kill Clip **Spare Rations**
+- `Auto-loading Holster`, `Kill Clip` **Spare Rations**
 - **Revoker**
-- Auto-loading holster, Opening shot **Blasphemer**
-- Tap the Trigger **Smuggler's Word**
+- `Auto-loading holster`, `Opening shot` **Blasphemer**
+- `Tap the Trigger` **Smuggler's Word**
