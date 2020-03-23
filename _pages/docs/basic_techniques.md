@@ -4,8 +4,6 @@ title: "Basic Techniques"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
 ## Shooting your Lion
 
 ### Opening
