@@ -82,10 +82,11 @@ One day, will know your Lion well enough to shoot long-range _and blind_:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/O9b7Wq2xOKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
->You will never be bored with Fighting Lion.
+># You will never be bored with Fighting Lion.
 {: .text-center}
 
 The best thing I can say about Lion is that there is no skill ceiling. There's always something to learn and improve and that is so satisfying. This site was put together by my own knowledge and experience, but improved upon by a community of other fans who love this gun.
 
-[![Road Never Ends](/images/assets/road_never_ends.png)]](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003pg)
-credit: Edward Tufte
+[![Road Never Ends](/assets/images/road_never_ends.png)](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003pg)
+
+_credit: Edward Tufte_
