@@ -74,7 +74,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
     </figure>
 
   - `Vorpal`
-    - **Breachlight**, a sidearm, does 50-55% extra dmg against supers.
+    - **Breachlight**, a sidearm, does 50% extra dmg against supers.  It's a 3 shot head and 4 shot body on supers. It 2 shots golden gun super.
 
     <figure class="video_container">
       <iframe src='https://gfycat.com/ifr/decentilliteratealligator' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
@@ -86,6 +86,13 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
   - `Auto-loading holster`
 
-## Specific Recommendations
+## Specific PvP Recommendations
 
--
+- Kill Clip **Service Revolver** (on console)
+- Vorpal, Hipfire Grip **Breachlight**
+- Kill Clip **Antiope-D**
+- **Redrix's Broadsword**
+- Auto-loading Holster, Kill Clip **Spare Rations**
+- **Revoker**
+- Auto-loading holster, Opening shot **Blasphemer**
+- Tap the Trigger **Smuggler's Word**
