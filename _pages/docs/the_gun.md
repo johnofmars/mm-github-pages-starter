@@ -71,6 +71,11 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 ![Chimera Perks](/assets/images/chimera_perks.png)
 
+Here's what a swap test with a `Quickdraw` 110rpm vs a non-`Quickdraw` 110rpm Hand Cannon looks like:
+![chimera test](/assets/images/chimera_test.png)
+
+> 27 Handling **Home for the Lost** with `Quickdraw` and a 26 Handling **Crimil's Dagger**.
+
 It's essentially **Lucky Pants** 2.0 but for every weapons type. It's better than **Ophidian Aspect**, but can be stacked with Chimera. **Dragon's Shadow** is faster, and cannot be stacked with Chimera.
 
 For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/9ph01t/quick_breakdown_of_chimera_on_fighting_lion/) thread and [this video by Drewsky](https://youtu.be/i3zq_SWEkLM?t=273).
