@@ -71,7 +71,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 ![Chimera Perks](/assets/images/chimera_perks.png)
 
-Here's what a swap test with a `Quickdraw` 110rpm vs a non-`Quickdraw` 110rpm Hand Cannon looks like:
+Here's what a swap & ADS test with a `Quickdraw` 110rpm vs a non-`Quickdraw` 110rpm Hand Cannon looks like:
 ![chimera test](/assets/images/chimera_test.png)
 
 > 27 Handling **Home for the Lost** with `Quickdraw` and a 26 Handling **Crimil's Dagger**.
