@@ -10,7 +10,7 @@ teaser: /assets/images/teaser.jpg
   - How to use Lion to get kills, techniques for every range and how to get the total damage for the kill.
 
 - [Advanced Techniques](/docs/adv_techniques/)
-  - How to use Lion in your playstyle, beyond just shooting. Aggressive play, peak shooting, dueling, etc.
+  - How to use Lion in your playstyle, beyond just shooting. Aggressive play, peak shooting, dueling, and a couple tricks.
 
 - [Detailed Damage Analysis](/docs/damage/)
   - Details on Lion's damage in PvE from the Tribute Hall and in PvE from Private Match testing.
