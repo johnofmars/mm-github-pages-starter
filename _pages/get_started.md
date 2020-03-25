@@ -67,7 +67,7 @@ Hand cannons are crispy and have good range and versatility. They're the signatu
 
 **Long Range**
 
-Pair with a sniper, Teamshot, zoning, deterring pushes Double-tapping
+Pair with a sniper, focus on team shooting, using to deter pushes, shoot long range to maybe even double-tap.
 
 ># Practice, practice, practice.
 {: .text-center}
