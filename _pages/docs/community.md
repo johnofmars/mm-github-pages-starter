@@ -27,6 +27,7 @@ The place for theory-crafting, meming, shit-talking Jötunn and just hanging out
 - [Destiny Tracker](https://destinytracker.com/destiny-2/db/items/3549153978?perks=425960662,3809316345,3492396210,2003108620,1067908860,0,3034617041,924149234)'s database entry for Fighting Lion
 - [Promethean, The Archival Mind](https://www.youtube.com/channel/UCdg1JKoKDFiNhPTFVHtoSpQ) is a source for all the non-soundtrack music in the game.
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/zpL459GXWa">pic.twitter.com/zpL459GXWa</a></p>&mdash; 또니🤔 (@ddonychan) <a href="https://twitter.com/ddonychan/status/1242237404875862016?ref_src=twsrc%5Etfw">March 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Think you're hardcore?
 
