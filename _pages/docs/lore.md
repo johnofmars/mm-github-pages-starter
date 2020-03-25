@@ -53,6 +53,10 @@ Wei Ning was [the greatest titan who ever lived](https://did-you-reboot.tumblr.c
 
 Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_Fei) from the early 200s AD in the Three Kingdoms Guide. To use an alignment chart, he would be **Chaotic Evil**.  "Zhang Fei is not a good person, he is not a good general, he's just good at killing." (also good at drinking.)
 
+### Design Motifs
+
+The design of the Fighting Lion obviously is based on the [Alpha Lupi wolf crest](http://mikejensen3d.com/portfolio-item/destiny-hunter-crest-alpha-lupi/), but also appears to share motifs of the [Chinese Guardian Lions](https://en.wikipedia.org/wiki/Chinese_guardian_lions), also called **foo dogs**.
+
 ## Naming in other Languages
 {::options parse_block_html="false" /}
 
