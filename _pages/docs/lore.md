@@ -55,7 +55,11 @@ Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_F
 
 ### Design Motifs
 
-The design of the Fighting Lion obviously is based on the [Alpha Lupi wolf crest](http://mikejensen3d.com/portfolio-item/destiny-hunter-crest-alpha-lupi/), but also appears to share motifs of the [Chinese Guardian Lions](https://en.wikipedia.org/wiki/Chinese_guardian_lions), also called **foo dogs**.
+![Gjallarhorn](https://cdna.artstation.com/p/assets/images/images/008/142/892/4k/mark-van-haitsma-d1-gjallarhorn.jpg?1510751656)
+![gjally profile](/assets/images/design_motifs/gjallyprofile.png)
+![lion profile](/assets/images/design_motifs/lionprofile.png)
+
+The design of the Fighting Lion obviously is based on the wolf crest on Gjallarhorn & [Alpha Lupi](http://mikejensen3d.com/portfolio-item/destiny-hunter-crest-alpha-lupi/), but also appears to share motifs of the [Chinese Guardian Lions](https://en.wikipedia.org/wiki/Chinese_guardian_lions), also called **foo dogs**.
 
 ## Naming in other Languages
 {::options parse_block_html="false" /}
