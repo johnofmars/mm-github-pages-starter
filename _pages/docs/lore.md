@@ -51,11 +51,11 @@ Wei Ning was [the greatest titan who ever lived](https://did-you-reboot.tumblr.c
 
 ### Zhang Fei
 
-a _Zhang Fei_ is a kind of [Chinese Dancing Dragon](https://en.wikipedia.org/wiki/Lion_dance), named Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_Fei) from the [Romance of the Three Kingdoms](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms).
+a _Zhang Fei_ is a kind of [Chinese Dancing Lion](https://en.wikipedia.org/wiki/Lion_dance), named Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_Fei) from the [Romance of the Three Kingdoms](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms).
 
   > The Zhang Fei (Cantonese: Cheung Fei) lion has a black based face with short black beard, small ears, and black bristles. The tail is black and white with white trim and a white underside. Traditionally this lion also had bells attached to the body. Being the youngest of the three brothers, there is only a single coin on the collar. **This Lion is known as the Dou Shi (simplified Chinese: 斗狮; traditional Chinese: 鬥獅; pinyin: Dòu Shī; literally: 'Fighting Lion') because Zhang Fei had a quick temper and loved to fight.**
 
-  > This lion is used by clubs that were just starting out or by those wishing to make a challenge
+  > This lion is used by [Kung Fu] clubs that were just starting out or by those wishing to make a challenge.
 
 Zhang Fei himself, to use an alignment chart, would be **Chaotic Evil**.  "Zhang Fei is not a good person, he is not a good general, he's just good at killing." (Also, he was good at drinking.) So I much prefer to think of the name as the dancing lion rather than the General.
 
