@@ -4,7 +4,9 @@ title: "Advanced Techniques"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
+## Start with Basic Techniques:
+
+[Click here.](/docs/basic_techniques/)
 
 ## Playing with Lion: Be Mobile
 
@@ -67,4 +69,4 @@ Antaeus Wards will ruin your day.
   <iframe src='https://gfycat.com/ifr/bigpaltryerin?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-Lunafaction Rifts and Rally Barricades used to auto-matically reload weapons. And for Fighting Lion, that turned it into a Siege Tank. Those days are over as of _Year 3: Shadowkeep_.
+Lunafaction Rifts and Rally Barricades used to automatically reload weapons. And for Fighting Lion, that turned it into a Siege Tank. Those days are over as of _Year 3: Shadowkeep_.

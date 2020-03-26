@@ -30,5 +30,5 @@ teaser: /assets/images/teaser.jpg
 - [Videos](/docs/videos/)
   - My montages of using Fighting Lion, from all 3 years of Destiny 2.
 
-- [Patch Notes](/docs/Patch Notes/)
+- [Patch Notes](/docs/patch_otes/)
   - Relevant portions of all patch notes from D2 Vanilla and a graph of Damage Changes to Lion thoughout.

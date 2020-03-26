@@ -31,7 +31,7 @@ Enemy got away with just a bit of health, but he's hiding, huh.
   <iframe src='https://gfycat.com/ifr/identicalmiserablehippopotamus?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-If enemies do not retret after a single hit, then they _will_ die from the second one.
+If enemies do not retreat after a single hit, then they _will_ die from the second one.
 
 ### Blind Firing with Radar
 <figure class="video_container">
@@ -80,3 +80,7 @@ On the other hand, this is one of the trickiest situations for Lion users. Your 
 ![dead barricades](/assets/images/dead_barricade.png)
 
 Bank shots behind barricades to kill Titans who think they are safe. Also notice that as of patch 2.8.0, barricade damage is shown as yellow and guardian damage is white. Thus it is easy to distinguish between barricade damage and guardian damage.
+
+## Now on to Advanced Techniques:
+
+[Click here.](/docs/adv_techniques/)

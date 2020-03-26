@@ -110,7 +110,7 @@ Two things determine how ammo will work for your lion:
   - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/docs/armor/#reload-mods)
 - Concussive Dampener does NOT work in Crucible
 - Dexterity mods
-  - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it's diminishing returns.
+  - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it has diminishing returns.
   - For more on Dexterity Perks, Freehand Mod and Quickdraw, refer to [this post on r/CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/a0itxx/massive_breakdown_of_dexterity_perks_with/)
 
 ## Sample Builds
@@ -134,7 +134,7 @@ Two things determine how ammo will work for your lion:
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 **Chest (any element):**
-- Unfliching
+- Unfliching of your kinetic's choice
 
 **Boots with _Primary_ Ammo Kinetic Weapon (any element):**
 > With Chimera giving Quickdraw like boosts to handling, you don't need Dexterity perks, really. Additionally, GL scavenger doesn't work on Lion, since it takes Primary ammo. But honestly, there aren't a lot of options left, so take a dexterity perk anyway.
@@ -157,7 +157,7 @@ Two things determine how ammo will work for your lion:
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 ## Charged with Light Build
-Courtesy of **u/Sunsun**
+Courtesy of **u/Illyxi**
 
 - 1x High Energy Fire, 1x Protective Light, and either 2x Blast Radius (double solar) or 1x Blast Radius, 1x Stacks on Stacks (one solar, one void for GL affinity)
 - In total requires 4 pieces of armor, leaving your Exotic open, and only requires one or two solar so you can spec GLs
@@ -165,7 +165,10 @@ Courtesy of **u/Sunsun**
 
 ## Stats
 
-Top 3:
+**Top 3:**
 1. Mobility
+  - You need to be able to peak shoot and disengage quickly. Mobility is king.
 2. Recovery
+  - Do not neglect Recovery. Helpful for peak shooting and disengaging both. Also, on Warlock, reduces your **Rift** cooldown.
 3. Strength or Discipline, depending on your subclass & playstyle
+  - I'm a neutral game player. I like Melees or Grenades to help with kills outside of Supers. Additionally, Melee & Strength mods are only **3 energy** while Intelligence (Super) mods are **5 energy** and restrict your armor mods choices unnecessarily.

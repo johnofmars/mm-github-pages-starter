@@ -42,15 +42,15 @@ Like all `Lightweight Frames` in Destiny 2, it offers an intrinsic Mobility bonu
 
 > ~~72~~ 90 RPM like all Lightweight frames
 
-Misleading, RPM is gated by reload speed, not firing rate. See [**Reloading**](https://www.fightinglion.club/docs/the_gun/#reloading) below for more.
+Misleading, RPM is gated by reload speed, not firing rate. The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloading. [Testing by the Fighting Lion community](https://www.reddit.com/r/FightingLion/comments/f7ls48/fighting_lions_reload_speed_and_the_upcoming_buffs/) pegs the actual RPM as 40.5 RPM.
 
-With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin the Herd`. There are three aspects and each of them is more than can be discussed in a short list.
+With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin the Herd`. There are three full distinct parts and each of them is more than can be discussed in a short list.
 1. Direct hits do more damage to enemy combatant shields.
-  - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over an unshielded enemy and bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
+  - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over damage to an unshielded enemy, but bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
 2. Rapid kills against grenade-damaged enemies refill the magazine.
   - This aspect of the perk is badly worded.
     - If you do damage with Fighting Lion, getting a kill (against any target), will refill the magazine.
-    - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/docs/techniques/)
+    - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/docs/basic_techniques/)
 
 3. Kills always drop Primary ammo.
   - There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks. [See **Ammo Management** below for more.](/docs/the_gun/#ammo-management)
@@ -96,11 +96,17 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 
 ### Reloading
 
-The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloading. [Testing by the Fighting Lion community](https://www.reddit.com/r/FightingLion/comments/f7ls48/fighting_lions_reload_speed_and_the_upcoming_buffs/) pegs the actual RPM as 40.5 RPM.
+Fighting Lion will automatically reload after the round you've fired detonates. However! Reloading is special with Fighting Lion as you can _manually_ begin a reload immediately after firing, even while holding to detonate the fired round. This process is referred to as **Manual Reloading**. This removes the entire recoil animation and allows for reloading nearly 2x as fast. _Reload mods_ do help even if you're doing manual reloads.
 
-[Auto-Reloader Script](https://www.reddit.com/r/FightingLion/comments/f5a5ba/autolion_v2/)
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/83b9RtyEdf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
-> **Disclosure** Bungie's stance on scripting is really unclear since Titan Skate macro users weren't punished in any way, and manual reload is technically possible without the script. There's nothing in here about aiming or exploiting code. Using a macro, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
+It is tricky to get the perfect timing to pull this off however. The community has developed a macro for this purpose, but even that can be inconsistent. The Macro is really for instructive purposes only. It's cool script, but it's not feasible to use in Crucible for any real means.
+
+[Auto-Lion Script](https://www.reddit.com/r/FightingLion/comments/f5a5ba/autolion_v2/)
+
+> **Disclaimer** Bungie's stance on scripting is really unclear since Titan Skate macro users weren't punished in any way, and manual reload is technically possible without the script. There's nothing in here about aiming or exploiting code. Using a macro, you risk anti-cheat measures from Bungie. That said, this script is relatively benign and doesn't break anything or do anything a human can't do. **Use with caution.**
 {: .notice--warning}
 
 ## The Details
@@ -117,7 +123,7 @@ The practical RPM of Fighting Lion is dictated not by frame RPM, but by reloadin
 - Ammo per random drop brick: **8,10,15**
 - Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
 
-[Refer to Armor: Perks & Stats](/docs/armor/#perks-to-take/) for more on how to manage your ammo with perks.
+[Refer to Armor: Perks & Stats](/docs/armor/#mods-to-take/) for more on how to manage your ammo with perks.
 
 ### Grenade Health
 
@@ -127,7 +133,7 @@ It is possible to have your grenade shot out of the air.
 
 ### Glitches
 
-> **Disclosure** These are very rare, and/or hard to exploit, so don't freak out.
+> **Disclaimer** These are very rare, and/or hard to exploit, so don't freak out.
 {: .notice--warning}
 
 **Double Impact**

@@ -4,7 +4,7 @@ title: "Subclasses"
 teaser: /assets/images/teaser.jpg
 ---
 
-> **Disclosure** I'm a warlock main.
+> **Disclaimer** I'm a warlock main.
 {: .notice--warning}
 
 There are plenty of articles and thoughts about which Subclass to run in Crucible. Below are thoughts on how each subclass synergizes with Lion usage. Based on that, you can make a choice as to prioritize it or not.
@@ -32,8 +32,8 @@ There are plenty of articles and thoughts about which Subclass to run in Crucibl
 - **Attunement of Control (Middle Tree)**
   - A shutdown super and another long range melee. Middle tree also offers `Pulsewave` that gives a bonus to speed for quickly disengaging.
 
-- **Atunement of the Elements (Bottom Tree)**
-  - It doesn’t have blink in Super, but you get an Arc Buddy on rifts for you and your allies. Your rifts charge faster, another incentive to play with your team and use your Lion for team shots. Also, your melee isn’t ranged, but does have extended range thanks to `Rising Storm`. Great choice for **Getaway Artist**.
+- **Attunement of the Elements (Bottom Tree)**
+  - It doesn’t have blink in Super, but you get an Arc Buddy on rifts for you and your allies. (It's weaker than **Getaway Artist** but synergizes well.) Your rifts charge faster, another incentive to play with your team and use your Lion for team shots. Also, your melee isn’t ranged, but does have extended range thanks to `Rising Storm`. Great choice for **Getaway Artist**. _Note:_ Eating your grenade while you have weak Rift arc buddy will refresh the duration of weak arc buddy, while hopping into a rift while you have strong **Getaway Artist** arc buddy will refresh the duration of strong arc buddy.)
 
 ## Titan Subclasses
 
@@ -50,6 +50,10 @@ There are plenty of articles and thoughts about which Subclass to run in Crucibl
 
 ### Arcstrider:
 - **Way of the Current (middle tree)**
-  - `Tempest Strike` is an slide uppercut with some serious range and AoE damage. Will clean up Lion hits well.
+  - `Tempest Strike` is a slide uppercut with some serious range and AoE damage. Will clean up Lion hits well.
+
+### Gunslinger
+- **Way of a Thousand Cuts (middle tree)**
+  - `Knife Trick` (throw a fan of burning knives), `Burning Edge` (while enemies burn, your dodge AKA free reload recharges faster), and `Playing with fire` (destroying burning enemies recharges `Knife Trick` faster) is some amazing synergy on it's own, but with a grenade launcher with massive uptime, you're going to have a good time.
 
 Not a lot of synergies here, to be honest. Most of the Hunter subclasses will work well with Lion. **Way of the Sharpshooter** has the Weighted Knife, but the rest of the perks are about precision and Lion isn't precision capable. **Nighstalkers** have the wombo combo which is a fun way to clean up Lion shots.

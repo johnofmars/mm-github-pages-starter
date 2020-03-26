@@ -4,18 +4,15 @@ title: "Exotic Armor Choices"
 teaser: /assets/images/teaser.jpg
 ---
 
-(Under Construction)
-
-
 ### Considerations
 
 Exotic choices will favor one of three things:
-- **Reloading &/or Dexterity (for Weapon Swaps)** (like Transversive Steps or Dragon's Shadow)
+- **Reloading and/or Dexterity (for Weapon Swaps)** (like Transversive Steps or Dragon's Shadow)
 - **Synergies with melees or grenades** (Like Titan overshields)
 - **Mobility, but especially vertical play** (like St0mp-335)
-- **Utility, like damage buffs or other exotic perks** (like Nezarac's Sin using Lion's void damage)
+- **Utility, like damage buffs or other exotic perks** (like Nezarec's Sin using Lion's void damage)
 
-> **Disclosure** I'm a warlock main.
+> **Disclaimer** I'm a warlock main.
 {: .notice--warning}
 
 ### Warlock Exotics
@@ -30,27 +27,27 @@ Exotic choices will favor one of three things:
 - **Transversive Steps**
 [Reloading](#warlock-exotics){: .btn .btn--danger} [Mobility](#warlock-exotics){: .btn .btn--success}
 
-	- Sprint faster, after sprinting for 2 seconds, your currently equipped weapon is reloaded. Lion has a minimum 2.5 second reload, so this is already a savings. This is an incredibly strong choice for Trials/Survival where you need to quickly re-engage and don’t always have the time for Lion’s long reload.
+	- Sprint faster, after sprinting for 2 seconds, your currently equipped weapon is reloaded. Lion has a ~ 2.5 second reload animation, so this is already a savings. This benefit is an incredibly strong choice for Trials/Survival where you need to quickly re-engage and don’t always have the time for Lion’s long reload.
 
-- **Claws of the Ahamkara**
+- **Claws of Ahamkara**
 [Melee](#warlock-exotics){: .btn .btn--info}
 
-	- A second melee charge. Nothing fancy. Can help with Top Tree Dawnblade’s `Celestial Fire` melee (33 damage x 3) or middle tree Stromcaller’s `Ball Lightning` (70 splash + 31 direct hit damage).
+	- A second melee charge. Nothing fancy. Can help with Top Tree Dawnblade’s `Celestial Fire` melee (33 damage x 3) or middle tree Stormcaller’s `Ball Lightning` (70 splash + 31 direct hit damage).
 
-- **Nezarac's Sins**
+- **Nezarec's Sins**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-	- The pinnacle of Lion exotics for PvE, this exotic synergizes with Lion’s void nature. Void kills increase ability regeneration. [For Grenades, a void kill,]( https://www.reddit.com/r/CruciblePlaybook/comments/9hd3re/best_void_energy_weapons_for_nezarec_sins_voidlock/) such as from the Lion, reduces 7 seconds from your cool down. For comparison, **Eye of another World is a flat 30 second cooldown reduction.
+	- The pinnacle of Lion exotics for PvE, this exotic synergizes with Lion’s void nature. Void kills increase ability regeneration. [For Grenades, a void kill,]( https://www.reddit.com/r/CruciblePlaybook/comments/9hd3re/best_void_energy_weapons_for_nezarec_sins_voidlock/) such as from the Lion, reduces 7 seconds from your cool down. For comparison, **Eye of another World** is a flat 30 second cooldown reduction. _NB:_ `Abyssal Extractors` only activates for 2 seconds for a single grenade (even on multi-kills) if the user doesn't have AE currently active; it can stack properly on multikills from single grenades while `Abyssal Extractors` is active.
 
 - **Getaway Artist**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-	- Consuming your grenade creates a turret that fires out five (5) burst that do 11 damage each. It lasts for 20 seconds and makes it excellent for helping with clean-up.
+	- Consuming your grenade creates a turret that fires out five (5) burst that do 11 damage each. It lasts for 20 seconds and makes it excellent for helping with clean-up. _NB:_ Arc buddies will proc `Thin the Herd`'s  autoreload on your Lion.
 
 - **The Stag**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-	- Empowering Rifts give a 20% damage buff, and as of patch 2.8.0 it buffs direct hit damage as well. That means a direct hit will do 170+32, or 202, enough to kill all resiliences. If you want to play a more Rift centric style, then use The Stag.
+	- Empowering Rifts give a 20% damage buff, and as of patch 2.8.0, it buffs direct hit damage as well. That means a direct hit will do 170+32, or 202, enough to kill all resiliencies. If you want to play a more Rift centric style, then use The Stag.
 
 - **Lunafaction Boots**
 [Reloading](#warlock-exotics){: .btn .btn--danger}
@@ -60,12 +57,13 @@ Exotic choices will favor one of three things:
 - **Verity's Brow**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-	- Recently reworked in 2.8.0. Energy weapon kills give up to 3x stacks. Each stack gives 10% damage to grenades. Throw a grenade to refresh your teammate’s grenade recharge rate. There’s still testing to be done, but the timing and damage boosts seem insufficient to work in Crucible.
+	- Recently reworked in 2.8.0. Energy weapon kills give up to 3x stacks. Each stack gives 10% damage to grenades. Throw a grenade to refresh your teammate’s grenade recharge rate. There’s still testing to be done, but the timing and damage boosts seem lackluster in Crucible.
 
 - **Wings of Sacred Dawn**
 [Mobility](#warlock-exotics){: .btn .btn--success}
 
 	- Aiming down sights holds you in place in mind-air and gives you incoming 15% damage reduction. But, you are incredibly exposed while this happens, so it has a very high risk component. _The choice_ for Snipelion users. Use the hold perk sparingly and with a hip-fire weapon as possible. Use top tree Dawnblade and `Strafe` glide to expand your maneuverability when not holding in air. All that said, you can do some very cool plays such as holding above door frames and choke points. Don’t activate in the middle of the open of Bannerfall’s courtyard.
+	**Disclaimer: the visual effect while active makes you stick out massively, so beware if enemies are watching the skies!**
 
 - **Others**
 
@@ -83,12 +81,12 @@ Exotic choices will favor one of three things:
 - **Synthoceps**
 [Melee](#titan-exotics){: .btn .btn--info}
 
-	- Melee synergy with long range melees, and extra damage to groups. Very fun choice.
+	- Melee synergy with long range melees, and extra melee damage while surrounded. Very fun choice with middle tree **Striker**.
 
 - **Ashen Wake**
 [Grenade](#titan-exotics){: .btn .btn--info}
 
-	- The new Titan terror. Getting a kill with a sticky grenade recharges your grenade. And since sticky grenades do 140+ damage, they’re perfect for clean-up.  Don’t forget `Fastball` perk on your gloves.
+	- The new Titan terror. Getting a kill with a sticky Fusion grenade recharges your grenade. And since sticky grenades do 140+ damage, they’re perfect for clean-up.  Don’t forget `Fastball` perk on your gloves.
 
 - **Doom Fang Pauldrons**
 [Melee](#titan-exotics){: .btn .btn--info}
@@ -98,7 +96,10 @@ Exotic choices will favor one of three things:
 - **Lion Rampant**
 [Mobility](#titan-exotics){: .btn .btn--success}
 
-	- Okay, so it’s not Ramparts, it’s Rampant. In Hearldry, Rampant means a Lion rearing up on its rear legs, which fits this exotic perfectly. Gain the Warlock `Strafe Glide` jump and increased in-air accuracy. A perfect fit for Lion users.
+	- **Okay, so it’s not Ramparts, it’s Rampant.** Look at the lion on the side of the them!
+		- ![img](https://cdna.artstation.com/p/assets/images/images/010/474/394/large/patrick-bloom-pb-titan-exotic-legs.jpg?1524621833 | width=500)
+		- In Heraldry, Rampant means a Lion rearing up on its rear legs, which fits this exotic perfectly.
+	- Gain the Warlock `Strafe Glide` jump and increased in-air accuracy. An excellent choice for Fighting Lion users.
 
 - **Peacekeepers**
 [Reloading/Dexterity](#titan-exotics){: .btn .btn--danger}
@@ -114,10 +115,10 @@ Exotic choices will favor one of three things:
 
 	- Top-tier choice for Hunters. Reload all weapons and gain MAXIMUM bonuses to handling and increased agility. Start here.
 
-- **Ophidian's Spathe**
+- **Ophidia Spathe**
 [Melee](#hunter-exotics){: .btn .btn--info}
 
-	-  An extra knife charge is a strong way to clean up Lion kills.
+	-  An extra knife charge is a strong way to clean up Lion kills. Great pairing with middle tree Gunslinger's `Play with Fire` perk.
 
 - **Young Ahamkara's Spine**
 [Grenade](#hunter-exotics){: .btn .btn--info}
@@ -132,7 +133,7 @@ Exotic choices will favor one of three things:
 - **FR0ST-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}
 
-	-  An understated exotic, but sprinting increasing abilities is a great synergy.
+	-  An underrated exotic, but sprinting increasing abilities is a great synergy.
 
 - **ST0MP-EE5**
 [Mobility](#hunter-exotics){: .btn .btn--success}

@@ -10,6 +10,10 @@ main:
 
 
 docs:
+  - title: Get Started
+    children:
+      - title: "Get Started"
+        url: /get_started/
   - title: Become a Master
     children:
       - title: "The Gun"

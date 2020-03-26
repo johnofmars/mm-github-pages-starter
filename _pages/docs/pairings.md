@@ -13,7 +13,7 @@ And then end with some of my favorites.
 
 ## Distance & playstyle
 
-The Getting Started page was all about Lion's strengths for distance and playstyle. But if you want to become a master, it's important to understand weaknesses as well as the strengths.
+The Getting Started page was all about Lion's strengths for distance and playstyle. But if you want to become a master, it's important to understand Lion's weaknesses, as well as its strengths.
 
 - Lion is weakest in **close** quarters. [It cannot be remoted detonated within 15 meters or 0.5 seconds of firing](https://i.imgur.com/R2S0XfD.jpg). But don't worry, direct hits will explode. But with a requirement to get direct hits and a 2.5 second (minimum) reload time, you _must_ have something in your back pocket to deal with apes. Sidearms and SMGs are great options, and so are shotguns, but you can also rely on your subclass abilities of grenades and melees to supplement. Even if you want to play long range, you must be prepared for apes.
 - Lion is second weakest at **long** ranges. A 2.5 second reload time is often enough time for enemies to disengage and begin recovery. A long-range weapon such as a sniper or even pulse rifle can supplement here.
@@ -35,19 +35,19 @@ It's real and big and is my friend.
 A perfect Lion shot in PvP will result in 168 damage. But it's also possible to get as low as 40 damage. There are two schools of thought to how to clean up the Lion:
 
 - Big damage follow-up
-  - The first is a big damage follow-up, like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries are also very viable, and for big damage clean-up, a 110 RPM hand cannon's
+  - The first is a big damage follow-up, like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries are also very viable, and for big damage clean-up, a 110 RPM hand cannon's damage will do the job.
 
 - Small damage follow-up
   - Picture **Recluse**:  its fast 900 RPM firerate means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
 
-Using [Mercules' Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it determine Shots to Kill (STK) and Time to Kill (TTK) for various RPM handcannons. The below charts will show the effect between Big & Small Damage follow-ups:
+Using [Mercules' Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it to determine **Shots to Kill** (STK) and **Time to Kill (TTK)** for various RPM handcannons. The below charts will show the effect between Big & Small Damage follow-ups:
 
 ![STK & TTK](/assets/images/hc_ttk.png)
 
 As you can see:
-- you're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
-- you're _more_ likely to need a follow-up shot with a 180rpm, _but_ it'll be ready sooner.
-- Included for reference is a Lightweight RPM (like Recluse), shooting at 80% accuracy, so you can see the effect of the fastest RPM gun and how strong a fast flexible choice is as well.
+- You're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
+- You're _more_ likely to need a follow-up shot with a 180rpm, _but_ it'll be ready sooner.
+- Included, for reference, is a Lightweight RPM SMG(like Recluse), shooting at 80% accuracy, so you can see the effect of the fastest RPM gun and how strong a fast flexible choice is as well.
 
 Of course, there are other options to consider such as handling, engagement distance, whether you want to prioritize accuracy or number of shots, etc. But with this information, you can make an informed choice.
 
@@ -112,6 +112,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 - `Kill Clip` **Service Revolver** (on console)
 - `Vorpal`, `Hipfire Grip` **Breachlight**
 - `Kill Clip` **Antiope-D**
+- `Rampage`, `Opening Shot` **Duke Mk-44**
 - **Redrix's Broadsword**
 - `Auto-loading Holster`, `Kill Clip` **Spare Rations**
 - **Revoker**
