@@ -55,6 +55,7 @@ a _Zhang Fei_ is a kind of [Chinese Dancing Lion](https://en.wikipedia.org/wiki/
 
   > The Zhang Fei (Cantonese: Cheung Fei) [dancing] lion has a black based face with short black beard, small ears, and black bristles. The tail is black and white with white trim and a white underside. Traditionally this lion also had bells attached to the body. Being the youngest of the three brothers, there is only a single coin on the collar. **This Lion is known as the Dou Shi (simplified Chinese: 斗狮; traditional Chinese: 鬥獅; pinyin: Dòu Shī; literally: 'Fighting Lion') because Zhang Fei had a quick temper and loved to fight.**
 
+Also, this is neat given this website's name:
   > This lion is used by [Kung Fu] clubs that were just starting out or by those wishing to make a challenge.
 
 Zhang Fei himself, to use an alignment chart, would be **Chaotic Evil**.  "Zhang Fei is not a good person, he is not a good general, he's just good at killing." (Also, he was good at drinking.) So I much prefer to think of the name as the dancing lion rather than the General.
