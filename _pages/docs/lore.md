@@ -51,7 +51,7 @@ Wei Ning was [the greatest titan who ever lived](https://did-you-reboot.tumblr.c
 
 ### Zhang Fei
 
-Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_Fei) from the early 200s AD in the Three Kingdoms Guide. To use an alignment chart, he would be **Chaotic Evil**.  "Zhang Fei is not a good person, he is not a good general, he's just good at killing." (also good at drinking.)
+Zhang Fei was [a Chinese military general](https://en.wikipedia.org/wiki/Zhang_Fei) from the early 200s AD in the Three Kingdoms era. To use an alignment chart, he would be **Chaotic Evil**.  "Zhang Fei is not a good person, he is not a good general, he's just good at killing." (also good at drinking.)
 
 ### Design Motifs
 
