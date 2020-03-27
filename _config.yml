@@ -24,7 +24,6 @@ github_username: johnofmars
 minimal_mistakes_skin: dark
 search                   : true
 search_full_content      : true
-search_provider          : algolia
 
 teaser: /assets/images/teaser.jpg
 
