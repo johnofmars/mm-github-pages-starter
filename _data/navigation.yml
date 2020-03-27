@@ -17,34 +17,34 @@ docs:
   - title: Become a Master
     children:
       - title: "The Gun"
-        url: /docs/the_gun/
+        url: /the_gun/
       - title: "Basic Techniques"
-        url: /docs/basic_techniques/
+        url: /basic_techniques/
       - title: "Advanced Techniques"
-        url: /docs/adv_techniques/
+        url: /adv_techniques/
       - title: "Detailed Damage Analysis"
-        url: /docs/damage/
+        url: /damage/
       - title: "Weapon Pairings"
-        url: /docs/pairings/
+        url: /pairings/
       - title: "Armor: Mods & Stats"
-        url: /docs/armor/
+        url: /armor/
       - title: "Exotic Armors"
-        url: /docs/exotics/
+        url: /exotics/
       - title: "Subclasses"
-        url: /docs/subclasses/
+        url: /subclasses/
       - title: "Videos"
-        url: /docs/videos/
+        url: /videos/
       - title: "Patch Notes"
-        url: /docs/patch_notes/
+        url: /patch_notes/
   - title: Resources
     children:
       - title: "Lore"
-        url: /docs/lore/
+        url: /lore/
       - title: "Development"
-        url: /docs/development/
+        url: /development/
       - title: "Community"
-        url: /docs/community/
+        url: /community/
       - title: "Wallpapers & Memes"
-        url: /docs/images/
+        url: /images/
       - title: "Other Guides"
-        url: /docs/other_guides/
+        url: /other_guides/
