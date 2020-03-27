@@ -1,6 +1,7 @@
 ---
 permalink: /adv_techniques/
 title: "Advanced Techniques"
+excerpt: "Search Test"
 ---
 
 ## Start with Basic Techniques:
