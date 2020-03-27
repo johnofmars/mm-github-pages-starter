@@ -10,10 +10,6 @@ main:
 
 
 docs:
-  - title: "Fighting Lion"
-    image: /assets/images/sidebar_photo.png
-    image_alt: "Fighting Lion"
-    text: "An Exotic Grenade Launcher in Destiny 2."
   - title: Get Started
     children:
       - title: "Get Started"
