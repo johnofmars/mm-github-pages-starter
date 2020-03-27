@@ -72,19 +72,19 @@ footer:
       url: "https://twitter.com/johnofmars"
 
 defaults:
-  # _posts
+  # _docs
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
-    sidebar:
-      nav: "docs"
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
