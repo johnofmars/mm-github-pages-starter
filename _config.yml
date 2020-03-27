@@ -23,6 +23,7 @@ twitter_username: johnofmars
 github_username: johnofmars
 minimal_mistakes_skin: dark
 search: true
+search_full_content      : true
 
 teaser: /assets/images/teaser.jpg
 
