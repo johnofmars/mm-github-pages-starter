@@ -2,14 +2,6 @@
 permalink: /docs/subclasses/
 title: "Subclasses"
 teaser: /assets/images/teaser.jpg
-
-author_profile: false
-
-sidebar:
-  - title: "Fighting Lion"
-    image: /assets/images/sidebar_photo.png
-    image_alt: "Fighting Lion"
-    text: "An Exotic Grenade Launcher in Destiny 2."
 ---
 
 > **Disclaimer** I'm a warlock main.
