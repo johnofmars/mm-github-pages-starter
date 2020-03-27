@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: johnofmars
 github_username: johnofmars
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 teaser: /assets/images/teaser.jpg
 
