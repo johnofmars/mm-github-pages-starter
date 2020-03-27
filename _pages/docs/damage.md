@@ -1,7 +1,6 @@
 ---
 permalink: /docs/damage/
 title: "Detailed Damage Analysis"
-teaser: /assets/images/teaser.jpg
 ---
 
 (Current as of Patch 2.8.0)

@@ -1,7 +1,6 @@
 ---
 permalink: /get_started/
 title: "Get Started"
-teaser: /assets/images/teaser.jpg
 ---
 
 ## The Intro

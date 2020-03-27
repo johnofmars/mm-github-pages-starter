@@ -1,7 +1,6 @@
 ---
 permalink: /docs/subclasses/
 title: "Subclasses"
-teaser: /assets/images/teaser.jpg
 ---
 
 > **Disclaimer** I'm a warlock main.

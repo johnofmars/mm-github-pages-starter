@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-teaser: /assets/images/teaser.jpg
 ---
 
 John of Mars fell in love with Fighting Lion in January 2018 and has praised it ever since.
@@ -15,6 +14,6 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 
 ### Special Thanks
 
-- **SunSun** for testing and editing.
+- **SunSun** for editing & testing.
 - **Wizard Magizard** for PvP damage & glitch testing.
 - **Prostate Puncher** for PvP testing and Video Editing Software.

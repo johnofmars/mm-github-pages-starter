@@ -1,7 +1,6 @@
 ---
 permalink: /docs/patch_notes/
 title: "Annotated Patch Notes"
-teaser: /assets/images/teaser.jpg
 ---
 
 Graph of Damage Changes

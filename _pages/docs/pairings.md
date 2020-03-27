@@ -1,7 +1,6 @@
 ---
 permalink: /docs/pairings/
 title: "Weapon Pairings"
-teaser: /assets/images/teaser.jpg
 ---
 
 To help you pick a weapon for pairing with your Lion, we're going to do look at 3 things:

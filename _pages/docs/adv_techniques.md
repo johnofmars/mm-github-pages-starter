@@ -1,7 +1,6 @@
 ---
 permalink: /docs/adv_techniques/
 title: "Advanced Techniques"
-teaser: /assets/images/teaser.jpg
 ---
 
 ## Start with Basic Techniques:

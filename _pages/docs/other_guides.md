@@ -1,7 +1,6 @@
 ---
 permalink: /docs/other_guides/
 title: "Video Resources"
-teaser: /assets/images/teaser.jpg
 ---
 
 ## Lion Gameplay & Guides

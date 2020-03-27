@@ -1,7 +1,6 @@
 ---
 permalink: /docs/images/
 title: "Wallpapers & Memes"
-teaser: /assets/images/teaser.jpg
 
 gallery:
   - url: /assets/images/memes/gjally.jpeg

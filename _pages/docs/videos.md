@@ -1,7 +1,6 @@
 ---
 permalink: /docs/videos/
 title: "Videos"
-teaser: /assets/images/teaser.jpg
 ---
 
 ### The original Tutorial from Year 1

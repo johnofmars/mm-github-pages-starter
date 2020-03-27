@@ -1,10 +1,7 @@
 ---
 permalink: /docs/armor/
 title: "Armor: Mods & Stats"
-teaser: /assets/images/teaser.jpg
 ---
-
-(Under Construction)
 
 [Here is a breakdown](https://i.imgur.com/hixbrKA.jpg) of which mods are available in which slot and which elemental affinity.
 

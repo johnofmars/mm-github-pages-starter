@@ -1,7 +1,6 @@
 ---
 permalink: /docs/basic_techniques/
 title: "Basic Techniques"
-teaser: /assets/images/teaser.jpg
 ---
 
 ## Shooting your Lion

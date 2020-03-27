@@ -1,7 +1,6 @@
 ---
 permalink: /docs/lore/
 title: "Lore"
-teaser: /assets/images/teaser.jpg
 
 gallery:
   - url: /assets/images/skin_base.png
