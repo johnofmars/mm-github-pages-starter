@@ -1,5 +1,5 @@
 ---
-permalink: /docs/the_gun/
+permalink: /the_gun/
 title: "The Gun"
 teaser: /assets/images/teaser.jpg
 

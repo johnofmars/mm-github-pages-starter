@@ -1,5 +1,5 @@
 ---
-permalink: /docs/other_guides/
+permalink: /other_guides/
 title: "Video Resources"
 ---
 

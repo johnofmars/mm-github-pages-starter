@@ -1,5 +1,5 @@
 ---
-permalink: /docs/images/
+permalink: /images/
 title: "Wallpapers & Memes"
 
 gallery:

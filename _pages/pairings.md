@@ -1,5 +1,5 @@
 ---
-permalink: /docs/pairings/
+permalink: /pairings/
 title: "Weapon Pairings"
 ---
 

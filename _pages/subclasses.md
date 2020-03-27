@@ -1,5 +1,5 @@
 ---
-permalink: /docs/subclasses/
+permalink: /subclasses/
 title: "Subclasses"
 ---
 

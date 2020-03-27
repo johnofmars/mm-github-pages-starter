@@ -1,5 +1,5 @@
 ---
-permalink: /docs/armor/
+permalink: /armor/
 title: "Armor: Mods & Stats"
 ---
 

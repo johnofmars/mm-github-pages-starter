@@ -1,5 +1,5 @@
 ---
-permalink: /docs/basic_techniques/
+permalink: /basic_techniques/
 title: "Basic Techniques"
 ---
 

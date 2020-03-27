@@ -1,5 +1,5 @@
 ---
-permalink: /docs/videos/
+permalink: /videos/
 title: "Videos"
 ---
 

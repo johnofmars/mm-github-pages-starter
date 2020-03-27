@@ -1,5 +1,5 @@
 ---
-permalink: /docs/damage/
+permalink: /damage/
 title: "Detailed Damage Analysis"
 ---
 

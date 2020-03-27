@@ -1,5 +1,5 @@
 ---
-permalink: /docs/lore/
+permalink: /lore/
 title: "Lore"
 
 gallery:

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/patch_notes/
+permalink: /patch_notes/
 title: "Annotated Patch Notes"
 ---
 

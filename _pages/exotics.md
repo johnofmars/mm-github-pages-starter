@@ -1,5 +1,5 @@
 ---
-permalink: /docs/exotics/
+permalink: /exotics/
 title: "Exotic Armor Choices"
 ---
 

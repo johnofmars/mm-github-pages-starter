@@ -1,5 +1,5 @@
 ---
-permalink: /docs/community/
+permalink: /community/
 title: "Community"
 ---
 

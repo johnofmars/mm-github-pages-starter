@@ -1,5 +1,5 @@
 ---
-permalink: /docs/development/
+permalink: /development/
 title: "Development"
 
 gallery:

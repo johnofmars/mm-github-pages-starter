@@ -1,5 +1,5 @@
 ---
-permalink: /docs/adv_techniques/
+permalink: /adv_techniques/
 title: "Advanced Techniques"
 ---
 
