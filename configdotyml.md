@@ -39,7 +39,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _posts
-  - _
+  - _docs
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -74,17 +74,53 @@ footer:
       url: "https://twitter.com/johnofmars"
 
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+      sidebar:
+        title: "Fighting Lion"
+        image: /assets/images/sidebar_photo.png
+        image_alt: "Fighting Lion"
+        text: "An Exotic Grenade Launcher in Destiny 2."
+        nav: "docs"
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
+      sidebar:
+        title: "Fighting Lion"
+        image: /assets/images/sidebar_photo.png
+        image_alt: "Fighting Lion"
+        text: "An Exotic Grenade Launcher in Destiny 2."
+        nav: "docs"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        title: "Fighting Lion"
+        image: /assets/images/sidebar_photo.png
+        image_alt: "Fighting Lion"
+        text: "An Exotic Grenade Launcher in Destiny 2."
+        nav: "docs"
 
 category_archive:
   type: liquid
