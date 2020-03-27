@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: johnofmars
 github_username: johnofmars
 minimal_mistakes_skin: dark
-search: false
+search: true
 
 teaser: /assets/images/teaser.jpg
 
@@ -69,12 +69,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/johnofmars"
-
-sidebar:
-  - title: "Fighting Lion"
-    image: /assets/images/sidebar_photo.png
-    image_alt: "Fighting Lion"
-    text: "An Exotic Grenade Launcher in Destiny 2."
 
 defaults:
   # _docs
