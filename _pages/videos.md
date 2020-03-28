@@ -7,9 +7,9 @@ header:
   og_image: /assets/images/your-og-image.jpg
 
 sidebar:
-  - title: "Fighting Lion Club"
+  - title: "Fighting Lion"
     image: /assets/images/sidebar_photo.png
-    image_alt: "image"
+    image_alt: "Fighting Lion"
     text: "An exotic grenade launcher in Destiny 2"
     nav: "docs"
 ---
