@@ -5,8 +5,13 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash.png
+
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/your-og-image.jpg
+
 excerpt: >
   A community guide to Destiny 2's Exotic Energy Grenade Launcher  <br />Primarily focused on PvP<br />
+
 feature_row:
   - image_path: /assets/images/get_started.png
     alt: "Get Started"
@@ -26,6 +31,7 @@ feature_row:
     url: "/resources/"
     btn_class: "btn--primary"
     btn_label: "For Wei"
+
 ---
 
 {% include feature_row %}
