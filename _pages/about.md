@@ -17,3 +17,9 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 - **SunSun** for editing & testing.
 - **Wizard Magizard** for PvP damage & glitch testing.
 - **Prostate Puncher** for PvP testing and Video Editing Software.
+
+## Copyright
+
+- All written content here is by me, unless otherwise acknowledged.
+- Fighting Lion & Destiny are owned by Bungie.
+- Other content is owned by the respective authors. I've made every effort to cite my sources, but if I missed anyone, please let me know.

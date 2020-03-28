@@ -55,10 +55,6 @@ This test only judges the time from the start of reload animation to return to n
 |:-----------  	|-------:	|---------:	|
 | Hand-off reload | x  	| _(base)_  |
 | Manual reload   | x  	| x  	|
-| Ophidians, no mods   	| x  	| x  	|
-| 1x GL Loader  | x  	| x  	|
-| 1x Enhanced   | x  	| x  	|
-| 2x GL loader  | x  	| x  	|
 | 2x Enhanced   | x  	| x  	|
 
 ### Ammo Mods (Scavenger & Reserve)
