@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+John of Mars fell in love with Fighting Lion in January 2018 and has praised it ever since.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+![My tattoo](/assets/images/tattoo.jpg){:class="img-responsive"}
+
+## Acknowledgments
+
+- The entire community in the reddit and discord mentioned in the [Community](/docs/community/) page.
+- Where I used other people's works, I made sure to cite in-line, so if I missed something please let me know.
+
+### Special Thanks
+
+- **SunSun** for editing & testing.
+- **Wizard Magizard** for PvP damage & glitch testing.
+- **Prostate Puncher** for PvP testing and Video Editing Software.
