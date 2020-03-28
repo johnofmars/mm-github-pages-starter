@@ -86,6 +86,7 @@ One day, will know your Lion well enough to shoot long-range _and blind_:
 
 The best thing I can say about Lion is that there is no skill ceiling. There's always something to learn and improve and that is so satisfying. This site was put together by my own knowledge and experience, but improved upon by a community of other fans who love this gun.
 
-[![Road Never Ends](/assets/images/road_never_ends.png)](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003pg)
-
-_credit: Edward Tufte_
+<figure>
+  <img src="/assets/images/road_never_ends.png" alt="Road Never Ends">
+  <figcaption>credit: Edward Tufte</figcaption>
+</figure>

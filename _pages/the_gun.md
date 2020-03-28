@@ -27,7 +27,7 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ![The Stats](/assets/images/stats.png)
 
-> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values.
+> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values. Note: this is not a result of perk application not showing. These are radically different values that conflict.
 {: .notice--warning}
 
 ## The Basics
@@ -129,7 +129,11 @@ It is tricky to get the perfect timing to pull this off however. The community h
 
 It is possible to have your grenade shot out of the air.
 
-> The Fighting Lion grenade has <=11 hp in Crucible, as tested by a rapid fire SMG.
+![grenade](/assets/images/grenade.png)
+
+>Scumbag Lion round. Deals 168 damage, can't even take 10.
+
+The Fighting Lion grenade has <=11 hp in Crucible, (as tested by a rapid fire SMG.)
 
 ### Glitches
 

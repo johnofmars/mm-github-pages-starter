@@ -1,6 +1,18 @@
 ---
 permalink: /videos/
 title: "Videos"
+
+sidebar:
+  - title: "Fighting Lion Club"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
+
+    header:
+      teaser: /assets/images/teaser.jpg
 ---
 
 ### The original Tutorial from Year 1
