@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: johnofmars
 github_username: johnofmars
 minimal_mistakes_skin: dark
-search                   : true
+search: true
 search_full_content      : true
 
 teaser: /assets/images/teaser.jpg
@@ -38,6 +38,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _posts
+  - _docs
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -78,7 +80,24 @@ defaults:
       type: docs
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+      sidebar:
+        title: "Fighting Lion"
+        image: /assets/images/sidebar_photo.png
+        image_alt: "Fighting Lion"
+        text: "An Exotic Grenade Launcher in Destiny 2."
+        nav: "docs"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
       read_time: false
       comments: false
       share: true

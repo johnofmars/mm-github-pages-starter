@@ -1,9 +1,50 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Get Started"
+    url: /get_started/
+  - title: "Become a Master"
+    url: /mastery/
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/
+
+
+docs:
+  - title: Get Started
+    children:
+      - title: "Get Started"
+        url: /get_started/
+  - title: Become a Master
+    children:
+      - title: "The Gun"
+        url: /the_gun/
+      - title: "Basic Techniques"
+        url: /basic_techniques/
+      - title: "Advanced Techniques"
+        url: /adv_techniques/
+      - title: "Detailed Damage Analysis"
+        url: /damage/
+      - title: "Weapon Pairings"
+        url: /pairings/
+      - title: "Armor: Mods & Stats"
+        url: /armor/
+      - title: "Exotic Armors"
+        url: /exotics/
+      - title: "Subclasses"
+        url: /subclasses/
+      - title: "Videos"
+        url: /videos/
+      - title: "Patch Notes"
+        url: /patch_notes/
+  - title: Resources
+    children:
+      - title: "Lore"
+        url: /lore/
+      - title: "Development"
+        url: /development/
+      - title: "Community"
+        url: /community/
+      - title: "Wallpapers & Memes"
+        url: /images/
+      - title: "Other Guides"
+        url: /other_guides/
