@@ -5,6 +5,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash.png
+  overlay_filter: 0.25
   teaser: /assets/images/teaser.jpg
   og_image: /assets/images/teaser.jpg
 excerpt: >
