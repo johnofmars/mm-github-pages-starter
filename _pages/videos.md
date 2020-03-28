@@ -4,7 +4,7 @@ title: "Videos"
 
 header:
   teaser: /assets/images/teaser.jpg
-  og_image: /assets/images/your-og-image.jpg
+  og_image: /assets/images/teaser.jpg
 
 sidebar:
   - title: "Fighting Lion"

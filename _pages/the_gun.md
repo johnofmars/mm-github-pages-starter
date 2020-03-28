@@ -17,6 +17,16 @@ feature_row:
     title: "Masterwork Perk: Chimera"
     excerpt: "After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy."
 
+header:
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/teaser.jpg
+
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
 ---
 
 Let's get started.

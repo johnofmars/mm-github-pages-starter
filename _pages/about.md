@@ -1,6 +1,17 @@
 ---
 permalink: /about/
 title: "About"
+
+header:
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/teaser.jpg
+
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
 ---
 
 John of Mars fell in love with Fighting Lion in January 2018 and has praised it ever since.

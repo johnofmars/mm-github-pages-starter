@@ -1,9 +1,21 @@
 ---
 permalink: /patch_notes/
 title: "Annotated Patch Notes"
+
+header:
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/teaser.jpg
+
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
 ---
 
-Graph of Damage Changes
+## Graph of Damage Changes
+
 ![Fighting Lion Damage per Patch](/assets/images/damage.png)
 
 ![Stonks!](/assets/images/stonks.jpg)

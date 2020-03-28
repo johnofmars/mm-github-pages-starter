@@ -36,7 +36,16 @@ gallery2:
 - url: /assets/images/memes/bi_lion.jpg
   image_path: /assets/images/memes/bi_lion.jpg
 
+header:
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/teaser.jpg
 
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
 ---
 
 The best way to spread a message in the 21st century is memes, and so here we go:

@@ -1,7 +1,17 @@
 ---
 permalink: /resources/
 title: "Resources"
-teaser: /assets/images/teaser.jpg
+
+header:
+  teaser: /assets/images/teaser.jpg
+  og_image: /assets/images/teaser.jpg
+
+sidebar:
+  - title: "Fighting Lion"
+    image: /assets/images/sidebar_photo.png
+    image_alt: "Fighting Lion"
+    text: "An exotic grenade launcher in Destiny 2"
+    nav: "docs"
 ---
 
 - [Lore](/lore/)
