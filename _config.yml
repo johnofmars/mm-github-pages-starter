@@ -24,12 +24,12 @@ github_username: johnofmars
 minimal_mistakes_skin: dark
 search                   : true
 search_full_content      : true
-search_provider          : lunr
+search_provider          : algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : ERZVBBAQH5
+  index_name             : FLC
+  search_only_api_key    : 7a9e78c99e36ed58860f64b6a8325e64
+  powered_by             : true
 
 
 teaser: /assets/images/teaser.jpg
