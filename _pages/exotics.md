@@ -77,7 +77,8 @@ Exotic choices will favor one of three things:
 
 - **Others**
 
-	- Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 meters if you stood in a rift. This allowed for some very fun Duck Hunt shenanigans. It's new perk of allowing indefinite rift duration with continual damage is sadly, no longer a top-tier choice for Lion users.
+  - **Sunbracers** are top tier for PvE, because with an airborne playstyle with Lion, you're constantly refilling your grenades and melees.
+  - Before the 2.8.0 patch, **Sanguine Alchemy** used to mark all targets in 30 meters if you stood in a rift. This allowed for some very fun Duck Hunt shenanigans. It's new perk of allowing indefinite rift duration with continual damage is sadly, no longer a top-tier choice for Lion users.
 
 ### Titan Exotics
 

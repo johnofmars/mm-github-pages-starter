@@ -93,4 +93,4 @@ Bank shots behind barricades to kill Titans who think they are safe. Also notice
 
 ## Now on to Advanced Techniques:
 
-[Click here.](/docs/adv_techniques/)
+[Click here.](/adv_techniques/)

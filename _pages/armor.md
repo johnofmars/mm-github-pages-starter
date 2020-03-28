@@ -18,27 +18,6 @@ sidebar:
 
 ## Mods to take:
 
-### Dire Artillery
-![Dire Artillery](/assets/images/dire_artillery.png)
-
-(Source: Obelisks in Season of the Dawn, Vendor rank ups afterward.)
->Grants additional Super energy on Energy or Power Grenade Launcher final blows.
-
-This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). [Confirmed to work with Fighting Lion, but _not_ Mountaintop.](https://thumbs.gfycat.com/UnderstatedMarvelousIrukandjijellyfish-mobile.mp4)
-
-Also, it stacks.
-
-![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
-> Tested with a Tier 1 combatant in the Tribute Hall. Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
-
-It works in Crucible too:
-![No Mods](/assets/images/crucible_nomods.png)
-![2 Mods](/assets/images/crucible_2mods.png)
-
-### Unflinching mods (but not GL unflinching)
-
-You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
-
 ### Reload mods
 
 The Lion has two phases before another round can be fired: `Reload Delay` + `Reload Animation`. Reload Delay can be mitigated by  `Manual Reloads`, i.e. reloading as soon as you fire, not after the round explodes. We will test both the reload animation alone as well as the shot to shot time, which would include both Reload Delay and Reload Animation.
@@ -103,13 +82,39 @@ Two things determine how ammo will work for your lion:
 - Heavy Ammo bricks and Heavy Ammo Crucible Spawns do _not_ give Lion ammo.
 - If you are empty in Crucible, you have to wait for an enemy to give you a primary brick. There is no automatic granting of ammo like in PvE.
 
+### Dire Artillery
+![Dire Artillery](/assets/images/dire_artillery.png)
 
-### Traction
+(Source: Obelisks in Season of the Dawn, Vendor rank ups afterward.)
+>Grants additional Super energy on Energy or Power Grenade Launcher final blows.
+
+This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). [Confirmed to work with Fighting Lion, but _not_ Mountaintop.](https://thumbs.gfycat.com/UnderstatedMarvelousIrukandjijellyfish-mobile.mp4)
+
+Also, it stacks.
+
+![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
+> Tested with a Tier 1 combatant in the Tribute Hall. A tier 1 enemy kill at 50%.
+
+Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
+
+It works in Crucible too:
+![No Mods](/assets/images/crucible_nomods.png)
+![2 Mods](/assets/images/crucible_2mods.png)
+
+This is 4 kills with no mods and 4 kills with 2x `Dire Artillery` mods
+
+### Other choices:
+
+- **Unflinching mods for your Kinetic Weapon (but not GL unflinching)**
+  - You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
+- **Traction**
+  - Fighting Lion is a mobility based weapon, so having the +10 mobility and increased turn speed is a real asset.
 
 ## Mods to avoid:
 
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
+  - In PvE, it's a good choice because it procs A LOT, because the game thinks you're using a special ammo weapon, which has less up time.
 - Excessive GL launcher reload perks
   - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/docs/armor/#reload-mods)
 - Concussive Dampener does NOT work in Crucible

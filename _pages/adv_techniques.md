@@ -16,7 +16,7 @@ sidebar:
 
 ## Start with Basic Techniques:
 
-[Click here.](/docs/basic_techniques/)
+[Click here.](/basic_techniques/)
 
 ## Playing with Lion: Be Mobile
 

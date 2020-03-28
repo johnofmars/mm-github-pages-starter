@@ -42,6 +42,9 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ## The Basics
 
+![](/assets/images/void.png | width=96)
+**Fighting Lion** is an Exotic Break Action, Breach Loading _Void_ Energy Slot Grenade Launcher.
+
 ### Exotic perks and Archetype
 
 The "Exotic" perk is `Delayed Gratification`, which is the same perk as `Lightweight Frame` from legendary single shot grenade launchers:
@@ -105,6 +108,10 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 ### PvE only: Inverted Lion
 
 ### Reloading
+
+The reload cap is approximately 20% faster reduction. A single reloader will get you 80% of that cap. Check out [Armor: Mods & Stats](https://www.fightinglion.club/armor/#reload-mods) for more information on reload speed mods.
+
+But that's only part of the story!
 
 Fighting Lion will automatically reload after the round you've fired detonates. However! Reloading is special with Fighting Lion as you can _manually_ begin a reload immediately after firing, even while holding to detonate the fired round. This process is referred to as **Manual Reloading**. This removes the entire recoil animation and allows for reloading nearly 2x as fast. _Reload mods_ do help even if you're doing manual reloads.
 
