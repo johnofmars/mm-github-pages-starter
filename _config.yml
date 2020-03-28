@@ -22,9 +22,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: johnofmars
 github_username: johnofmars
 minimal_mistakes_skin: dark
-search_provider: lunr
 search                   : true
 search_full_content      : true
+search_provider          : lunr
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
 
 
 teaser: /assets/images/teaser.jpg
