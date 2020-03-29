@@ -21,8 +21,8 @@ gallery:
     image_path: /assets/images/memes/smoothie.jpg
   - url: /assets/images/memes/hammer.jpg
     image_path: /assets/images/memes/hammer.jpg
-  - url: /assets/images/memes/the_boys.JPG
-    image_path: /assets/images/memes/the_boys.JPG
+  - url: /assets/images/memes/the_boys.jpg
+    image_path: /assets/images/memes/the_boys.jpg
   - url: /assets/images/memes/letmein.jpg
     image_path: /assets/images/memes/letmein.jpg
   - url: /assets/images/memes/bank_those.jpg
