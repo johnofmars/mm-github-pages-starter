@@ -115,4 +115,8 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 |          	| Armor of Light 	| 142+26 	|
 
 
-**Self-Damage**
+**Self-Damage & Point Blank Damage**
+
+You can't see damage numbers against yourself, but point-blank and perfect return damage to you (**cough** Antaneus Wards **cough**) will do the same 168 perfect damage you would do to an opponent. It looks like this:
+
+![self-damage](/assets/images/self_damage.png)

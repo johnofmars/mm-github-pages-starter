@@ -34,18 +34,24 @@ This test only judges the time from the start of reload animation to return to n
 |:-----------  	|-------:	|---------:	|
 | None        	| 3:04   	| _(base)_  |
 | Ophidians, no mods   	| 2:49  	| -8%      	|
+| 1x Large Arms  | 2:37  	| -15%     	|
 | 1x GL Loader  | 2:32  	| -17%     	|
 | 1x Enhanced   | 2:29  	| -19%     	|
+| 2x Large Arm  | 2:27  	| -20%     	|
 | 2x GL loader  | 2:27  	| -20%     	|
 | 2x Enhanced   | 2:26  	| -21%     	|
 
 **Fire to Fire**
 
+Refer to the [Reloading section of The Gun for detail on Manual Reloading.](/the_gun/#reloading)
+
 | Perks       	| Time  	| Reduction |
 |:-----------  	|-------:	|---------:	|
-| Hand-off reload | x  	| _(base)_  |
-| Manual reload   | x  	| x  	|
-| 2x Enhanced   | x  	| x  	|
+| Hand-off reload | 3:25  	| _(base)_  |
+| Manual reload   | 2:04  	| -40%  	|
+| 2x Enhanced   | 1:46  	| -48%  	|
+
+> Note: These times are shorter than the above, because it's using reload cuts, i.e. smashing the firing button to fire as soon as possible, rather than waiting for the full animation reload.
 
 ### Ammo Mods (Scavenger & Reserve)
 
@@ -71,7 +77,6 @@ Two things determine how ammo will work for your lion:
 
  (* somewhat random, I've spawned with 10,11 or 12)
 
-
 |  Mod         	| none 	| 1x Reserves 	| 2x Reserves 	|
 |:--------------	|------:	|-------------:	|-------------:	|
 | none         	| 7    	| 7           	| 7           	|
@@ -93,15 +98,12 @@ This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (
 Also, it stacks.
 
 ![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
-> Tested with a Tier 1 combatant in the Tribute Hall. A tier 1 enemy kill at 50%.
+> Tested with a Tier 1 combatant in the Tribute Hall. The enemy kill was at 50%.
 
 Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
 
 It works in Crucible too:
-![No Mods](/assets/images/crucible_nomods.png)
-![2 Mods](/assets/images/crucible_2mods.png)
-
-This is 4 kills with no mods and 4 kills with 2x `Dire Artillery` mods
+![super mods](/assets/images/supermods.png)
 
 ### Other choices:
 

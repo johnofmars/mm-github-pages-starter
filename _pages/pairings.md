@@ -40,6 +40,8 @@ Lastly, triple grenade launcher isn't just a meme.
 
 It's real and big and is my friend.
 
+One last thing to note. Fighting Lion is very viable as part of a Double Primaries Loadout. Double primary has the advantage of starving your enemies of Special ammo. That means it _costs_ them ammo to kill you.
+
 ## Archetypes
 
 A perfect Lion shot in PvP will result in 168 damage. But it's also possible to get as low as 40 damage. There are two schools of thought to how to clean up the Lion:

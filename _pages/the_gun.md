@@ -42,8 +42,9 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ## The Basics
 
-![](/assets/images/void.png | width=96)
-**Fighting Lion** is an Exotic Break Action, Breach Loading _Void_ Energy Slot Grenade Launcher.
+![](/assets/images/void.png)
+
+**Fighting Lion** is an Exotic Break Action, Breach Loading **<span style="color: purple">Void</span>** Energy Slot Grenade Launcher.
 
 ### Exotic perks and Archetype
 
@@ -107,17 +108,42 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 
 ### PvE only: Inverted Lion
 
+The `Thin the Herd` perk says "Rapid hits against Grenade Damaged Targets Refill the Magazine".
+
+[This is wrong. On almost every level.](/assets/images/memes/wrong.jpg)
+
+The kills don't have to be against grenade damaged opponents for starters. But also!
+
+You can get the kill _**first!**_ Behold, the Inverted Lion!
+
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/phonycalculatingbluebird?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+</figure>
+
+>This doesn't work in Crucible, however.]
+{: .notice--warning}
+
 ### Reloading
 
-The reload cap is approximately 20% faster reduction. A single reloader will get you 80% of that cap. Check out [Armor: Mods & Stats](https://www.fightinglion.club/armor/#reload-mods) for more information on reload speed mods.
+The reload cap is approximately 20% faster. A single reloader will get you 80% of that cap. Check out [Armor: Mods & Stats](https://www.fightinglion.club/armor/#reload-mods) for more information on reload speed mods.
 
-But that's only part of the story!
+But that's only part of the story! Fighting Lion will automatically reload after the round you've fired detonates. However!
 
-Fighting Lion will automatically reload after the round you've fired detonates. However! Reloading is special with Fighting Lion as you can _manually_ begin a reload immediately after firing, even while holding to detonate the fired round. This process is referred to as **Manual Reloading**. This removes the entire recoil animation and allows for reloading nearly 2x as fast. _Reload mods_ do help even if you're doing manual reloads.
+> Reloading is special with Fighting Lion as you can _manually_ begin a reload immediately after firing, even while holding to detonate the fired round.
+{: .text-center}
+
+This process is referred to as **Manual Reloading**. This removes the entire recoil animation and allows for reloading nearly 2x as fast. _Reload mods_ do help even if you're doing manual reloads.
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/83b9RtyEdf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+![manual reload](/assets/images/manual_reload.png)
+
+As you can see, Manual Reloading significantly cuts down on recoil & return, and eliminates the cooldown. It's still not anywhere close to 90 rpm.
+
+> Manual reloading: Practice hitting reload after you fire the weapon.
+{: .notice--success}
 
 It is tricky to get the perfect timing to pull this off however. The community has developed a macro for this purpose, but even that can be inconsistent. The Macro is really for instructive purposes only. It's cool script, but it's not feasible to use in Crucible for any real means.
 
