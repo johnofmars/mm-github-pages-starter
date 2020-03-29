@@ -140,7 +140,7 @@ This process is referred to as **Manual Reloading**. This removes the entire rec
 
 ![manual reload](/assets/images/manual_reload.png)
 
-As you can see, Manual Reloading significantly cuts down on recoil & return, and eliminates the cooldown. It's still not anywhere close to 90 rpm.
+As you can see, Manual Reloading significantly cuts down on recoil & return, and eliminates the cooldown. It's still not anywhere close to 90 rpm, though.
 
 > Manual reloading: Practice hitting reload after you fire the weapon. Don't wait til after detonate the round!
 {: .notice--success}
