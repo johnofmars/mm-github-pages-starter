@@ -179,7 +179,9 @@ Courtesy of **u/Illyxi**
 **Top 3:**
 1. Mobility
   - You need to be able to peak shoot and disengage quickly. Mobility is king.
+  - Mobility also helps hunters with (reload) Dodge cooldown, so it's win-win.
 2. Recovery
-  - Do not neglect Recovery. Helpful for peak shooting and disengaging both. Also, on Warlock, reduces your **Rift** cooldown.
+  - Do not neglect Recovery. Helpful for peak shooting and disengaging both.
+  - Also, on Warlock, reduces your **Rift** cooldown.
 3. Strength or Discipline, depending on your subclass & playstyle
   - I'm a neutral game player. I like Melees or Grenades to help with kills outside of Supers. Additionally, Melee & Strength mods are only **3 energy** while Intelligence (Super) mods are **5 energy** and restrict your armor mods choices unnecessarily.

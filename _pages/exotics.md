@@ -134,7 +134,7 @@ Exotic choices will favor one of three things:
 - **Young Ahamkara's Spine**
 [Grenade](#hunter-exotics){: .btn .btn--info}
 
-	-  If Fighting Lion is all about using geometry, then this exotic is the same. Use your sticky nades to start or clean-up Lion kills.
+	-  If Fighting Lion is all about using geometry, then this exotic is the same. Use your sticky Tripmines on walls and floors to start or clean-up Lion kills.
 
 - **Mechaneer's Tricksleeves**
 [Reloading/Dexterity](#hunter-exotics){: .btn .btn--danger}
