@@ -18,7 +18,7 @@ sidebar:
 
 How often do you chuckle with delight while playing Destiny 2? It's a game, after all! Are you [sick of the meta](/assets/images/off-meta.jpg)? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
 
-[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](https://i.imgur.com/pGtgsXX.gifv)
+[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](/assets/images/dream_bigger.gif)
 
 ## Part 1: The Gun
 
@@ -77,7 +77,7 @@ Hand cannons are crispy and have good range and versatility. They're the signatu
 
 **Long Range**
 
-Pair with a sniper, focus on team shooting, using to deter pushes, shoot long range to maybe even double-tap.
+Pair with a sniper, focus on team shooting, using to deter pushes, shoot long range to maybe even double-tap someone who won't retreat.
 
 ># Practice, practice, practice.
 {: .text-center}
@@ -95,7 +95,7 @@ One day, will know your Lion well enough to shoot long-range _and blind_:
 ># You will never be bored with Fighting Lion.
 {: .text-center}
 
-The best thing I can say about Lion is that there is no skill ceiling. There's always something to learn and improve and that is so satisfying. This site was put together by my own knowledge and experience, but improved upon by a community of other fans who love this gun.
+The best weapon, skill, loadout is any weapon that you haven't mastered yet. And Fighting Lion has no skill ceiling. There's always more to learn and more to try.
 
 <figure>
   <img src="/assets/images/road_never_ends.png" alt="Road Never Ends">

@@ -31,6 +31,7 @@ The place for theory-crafting, meming, shit-talking Jötunn and just hanging out
 ## Other Community resources:
 
 - [CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/)
+  For all your Crucible scientists and strategists out there.
 - [Destiny STL Generator](http://www.destinystlgenerator.com/)
   If you ever wanted to 3D print a Fighting Lion, go here.
 - [Light.gg](https://www.light.gg/db/items/3549153978/fighting-lion/)'s database entry for Fighting Lion

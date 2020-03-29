@@ -100,7 +100,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
       <iframe src='https://gfycat.com/ifr/ablewhoppingargusfish?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
     </figure>
 
-  - `Vorpal`
+  - `Vorpal` - Do extra damage to Guardians using their Super.
     - **Breachlight**, a sidearm, does 50% extra dmg against supers.  It's a 3 shot head and 4 shot body on supers. It 2 shots golden gun super.
 
     <figure class="video_container">

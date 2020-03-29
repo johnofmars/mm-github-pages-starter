@@ -39,8 +39,14 @@ As you can see, Arc bonus damage is busted.
 | % Change  	| _(base)_  	| 72%  	| 68%  	|
 
 ### Sustained DPS
-(Using Ehroar's method)
 
+The time it would take to shoot 20 rounds (not counting the first shot since it starts the timer) is best case:
+
+Manual reloading, 2x Enhanced Reloaders: 1:46 seconds.
+
+Boss DPS is therefore 6941 damage/sec, _best case_.
+
+For comparison, **Whisper of the Worm** with `Whispered Breathing` is ~30,000 dps. Lion's burst damage is nearly 2x as much damage as its susistained. So use it as an opener before beginning your DPS if you want.
 
 ### Fall-off
 

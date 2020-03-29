@@ -66,4 +66,4 @@ There are plenty of articles and thoughts about which Subclass to run in Crucibl
 - **Way of a Thousand Cuts (middle tree)**
   - `Knife Trick` (throw a fan of burning knives), `Burning Edge` (while enemies burn, your dodge AKA free reload recharges faster), and `Playing with fire` (destroying burning enemies recharges `Knife Trick` faster) is some amazing synergy on it's own, but with a grenade launcher with massive uptime, you're going to have a good time.
 
-Not a lot of synergies here, to be honest. Most of the Hunter subclasses will work well with Lion. **Way of the Sharpshooter** has the Weighted Knife, but the rest of the perks are about precision and Lion isn't precision capable. **Nighstalkers** have the wombo combo which is a fun way to clean up Lion shots.
+Not a lot of synergies here beyond that, to be honest. Most of the Hunter subclasses will work well with Lion. **Way of the Sharpshooter** has the Weighted Knife, but the rest of the perks are about precision and Lion isn't precision capable. **Nighstalkers** have the wombo combo which is a fun way to clean up Lion shots.
