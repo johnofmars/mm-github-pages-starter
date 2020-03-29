@@ -120,7 +120,7 @@ You can get the kill _**first!**_ Behold, the Inverted Lion!
   <iframe src='https://gfycat.com/ifr/phonycalculatingbluebird?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
->This doesn't work in Crucible, however.]
+>This doesn't work in Crucible, however.
 {: .notice--warning}
 
 ### Reloading
@@ -142,7 +142,7 @@ This process is referred to as **Manual Reloading**. This removes the entire rec
 
 As you can see, Manual Reloading significantly cuts down on recoil & return, and eliminates the cooldown. It's still not anywhere close to 90 rpm.
 
-> Manual reloading: Practice hitting reload after you fire the weapon.
+> Manual reloading: Practice hitting reload after you fire the weapon. Don't wait til after detonate the round!
 {: .notice--success}
 
 It is tricky to get the perfect timing to pull this off however. The community has developed a macro for this purpose, but even that can be inconsistent. The Macro is really for instructive purposes only. It's cool script, but it's not feasible to use in Crucible for any real means.

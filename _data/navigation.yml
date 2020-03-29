@@ -10,7 +10,7 @@ main:
 
 
 docs:
-  - title:
+  - title: Introduction
     children:
       - title: "Get Started"
         url: /get_started/
