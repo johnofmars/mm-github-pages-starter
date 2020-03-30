@@ -60,14 +60,14 @@ Misleading, RPM is gated by reload speed, not firing rate. The practical RPM of 
 
 With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin the Herd`. There are three full distinct parts and each of them is more than can be discussed in a short list.
 1. Direct hits do more damage to enemy combatant shields.
-  - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over damage to an unshielded enemy, but bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/docs/damage/)
+  - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over damage to an unshielded enemy, but bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/damage/)
 2. Rapid kills against grenade-damaged enemies refill the magazine.
   - This aspect of the perk is badly worded.
     - If you do damage with Fighting Lion, getting a kill (against any target), will refill the magazine.
-    - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/docs/basic_techniques/)
+    - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/basic_techniques/)
 
 3. Kills always drop Primary ammo.
-  - There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks. [See **Ammo Management** below for more.](/docs/the_gun/#ammo-management)
+  - There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks. [See **Ammo Management** below for more.](/the_gun/#ammo-management)
 
 ### Masterwork
 
@@ -166,7 +166,7 @@ It is tricky to get the perfect timing to pull this off however. The community h
 - Ammo per random drop brick: **8,10,15**
 - Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
 
-[Refer to Armor: Perks & Stats](/docs/armor/#mods-to-take/) for more on how to manage your ammo with perks.
+[Refer to Armor: Perks & Stats](/armor/#mods-to-take/) for more on how to manage your ammo with perks.
 
 ### Grenade Health
 

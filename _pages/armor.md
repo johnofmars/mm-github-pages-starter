@@ -118,7 +118,7 @@ It works in Crucible too:
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
   - In PvE, it's a good choice because it procs A LOT, because the game thinks you're using a special ammo weapon, which has less up time.
 - Excessive GL launcher reload perks
-  - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/docs/armor/#reload-mods)
+  - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/armor/#reload-mods)
 - Concussive Dampener does NOT work in Crucible
 - Dexterity mods
   - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it has diminishing returns.
