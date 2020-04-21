@@ -14,7 +14,7 @@ docs:
     children:
       - title: "Get Started"
         url: /get_started/
-      - title: "mastery tl;dr"
+      - title: "Mastery TL;DR"
         url: /tldr/
   - title: Become a Master
     children:

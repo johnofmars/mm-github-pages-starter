@@ -1,6 +1,6 @@
 ---
 permalink: /tldr/
-title: "Mastery tldr"
+title: "Mastery Too Long; Didn't Read"
 teaser: /assets/images/teaser.jpg
 
 header:
