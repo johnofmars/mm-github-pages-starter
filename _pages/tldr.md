@@ -49,7 +49,7 @@ Here is your **too long; didn't read**
 - Double primaries is very viable and starves your enemies of special ammo.
 - Fighting Lion is weak in close range due to the minimum delay on manual detonation and difficulty of direct hits.
 
->**Close range** Make sure you cover this weakness!!!
+>**Close Range:** Make sure you cover this weakness!!!
 {: .notice--warning}
 
 ## PvE
@@ -83,5 +83,6 @@ Here is your **too long; didn't read**
   - My favorites are **Nezarec's Sins**, **Transversive Steps**, **Sunbracers**, **Synthoceps**, **Dragon's Shadow**.
 - Focus on subclasses with high mobility and strong grenade or melee options (depending on your preferences)
 
+------------
 
 (thanks to **TerriblePuns** for the suggestion of this page and its contents)
