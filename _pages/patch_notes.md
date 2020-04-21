@@ -20,18 +20,11 @@ sidebar:
 
 ![Stonks!](/assets/images/stonks.jpg)
 
-## Current Status:
-
-{::options parse_block_html="false" /}
-
-<div class="center">
-
-<a class="embedly-card" href="https://www.reddit.com/r/DestinyTheGame/comments/fh9tmz/feel_like_the_fighting_lion_was_nerfed_checkin/fkc4tl5">Card</a>
-<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
-
-</div>
-
 ## Patch notes:
+
+[Update 2.8.1](https://www.bungie.net/en/News/Article/48959) - _Guardian Games patch_
+
+- Fixed an issue with Breech Loaded (Special ammo) Grenade Launchers that resulted in them having a significantly reduced blast radius.
 
 [Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838) - _Season of the Worthy patch_
 

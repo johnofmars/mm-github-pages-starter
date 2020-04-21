@@ -50,9 +50,10 @@ For comparison, **Whisper of the Worm** with `Whispered Breathing` is ~30,000 dp
 
 ### Fall-off
 
+Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/qVmdIkF"><a href="//imgur.com/a/qVmdIkF">FL Blast Radius Test</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 
 ## PvP
 
