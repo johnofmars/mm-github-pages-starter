@@ -30,7 +30,7 @@ sidebar:
   - Fighting Lion dictates your whole loadout, so here are some thoughts on playstyle, perks and specific choices to get you started. Also, a neat Time-to-kill and Shots-to-kill discussion for clean-up kills.
 
 - [Armor: Mods & Stats](/armor/)
-  - Discussion on Mods such as Dire Artillery and Reloader Perks. Included are some sample builds.
+  - Discussion on Mods such as `Dire Artillery` and `Reloader`s. Included are some sample builds for PvE and PvP.
 
 - [Exotic Armor Choices](/exotics/)
   - 5 to 10 choices per class, using criteria such as `Reloading/Dexterity`, `Mobility`, `Melee\Grenade Synergy` and `Utility`.
@@ -41,5 +41,5 @@ sidebar:
 - [Videos](/videos/)
   - My montages of using Fighting Lion, from all 3 years of Destiny 2.
 
-- [Patch Notes](/patch_otes/)
+- [Patch Notes](/patch_notes/)
   - Relevant portions of all patch notes from D2 Vanilla and a graph of Damage Changes to Lion thoughout.

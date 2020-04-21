@@ -27,8 +27,8 @@ Here is your **too long; didn't read**.
 
 - **Thin the Herd, the exotic perk**, is 3 perks in one:
   - Do extra damage to enemy shields (bonus damage doesn't work in Crucible or on Arc shields)
-  - Rapid kills after doing damage refill the magazine. (Helps maintain uptime)
-  - Kills always drop ammo. (It's enough to completely refill your reserves.)
+  - Killing any enemy with non-**Lion** damage shortly after dealing damage with Lion refills Lion's magazine (Helps maintain uptime)
+  - Kills with **Lion** always drop ammo. (It's enough to completely refill your reserves.)
 
 - **Masterworking**:
   - New perk **Chimera**, gives your kinetic `Quickdraw`, `Snapshot Sights` _and_ `Opening Shot` for 3 seconds.
@@ -54,6 +54,7 @@ Here is your **too long; didn't read**.
 
 ## PvE
 
+- The gun may be "90" rpm, but in practice, it's gated by reload speed. Actual fire rate is ~42 rpm.
 - You can [invert the Lion combo](/the_gun/#pve-only-inverted-lion) in PvE only:
   - Fire your kinetic, then get a lion kill to instantly refill your lion.
 - Focus on multi-kills and staying mobile.
@@ -62,8 +63,8 @@ Here is your **too long; didn't read**.
 ## Weapon Pairings
 
 - You don't need `Quickdraw`, `Snapshot Sights` _and_ `Opening Shot`
-  - So use perks like `Kill Clip`, `Rampage`, `Hipfire Grip`, ` Vorpal`, etc.
-- **Lion** is a solid mid-range weapon, so make your choice around that.
+  - So use perks like `Kill Clip`, `Rampage`, ` Vorpal`, `Autoloading Holster`, `Hipfire Grip`, etc.
+- **Lion** is a solid mid-range weapon, so make your choice around that. It is very flexible.
   - Shotguns, Side-arms, SMGs for close range.
   - Hand cannons for close/mid.
   - Snipers for long range.
@@ -82,6 +83,11 @@ Here is your **too long; didn't read**.
 - Exotic armors that benefit reloading/ability-synergies/mobility or damage-utility are great choices.
   - My favorites are **Nezarec's Sins**, **Transversive Steps**, **Sunbracers**, **Synthoceps**, **Dragon's Shadow**.
 - Focus on subclasses with high mobility and strong grenade or melee options (depending on your preferences)
+
+## Video Showcase & Tutorial
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LNgBG0Vz16I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ------------
 
