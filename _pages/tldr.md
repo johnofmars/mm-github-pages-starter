@@ -23,12 +23,12 @@ Here is your **too long; didn't read**
 
 - Always hip-fire.
 - Always hold to fire, release to detonate.
-- Like all tube grenade launchers, it's a Lightweight Frame, and thus gives a mobility bonus
+- Like all tube grenade launchers, it's a Lightweight Frame, and thus it gives a mobility bonus.
 
 - **Thin the Herd, the exotic perk**, is 3 perks in one:
   - Do extra damage to enemy shields (bonus damage doesn't work in Crucible or on Arc shields)
-  - Rapid kills after doing damage refill the magazine. (helps maintain uptime)
-  - Kills always drop ammo. It's enough to completely refill your reserves.
+  - Rapid kills after doing damage refill the magazine. (Helps maintain uptime)
+  - Kills always drop ammo. (It's enough to completely refill your reserves.)
 
 - **Masterworking**:
   - New perk **Chimera**, gives your kinetic `Quickdraw`, `Snapshot Sights` _and_ `Opening Shot` for 3 seconds.
@@ -49,7 +49,7 @@ Here is your **too long; didn't read**
 - Double primaries is very viable and starves your enemies of special ammo.
 - Fighting Lion is weak in close range due to the minimum delay on manual detonation and difficulty of direct hits.
 
->Make sure you cover this weakness (close range).
+>**Close range** Make sure you cover this weakness!!!
 {: .notice--warning}
 
 ## PvE
@@ -63,10 +63,14 @@ Here is your **too long; didn't read**
 
 - You don't need `Quickdraw`, `Snapshot Sights` _and_ `Opening Shot`
   - So use perks like `Kill Clip`, `Rampage`, `Hipfire Grip`, ` Vorpal`, etc.
-- **Fighting Lion** is a solid mid-range weapon, so build your loadout around that.
+- **Lion** is a solid mid-range weapon, so make your choice around that.
   - Shotguns, Side-arms, SMGs for close range.
   - Hand cannons for close/mid.
   - Snipers for long range.
+- For PvP, [Follow-up damage](/pairings/#archetypes) is very important!
+  - Fast firing, lower damage is forgiving, but on average slower.
+  - Slow, big damage is faster, but unforgiving.
+- For PvE, consider **Lion** like any other primary and bring a special weapon of your choice.
 
 ## Loadout
 
