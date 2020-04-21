@@ -16,9 +16,9 @@ sidebar:
 
 ## The Intro
 
-How often do you chuckle with delight while playing Destiny 2? It's a game, after all! Are you [sick of the meta](/assets/images/off-meta.jpg)? Are you ready to find a truly lethal gun, that inspires joy? _Are you ready to become a real Guardian?_
+How often do you chuckle with delight while playing Destiny 2? It's a game, after all! Are you [sick of the meta](/assets/images/off-meta.jpg)? Are you ready to find a truly lethal gun, _that inspires joy?_
 
-[Then Don't Be Afraid to Dream Bigger, Darling & pick up Fighting Lion!](/assets/images/dream_bigger.gif)
+[Then Don't Be Afraid to Dream Bigger, Darling, & Pick Up Fighting Lion!](/assets/images/dream_bigger.gif)
 
 ## Part 1: The Gun
 
@@ -62,7 +62,7 @@ Fighting Lion does the same damage regardless of distance, but your preferred en
 
 **Melee Range**
 
-Treat it like a shotgun, follow up with melee. Charged or uncharged melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
+Treat it like a shotgun, follow up with melee. Melees will finish the fight. Subclass trees that have healing melees are a natural fit for this, as are melee exotics. Just don't fire the Lion point blank or you'll injure yourself.
 
 >It is very important to note that the Lion takes 15m or 0.5 seconds to arm before manual detonation is possible. That means: *if you miss your direct body hit in CQC, you cannot manually detonate to get the splash damage.*
 {: .notice--warning}

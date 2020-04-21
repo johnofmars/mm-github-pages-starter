@@ -168,7 +168,7 @@ It works in Crucible too:
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
 ## Charged with Light Build
-Courtesy of **u/Illyxi**
+Courtesy of **SunSun**
 
 - 1x High Energy Fire, 1x Protective Light, and either 2x Blast Radius (double solar) or 1x Blast Radius, 1x Stacks on Stacks (one solar, one void for GL affinity)
 - In total requires 4 pieces of armor, leaving your Exotic open, and only requires one or two solar so you can spec GLs
@@ -178,6 +178,7 @@ Courtesy of **u/Illyxi**
 
 **Top 3:**
 1. Mobility
+  - You will always be hipfiring, so mobility is a huge asset.
   - You need to be able to peak shoot and disengage quickly. Mobility is king.
   - Mobility also helps hunters with (reload) Dodge cooldown, so it's win-win.
 2. Recovery

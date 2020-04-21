@@ -26,6 +26,7 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 ### Special Thanks
 
 - **SunSun** for editing & testing.
+- **TerriblePuns** for test methodology feedback.
 - **Wizard Magizard** for PvP damage & glitch testing.
 - **Prostate Puncher** for PvP testing and Video Editing Software.
 

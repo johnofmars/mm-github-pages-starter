@@ -73,7 +73,7 @@ With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin 
 
 ![Masterwork](/assets/images/catalyst.jpg)
 
-+27 Reload speed from **55** to **82**.
++27 Reload speed from **55** to **82**. That's an astonishing 50% increase.
 
 New perk:
 > **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
