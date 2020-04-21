@@ -17,7 +17,7 @@ sidebar:
 
 **Getting Started** was just the sales pitch, but what if you're not ready for 7,000 words of **Mastery** detail?
 
-Here is your **too long; didn't read**
+Here is your **too long; didn't read**.
 
 ## The Gun
 
@@ -74,7 +74,7 @@ Here is your **too long; didn't read**
 
 ## Loadout
 
-- `1x Grenade Launcher Loader` (non-enhanced) gets you 80% of the way to the reload cap
+- `1x Grenade Launcher Loader` (non-enhanced) gets you 80% of the way to the reload cap.
 - `Dire Artillery` (the equivalent of `Pump Action`/`Remote Connection`) _does_ work for **Fighting Lion**.
 - You don't need dexterity perks for your primary, because of **Chimera**.
 - Grenade Launcher `Scavenger` & `Reserves` don't help much for **Fighting Lion** (1-2 extra rounds)
