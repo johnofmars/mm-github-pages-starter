@@ -38,6 +38,7 @@ Here is your **too long; didn't read**
 
 ## PvP
 
+- Damage: 142 splash, 26 direct hit.
 - **Lion** has good hip fire and air accuracy. Be mobile. Use vertical space.
 - **Lion** does massive burst damage and is well-suited for team-shooting.
 - Dealing damage to targets that you cant see (and vice versa) gives you and your team a health advantage without putting you at risk. This is the greatest strength of **Fighting Lion**.
