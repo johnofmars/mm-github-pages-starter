@@ -86,7 +86,7 @@ Here is your **too long; didn't read**.
 
 ## Video Showcase & Tutorial
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LNgBG0Vz16I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jMJZc7bL0zU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ------------
