@@ -67,7 +67,7 @@ Here is your **too long; didn't read**
   - Shotguns, Side-arms, SMGs for close range.
   - Hand cannons for close/mid.
   - Snipers for long range.
-- For PvP, [Follow-up damage](/pairings/#archetypes) is very important!
+- For PvP, [follow-up damage](/pairings/#archetypes) is very important!
   - Fast firing, lower damage is forgiving, but on average slower.
   - Slow, big damage is faster, but unforgiving.
 - For PvE, consider **Lion** like any other primary and bring a special weapon of your choice.
@@ -75,7 +75,7 @@ Here is your **too long; didn't read**
 ## Loadout
 
 - `1x Grenade Launcher Loader` (non-enhanced) gets you 80% of the way to the reload cap
-- `Dire Artillery` (the equivalent of Pump Action/Remote Connection) _does_ work for **Fighting Lion**.
+- `Dire Artillery` (the equivalent of `Pump Action`/`Remote Connection`) _does_ work for **Fighting Lion**.
 - You don't need dexterity perks for your primary, because of **Chimera**.
 - Grenade Launcher `Scavenger` & `Reserves` don't help much for **Fighting Lion** (1-2 extra rounds)
   - Remember that `Thin the Herd` perk will completely refill your reserves with a single white ammo box on kill.
@@ -85,4 +85,4 @@ Here is your **too long; didn't read**
 
 ------------
 
-(thanks to **TerriblePuns** for the suggestion of this page and its contents)
+Thanks to **TerriblePuns** for the suggestion of this page and its contents!
