@@ -55,6 +55,7 @@ Exotic choices will favor one of three things:
 	- Consuming your grenade creates a turret that fires out five (5) burst that do 11 damage each. It lasts for 20 seconds and makes it excellent for helping with clean-up. _NB:_ Arc buddies will proc `Thin the Herd`'s  autoreload on your Lion.
 
 - **Contraverse Hold**
+[Melee](#titan-exotics){: .btn .btn--info}
 
 	- Sadly the Handheld Supernova is nerfed, but it's still a strong ranged melee for clean-up. Contraverse lets you get your grenades back faster and gives you a shield. In today's crucible, a charged Axion Bolt grenade can prime enemies for a quick Lion cleanup.
 
