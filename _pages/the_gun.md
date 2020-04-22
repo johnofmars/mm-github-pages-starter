@@ -52,7 +52,7 @@ The "Exotic" perk is `Delayed Gratification`, which is the same perk as `Lightwe
 
 >One-shot handheld Grenade Launcher with remote detonation. Hold to fire, release to detonate.
 
-Like all `Lightweight Frames` in Destiny 2, it offers an intrinsic Mobility bonus, +10 on the Shadowkeep scale.
+Like all `Lightweight Frames` in Destiny 2, it offers an intrinsic Mobility bonus, +20 on the Shadowkeep scale.
 
 > ~~72~~ 90 RPM like all Lightweight frames
 
