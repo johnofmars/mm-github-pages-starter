@@ -58,6 +58,9 @@ There are plenty of articles and thoughts about which Subclass to run in Crucibl
 
 ## Hunter Subclasses
 
+### Grenade Choices:
+- Skip Grenades, especially with **Shinobu's Vow** Enhanced tracking, are an excellent finisher for Lion hits when the target runs away.
+
 ### Arcstrider:
 - **Way of the Current (middle tree)**
   - `Tempest Strike` is a slide uppercut with some serious range and AoE damage. Will clean up Lion hits well.

@@ -70,6 +70,7 @@ Antaeus Wards will ruin your day.
 
 ### Traps
 
+It's tricky to get a round to land where you want, but you can place a grenade in a hallway or door and hold down the trigger for up to 6 seconds to prevent pushes. I don't have any footage here for this and that should probably tell you something.
 
 ## Old techniques
 

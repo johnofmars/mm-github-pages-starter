@@ -17,6 +17,7 @@ sidebar:
 
 - [The Gun](/the_gun/)
   - An overview of the Exotic Perks, Firing, Ammo & reloading, and finally some rare glitches.
+  
 - [Basic Techniques](/basic_techniques/)
   - How to use Lion to get kills, techniques for every range and how to get the total damage for the kill.
 
@@ -33,7 +34,7 @@ sidebar:
   - Discussion on Mods such as `Dire Artillery` and `Reloader`s. Included are some sample builds for PvE and PvP.
 
 - [Exotic Armor Choices](/exotics/)
-  - 5 to 10 choices per class, using criteria such as `Reloading/Dexterity`, `Mobility`, `Melee\Grenade Synergy` and `Utility`.
+  - 5 to 10 choices per class, using criteria such as `Reloading/Dexterity`, `Mobility`, `Melee/Grenade Synergy` and `Utility`.
 
 - [Subclasses](/subclasses/)
   - Choices for each Class's options. I'm a Warlock main, so take the Hunter/Titan stuff as a best guess.
