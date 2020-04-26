@@ -17,6 +17,7 @@ sidebar:
 ## Lion Gameplay & Guides
 
 - CammyCakes - [My 1st fav exotic - PvP Live Commentary (3) - D2 S10](https://www.youtube.com/watch?v=z5k8-v0Q5ME)
+- CammyCakes - [Take to the Skies - PvP Live Commentary (3) - D2 S7](https://youtu.be/H64zisGRvnI)
 - CammyCakes - [Fighting Lion in Trials of the Nine](https://www.youtube.com/watch?v=9dIkZ-on3AQ)
 - CammyCakes - [We Ran out of Ammo](https://www.youtube.com/watch?v=GRciVGEcDy0)
 - Farris - [Soloing Shattered Throne with Fighting Lion](https://www.youtube.com/watch?v=24irPptp-4c)

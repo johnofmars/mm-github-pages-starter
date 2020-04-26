@@ -89,7 +89,7 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 - **Mobility Improving**
 
-  - `Lightweight Frames`, gives +10 mobility.
+  - `Lightweight Frames`, gives +20 mobility.
   - `Moving Target`, `Hipfire Grip` If you prefer to ADS or hipfire, these will help with your strafe speed greatly.
   - `Air Assault` lmao, I dunno, I kinda want to try it with an **Austringer**.
 
