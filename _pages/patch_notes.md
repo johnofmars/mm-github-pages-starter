@@ -27,6 +27,7 @@ sidebar:
 - No explicit patch notes.
 
 > Reserve ammo increased.
+
 > PvE damage adjusted:
     - Explosion damage: 105%
     - Impact damage: 88%
