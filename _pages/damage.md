@@ -24,9 +24,9 @@ As tested in the Tribute Hall.
 
 |Stat       	|No Shield  	| Void        | Arc   	| Solar   	|
 |---	        |---	        |---	       |---	|---	|
-|Raw Damage	  | 10,365 + 1,899  	| 14,602 + 7,091 + 3,435  	| 10,365 + 2,364  	| 14,725 + 4,728   	|
-|Total Damage |12,264   	| 25,128  	| 12,729   	| 19,453   	|
-|% Change   	| _(base)_  	| 205%  	| 104%   	| 158%   	|
+|Raw Damage	  | 10,995 + 1,676  	| 16,661 + 6,258 + 3,447  	| 10,995 + 2,086  	| 16,287 + 4,172   	|
+|Total Damage |12,671   	| 26,366  	| 13,081  	| 20,459   	|
+|% Change   	| _(base)_  	| 208%  	| 103%   	| 161%   	|
 
 As you can see, Arc bonus damage is busted.
 
@@ -34,8 +34,8 @@ As you can see, Arc bonus damage is busted.
 
 | Stat  	| Minor  	| Major  	| Boss   	|
 |---	|---	|---	|---	|
-| Raw  	| 15,544+2373   	|10,883+1,994   	| 10,365 + 1,899  	|
-| Total  	|17,917   	|12,877   	| 12,264    	|
+| Raw  	| 16,387+2,095   	|11,545+1,760   	| 10,995 + 1,676  	|
+| Total  	|18,482   	|14,954   	| 12,761    	|
 | % Change  	| _(base)_  	| 72%  	| 68%  	|
 
 ### Sustained DPS

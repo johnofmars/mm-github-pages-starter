@@ -12,6 +12,22 @@ sidebar:
     image_alt: "Fighting Lion"
     text: "An exotic grenade launcher in Destiny 2"
     nav: "docs"
+
+feature_row:
+  - image_path: /assets/images/delayed_grat.png
+    alt: "Blast Radius"
+    title: "Blast Radius"
+    excerpt: " 	Become Charged with Light by rapidly defeating multiple enemies with Grenade Launchers or Rocket Launchers.
+    This mod's effects stack with other copies of this mod."
+  - image_path: /assets/images/high_energy_fire.png
+    alt: "High Energy Fire"
+    title: "High Energy Fire"
+    excerpt: "While Charged with Light, gain a bonus to weapon damage. Each defeated enemy consumes one stack of Charged with Light."
+  - image_path: /assets/images/stacks_on_stacks.png
+    alt: "Stacks on Stacks"
+    title: "Stacks on Stacks"
+    excerpt: "The player character gains an extra stack of Charged with Light for every stack they gain.
+    This mod decreases the player's recovery by 10."
 ---
 
 [Here is a breakdown](https://i.imgur.com/hixbrKA.jpg) of which mods are available in which slot and which elemental affinity.
@@ -64,24 +80,26 @@ Two things determine how ammo will work for your lion:
 
 | Mod           	| Ammo Brick | Kill Brick |
 |:---------------	|	-------:	|------------:	|
-| None          	| 3 / 6 | 10 / 20 |
-| 1x GL Reserves  	| 3 / 7 | 11 / 22 |
-| 2x GL  Reserves  	| 3 / 8 |  12 / 24 |
+| None          	| 4 / 8 | 13 / 26 |
+| 1x GL Reserves  	| 4 / 9 | 14 / 28 |
+| 2x GL  Reserves  	| 4 / 9 |  15 / 30 |
 
 
 | Mod           	| Spawn 	| Max 	|
 |:---------------	|-------:	|-----:	|
-| None          	| 10*    	| 20    	|
-| One Reserves  	| 10*    	|  22   	|
-| Two Reserves  	| 10*    	|  24   	|
+| None          	| 10*    	| 26    	|
+| 1x GL Reserves  	| 10*    	|  28   	|
+| 2x GL Reserves  	| 10*    	|  30   	|
 
  (* somewhat random, I've spawned with 10,11 or 12)
 
+How Scavenger Mods interact with Reserve Mods:
+
 |  Mod         	| none 	| 1x Reserves 	| 2x Reserves 	|
 |:--------------	|------:	|-------------:	|-------------:	|
-| none         	| 7    	| 7           	| 7           	|
-| 1x Scavenger 	| 7    	| 8           	| 9           	|
-| 2x Scavenger 	| 7    	| 9           	| 9           	|
+| none         	| 8    	| 8           	| 8           	|
+| 1x Scavenger 	| 8    	| 9           	| 9           	|
+| 2x Scavenger 	| 8    	| 9           	| 9           	|
 
 **Notes:**
 - Heavy Ammo bricks and Heavy Ammo Crucible Spawns do _not_ give Lion ammo.
@@ -100,7 +118,7 @@ Also, it stacks.
 ![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
 > Tested with a Tier 1 combatant in the Tribute Hall. The enemy kill was at 50%.
 
-Eyeballing, but 2.5% with 1 mod, 5% with 2x mods.
+Eyeballing it here, but 2.5% with 1 mod, 5% with 2x mods.
 
 It works in Crucible too:
 ![super mods](/assets/images/supermods.png)
@@ -112,7 +130,7 @@ It works in Crucible too:
 - **Traction**
   - Fighting Lion is a mobility based weapon, so having the +10 mobility and increased turn speed is a real asset.
 
-## Mods to avoid:
+## Mods to avoid in PvP:
 
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
@@ -167,12 +185,36 @@ It works in Crucible too:
 - Dire Artillery x2 (3 energy x2)
 - Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
 
-## Charged with Light Build
-Courtesy of **SunSun**
+## Charged with Light Build (CwL)
 
-- 1x High Energy Fire, 1x Protective Light, and either 2x Blast Radius (double solar) or 1x Blast Radius, 1x Stacks on Stacks (one solar, one void for GL affinity)
-- In total requires 4 pieces of armor, leaving your Exotic open, and only requires one or two solar so you can spec GLs
-- I typically go GL loader gauntlets with High Energy Fire, double Dire Artillery class item with Protective Light, and solar chest and boots for Blast Radius, leaving my helmet on Warlock for Nezarec's Sin, which cannot take a Seasonal mod.
+Charged with Light is a really strong system that synergizes well with Lion. Unfortunately, it's a bit obtuse.
+
+Every CwL build has needs a builder to get charges, a spender to get the benefit and _can_ have modifiers that give extra stacks or share charges with allies.
+- Builder (Green icon)
+- Spender (Yellow icon)
+- Modifier (White icon)
+
+**Standard Build**
+The Standard build is all about getting the 20% damage boost from **High Energy Fire** and keeping it up at all times.
+
+{% include feature_row %}
+
+A solid 4th choice is **Protective Light** (2 void)
+> When the player character is Charged with Light, they gain significant damage resistance when their shields are destroyed, consuming all stacks of Charged with Light. The more stacks consumed, the longer the damage resistance lasts.
+
+**Empowering Build:**
+Empowering builds instead of keeping 1-2 stacks, instead works to build a higher cap of Charges to empower a specific spender.
+
+* Charger: Blast Radius  (3 Solar)
+* Raise charge cap: Supercharged (5 Solar)
+* Bonus Damage Spenders:
+    - Swords (Lucent Blade - 4 Arc)
+    - Sidearms (Surprise Attack - 5 Solar)
+    - Super (Energy Converter - 4 Void)
+
+So in summary, you always have Blast Radius & Protective Light. For Lion focused neutral game: Stacks on Stacks with High Energy Fire. For any other build, it's raising the charge cap with Supercharged and then specific mod you want (sword, sidearm, super).
+
+For a full in-depth discussion, [check out this **Charged with Light Guide** from SunSun](https://www.reddit.com/r/FightingLion/comments/hb7gdo/revisiting_charged_with_light/?utm_source=share&utm_medium=web2x).
 
 ## Stats
 

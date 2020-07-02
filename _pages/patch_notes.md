@@ -22,11 +22,25 @@ sidebar:
 
 ## Patch notes:
 
+[Update 2.9.0](https://www.bungie.net/en/Explore/Detail/News/49188) _Season of Arrivals (11) patch_
+
+- No explicit patch notes.
+
+> Reserve ammo increased.
+> PvE damage adjusted:
+    - Explosion damage: 105%
+    - Impact damage: 88%
+    - Overall change: 103%
+> PvP damage change from Season of Worth reverted
+    - Explosion damage: 144 from 142
+    - Impact damage: 22 from 26
+    - Overall change: 166 from 168
+
 [Update 2.8.1](https://www.bungie.net/en/News/Article/48959) - _Guardian Games patch_
 
 - Fixed an issue with Breech Loaded (Special ammo) Grenade Launchers that resulted in them having a significantly reduced blast radius.
 
-[Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838) - _Season of the Worthy patch_
+[Update 2.8.0](https://www.bungie.net/en/Explore/Detail/News/48838) - _Season of the Worthy (10) patch_
 
 - Due to backend changes with the grenade launcher archetype, Fighting Lion inherited minor adjustments
 - Rate of Fire increased from 72 RPM to 90 RPM
