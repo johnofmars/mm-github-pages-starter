@@ -14,7 +14,7 @@ sidebar:
     nav: "docs"
 
 feature_row:
-  - image_path: /assets/images/delayed_grat.png
+  - image_path: /assets/images/blast_radius.png
     alt: "Blast Radius"
     title: "Blast Radius"
     excerpt: " 	Become Charged with Light by rapidly defeating multiple enemies with Grenade Launchers or Rocket Launchers.
