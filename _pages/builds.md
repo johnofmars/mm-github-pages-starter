@@ -105,16 +105,3 @@ Empowering builds instead of keeping 1-2 stacks, instead works to build a higher
 So in summary, you always have Blast Radius & Protective Light. For Lion focused neutral game: Stacks on Stacks with High Energy Fire. For any other build, it's raising the charge cap with Supercharged and then specific mod you want (sword, sidearm, super).
 
 For a full in-depth discussion, [check out this **Charged with Light Guide** from SunSun](https://www.reddit.com/r/FightingLion/comments/hb7gdo/revisiting_charged_with_light/?utm_source=share&utm_medium=web2x).
-
-## Stats
-
-**Top 3:**
-1. Mobility
-  - You will always be hipfiring, so mobility is a huge asset.
-  - You need to be able to peak shoot and disengage quickly. Mobility is king.
-  - Mobility also helps hunters with (reload) Dodge cooldown, so it's win-win.
-2. Recovery
-  - Do not neglect Recovery. Helpful for peak shooting and disengaging both.
-  - Also, on Warlock, reduces your **Rift** cooldown.
-3. Strength or Discipline, depending on your subclass & playstyle
-  - I'm a neutral game player. I like Melees or Grenades to help with kills outside of Supers. Additionally, Melee & Strength mods are only **3 energy** while Intelligence (Super) mods are **5 energy** and restrict your armor mods choices unnecessarily.

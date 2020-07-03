@@ -125,3 +125,16 @@ It works in Crucible too:
 - Dexterity mods
   - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it has diminishing returns.
   - For more on Dexterity Perks, Freehand Mod and Quickdraw, refer to [this post on r/CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/a0itxx/massive_breakdown_of_dexterity_perks_with/)
+
+  ## Stats
+
+  **Top 3:**
+  1. Mobility
+    - You will always be hipfiring, so mobility is a huge asset.
+    - You need to be able to peak shoot and disengage quickly. Mobility is king.
+    - Mobility also helps hunters with (reload) Dodge cooldown, so it's win-win.
+  2. Recovery
+    - Do not neglect Recovery. Helpful for peak shooting and disengaging both.
+    - Also, on Warlock, reduces your **Rift** cooldown.
+  3. Strength or Discipline, depending on your subclass & playstyle
+    - I'm a neutral game player. I like Melees or Grenades to help with kills outside of Supers. Additionally, Melee & Strength mods are only **3 energy** while Intelligence (Super) mods are **5 energy** and restrict your armor mods choices unnecessarily.
