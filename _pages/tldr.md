@@ -63,7 +63,7 @@ Here is your **too long; didn't read**.
 ## Weapon Pairings
 
 - You don't need `Quickdraw`, `Snapshot Sights` _and_ `Opening Shot`
-  - So use perks like `Kill Clip`, `Rampage`, ` Vorpal`, `Autoloading Holster`, `Hipfire Grip`, etc.
+  - So use perks like `Kill Clip`, `Rampage`, `Vorpal`, `Autoloading Holster`, `Hipfire Grip`, etc.
 - **Lion** is a solid mid-range weapon, so make your choice around that. It is very flexible.
   - Shotguns, Side-arms, SMGs for close range.
   - Hand cannons for close/mid.

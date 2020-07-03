@@ -30,7 +30,13 @@ feature_row:
     This mod decreases the player's recovery by 10."
 ---
 
-## Sample Builds
+Refer to the Armor: Mods & Stats for detailed discussion of each option. Here will we put it all together.
+
+This page will evaluate two things:
+- Non-Seasonal builds (choices from the first 3 armor slots)
+- Charged with Light (Season of Dawn (8) or Arrivals (11))
+
+## Non-Seasonal Builds
 
 **Head (any element):**
 - Enhanced Aiming Perks or 2x Regular Aiming Perks
