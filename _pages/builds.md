@@ -1,6 +1,6 @@
 ---
-permalink: /Builds/
-title: "Builds: Standard & Seasonal"
+permalink: /builds/
+title: "Sample Builds"
 
 header:
   teaser: /assets/images/teaser.jpg

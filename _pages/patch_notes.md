@@ -29,10 +29,13 @@ sidebar:
 Reserve ammo increased.
 
 PvE damage adjusted:
+
     - Explosion damage change: +5%
     - Direct Hit damage: -12%
     - Overall change: +3%
+
 PvP damage change from Season of Worth reverted
+
     - Explosion damage: 144 from 142
     - Direct Hit damage: 22 from 26
     - Overall change: 166 from 168
