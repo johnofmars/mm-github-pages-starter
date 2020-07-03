@@ -26,7 +26,7 @@ sidebar:
 
 - No explicit patch notes.
 
-Reserve ammo increased.
+Reserve ammo increased increased by 6 grenades.
 
 PvE damage adjusted:
 

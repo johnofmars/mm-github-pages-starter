@@ -17,7 +17,7 @@ sidebar:
 
 - [The Gun](/the_gun/)
   - An overview of the Exotic Perks, Firing, Ammo & reloading, and finally some rare glitches.
-  
+
 - [Basic Techniques](/basic_techniques/)
   - How to use Lion to get kills, techniques for every range and how to get the total damage for the kill.
 
@@ -31,7 +31,10 @@ sidebar:
   - Fighting Lion dictates your whole loadout, so here are some thoughts on playstyle, perks and specific choices to get you started. Also, a neat Time-to-kill and Shots-to-kill discussion for clean-up kills.
 
 - [Armor: Mods & Stats](/armor/)
-  - Discussion on Mods such as `Dire Artillery` and `Reloader`s. Included are some sample builds for PvE and PvP.
+  - Discussion on Individual Mods such as `Dire Artillery` and `Reloader`s, as well as Stat Preferences.
+
+- [Sample Builds: Non-Seasonal & Charged with Light](/builds/)
+  - Putting it all together, with the first 3 armor slots and/or the last one.
 
 - [Exotic Armor Choices](/exotics/)
   - 5 to 10 choices per class, using criteria such as `Reloading/Dexterity`, `Mobility`, `Melee/Grenade Synergy` and `Utility`.
