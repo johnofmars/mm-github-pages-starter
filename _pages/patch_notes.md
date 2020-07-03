@@ -26,15 +26,15 @@ sidebar:
 
 - No explicit patch notes.
 
-> Reserve ammo increased.
+Reserve ammo increased.
 
-> PvE damage adjusted:
-    - Explosion damage: 105%
-    - Impact damage: 88%
-    - Overall change: 103%
-> PvP damage change from Season of Worth reverted
+PvE damage adjusted:
+    - Explosion damage change: +5%
+    - Direct Hit damage: -12%
+    - Overall change: +3%
+PvP damage change from Season of Worth reverted
     - Explosion damage: 144 from 142
-    - Impact damage: 22 from 26
+    - Direct Hit damage: 22 from 26
     - Overall change: 166 from 168
 
 [Update 2.8.1](https://www.bungie.net/en/News/Article/48959) - _Guardian Games patch_
