@@ -30,6 +30,8 @@ docs:
         url: /pairings/
       - title: "Armor: Mods & Stats"
         url: /armor/
+      - title: "Builds"
+        url: /builds/
       - title: "Exotic Armors"
         url: /exotics/
       - title: "Subclasses"
