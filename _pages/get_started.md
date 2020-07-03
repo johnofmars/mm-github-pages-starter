@@ -46,7 +46,7 @@ Fighting Lion is primarily designed to **blint** enemies.
 
 * **Damage**
 
-   * 142 Splash and 26 for direct hit. That's 168 damage, so you'll need almost nothing to clean it up.
+   * 144 Splash and 22 for direct hit. That's 166 damage, so you'll need almost nothing to clean it up.
    * Splash damage is a large area and will tag multiple enemies. This makes it strong for objective modes and against teams who bunch up.
    * Point blank shots (typically against enemies) will damage you just as much as them, and likely get you killed.
 

@@ -59,7 +59,7 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 
 ### Base damage
 
-142 splash + 26 direct hit damage. [Refer to **Patch Notes**](https://www.fightinglion.club/patch_notes/) for more information.
+144 splash + 22 direct hit damage. [Refer to **Patch Notes**](https://www.fightinglion.club/patch_notes/) for more information.
 
 ### Rifts, Wells & Weapons of Light
 
