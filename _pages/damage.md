@@ -65,11 +65,11 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 
 | Skill            	| Buff 	| Splash 	| Direct Hit 	| Total 	|
 |------------------	|------:	|--------:	|------------:	|-------:	|
-| Base             	| --   	| 142    	| 26         	| 168   	|
-| Empowering Rift  	| +20% 	| 170    	| 32         	| 202   	|
-| Inertia Override	| +25% 	| 178   	| 33         	| 210   	|
-| Well of Radiance 	| +25% 	| 178   	| 33         	| 210   	|
-| Weapons of Light 	| +35% 	| 197    	| 36         	| 227   	|
+| Base             	| --   	| 144    	| 22         	| 166   	|
+| Empowering Rift  	| +20% 	| 170    	| 32         	| 198   	|
+| Inertia Override	| +25% 	| 180   	| 27         	| 207   	|
+| Well of Radiance 	| +25% 	| 180   	| 27         	| 207   	|
+| Weapons of Light 	| +35% 	| 194    	| 29         	| 223   	|
 
 ### Damage Against Titan Barricades
 

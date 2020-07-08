@@ -47,7 +47,6 @@ _**"I call it the Zhang Fei. It hits almost as hard as I do." — Wei Ning**_
 
 Illustrated by [@clashingshaders on twitter](https://twitter.com/clashingshaders?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1265777669268017152%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.fightinglion.club%2Flore%2F):
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[2/2] &quot;It hits almost as hard as I do.&quot;<a href="https://t.co/emm9eUSxMI">https://t.co/emm9eUSxMI</a> <a href="https://t.co/lZVbRdcGMh">pic.twitter.com/lZVbRdcGMh</a></p>&mdash; wynkyn de worme (@clashingshaders) <a href="https://twitter.com/clashingshaders/status/1265777669268017152?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The Ornaments
 

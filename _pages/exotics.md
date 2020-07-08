@@ -63,7 +63,7 @@ Exotic choices will favor one of three things:
 - **The Stag**
 [Utility](#warlock-exotics){: .btn .btn--warning}
 
-	- Empowering Rifts give a 20% damage buff, and as of patch 2.8.0, it buffs direct hit damage as well. That means a direct hit will do 170+32, or 202, enough to kill all resiliencies. If you want to play a more Rift centric style, then use The Stag.
+	- Empowering Rifts give a 20% damage buff, and as of patch 2.8.0, it buffs direct hit damage as well. That means a direct hit will do 172+26, or 198, enough to kill all resiliencies. If you want to play a more Rift centric style, then use The Stag.
 
 - **Lunafaction Boots**
 [Reloading](#warlock-exotics){: .btn .btn--danger}
