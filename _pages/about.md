@@ -19,6 +19,7 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 ![My tattoo](/assets/images/tattoo.jpg){:class="img-responsive"}
 
 ## Update log:
+- 2020/7/14: Added commission from [tmaaaaaa3](https://twitter.com/tmaaaaa3/)
 - 2020/7/3: Updated for Season of Arrivals
 - 2020/4/21: Site launch
 
