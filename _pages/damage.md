@@ -67,9 +67,11 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 |------------------	|------:	|--------:	|------------:	|-------:	|
 | Base             	| --   	| 144    	| 22         	| 166   	|
 | Empowering Rift  	| +20% 	| 170    	| 32         	| 198   	|
+| Charged with Light 	| +20% 	| 173    	| 27         	| 223   	|
 | Inertia Override	| +25% 	| 180   	| 27         	| 207   	|
 | Well of Radiance 	| +25% 	| 180   	| 27         	| 207   	|
 | Weapons of Light 	| +35% 	| 194    	| 29         	| 223   	|
+
 
 ### Damage Against Titan Barricades
 
