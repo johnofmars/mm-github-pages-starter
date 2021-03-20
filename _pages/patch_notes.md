@@ -22,13 +22,13 @@ sidebar:
 
 ## Patch notes:
 
-[Update 3.1.0](https://www.bungie.net/en/News/Article/48959) - _Season of the Chosen (13) patch_
+[Update 3.1.0](https://www.bungie.net/en/News/Article/50097) - _Season of the Chosen (13) patch_
 
     - Breech Grenade Launcher projectiles will now detonate on impact with enemies, even if holding the trigger.
 
 _Note: This effectively removes the ability for Lion to one shot in extremely rare/niche situations with a double impact._
 
-[Update 2.9.0](https://www.bungie.net/en/Explore/Detail/News/49188) _Season of Arrivals (11) patch_
+[Update 2.9.0](https://www.bungie.net/en/Explore/Detail/News/49188) - _Season of Arrivals (11) patch_
 
 - No explicit patch notes.
 
