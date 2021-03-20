@@ -183,11 +183,6 @@ The Fighting Lion grenade has <=11 hp in Crucible, (as tested by a rapid fire SM
 > **Disclaimer** These are very rare, and/or hard to exploit, so don't freak out.
 {: .notice--warning}
 
-**Double Impact**
-
-![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
-
-Sorry, mate. One shot Lion. No clue on how to reproduce this one, but it seems to happen when someone is very close to a wall???
 
 **~~Double~~ Increased Damage after death**
 
@@ -208,3 +203,10 @@ _This used to be literally double damage, but since patch 2.8.0, it's merely +27
 </figure>
 
 Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts) to receive too much change in velocity and the Architects will kill them. Only really doable in The Haul in Recknoning and Public Event lifts, and such. Sorry,,,
+
+**~~Double Impact~~**
+
+[Fixed in patch 3.1.0](https://www.fightinglion.club/patch_notes/#patch-notes)
+
+![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
+Happens when someone is touch a wall and the grenade hits them twice.
