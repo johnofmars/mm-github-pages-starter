@@ -69,7 +69,7 @@ Wei Ning was [the greatest titan who ever lived](https://did-you-reboot.tumblr.c
 - Wei Ning's [lore entries](https://www.ishtar-collective.net/categories/wei-ning) on Ishtar Collective.
 - Wei Ning's [wiki page](https://www.destinypedia.com/Wei_Ning) on Destinypedia.
 
-![ranged punch](https://pbs.twimg.com/media/EMhHxXvUEAAidCg?format=jpg&name=medium)
+![ranged punch](/assets/images/ranged_punch.jpg)
 
 ### Zhang Fei
 
