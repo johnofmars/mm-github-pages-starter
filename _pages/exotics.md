@@ -114,9 +114,9 @@ Exotic choices will favor one of three things:
 [Mobility](#titan-exotics){: .btn .btn--success}
 
 	- **Okay, so it’s not Ramparts, it’s Rampant.** Look at the lion on the side of the them!
-		- ![img](https://cdna.artstation.com/p/assets/images/images/010/474/394/large/patrick-bloom-pb-titan-exotic-legs.jpg?1524621833 | width=500)
+		- ![img](https://cdna.artstation.com/p/assets/images/images/010/474/394/large/patrick-bloom-pb-titan-exotic-legs.jpg?)
 		- In Heraldry, Rampant means a Lion rearing up on its rear legs, which fits this exotic perfectly.
-	- Gain the Warlock `Strafe Glide` jump and increased in-air accuracy. An excellent choice for Fighting Lion users.
+	- Gain what is effectively the Warlock's `Strafe Glide` jump and increased in-air accuracy. An excellent choice for Fighting Lion users.
 
 - **Peacekeepers**
 [Reloading/Dexterity](#titan-exotics){: .btn .btn--danger}
