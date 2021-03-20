@@ -50,9 +50,9 @@ This lore card was illustrated by ClashingShaders:
 
 ## Commissions
 
-A commission I had done with Wei and her Lion by [Tamani](https://twitter.com/tmaaaaa3):
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦁✊commission for Fighting Lion Club (<a href="https://t.co/a6WwoITEBX">https://t.co/a6WwoITEBX</a>) <a href="https://t.co/mpjGYhZ5FI">pic.twitter.com/mpjGYhZ5FI</a></p>&mdash; たまみ (@tmaaaaa3) <a href="https://twitter.com/tmaaaaa3/status/1283104152873103360?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+A commission I had done with Wei and her Lion by [Tamani](https://twitter.com/tmaaaaa3/status/1283104152873103360):
 
+![commission](/assets/images/commission.png)
 
 A second commission I had done by [Freichou](https://twitter.com/xfreischutz):
 ![Wei](/assets/images/slidinglion.jpg)
