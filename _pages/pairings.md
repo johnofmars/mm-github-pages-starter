@@ -47,17 +47,17 @@ One last thing to note. Fighting Lion is very viable as part of a Double Primari
 A perfect Lion shot in PvP will result in 166 damage. But it's also possible to get as low as say 40 damage. There are two schools of thought to how to clean up the Lion:
 
 - Big damage follow-up
-  - Think something like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries can also work, but for big damage clean-up you'll be limited to just a few archetypes. A good example is a 110 RPM hand cannon's damage will do the job.
+  - Think something like a sniper/grenade launcher. These are very effective clean-up options, but they do take special ammo. Primaries can also work, but for big damage clean-up you'll be limited to just a few archetypes. A good example is a 120 RPM hand cannon's damage will do the job.
 
 - Small damage follow-up
-  - Picture **Recluse**:  its fast 900 RPM firerate means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 110rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
+  - Picture **Recluse**:  its fast 900 RPM firerate means that regardless of target health, you're spraying them down and can get a good fast TTK. The difference is that instead of instant TTK from a 120rpm Headshot, you _have_ to have more shots. There aren't any big break point penalties either, so your TTK is more consistent and even faster than slower RPMs.
 
 Using [Mercules' Massive Breakdown Weapons Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1_6zsM7kzvg0aUT8YtM_-Wg_5K1gKDOlrwfVzutEjq-s/edit#gid=0), I modified it to determine **Shots to Kill** (STK) and **Time to Kill (TTK)** for various RPM handcannons. The below charts will show the effect between Big & Small Damage follow-ups:
 
 ![STK & TTK](/assets/images/hc_ttk.png)
 
 As you can see:
-- You're _less_ likely to need a follow-up shot with a 110rpm, _but_ if you need that second shot, it'll take forever.
+- You're _less_ likely to need a follow-up shot with a 120rpm, _but_ if you need that second shot, it'll take forever.
 - You're _more_ likely to need a follow-up shot with a 180rpm, _but_ it'll be ready sooner.
 - Included, for reference, is a Lightweight RPM SMG(like Recluse), shooting at 80% accuracy, so you can see the effect of the fastest RPM gun and how strong a fast flexible choice is as well.
 
@@ -67,9 +67,8 @@ Of course, there are other options to consider such as handling, engagement dist
 ## Perks
 
 ### A reminder of Lion's Chimera Perk
-The Masterwork is *essential* to using the Lion in Crucible!
+The Masterwork is *essential* to using the Lion in Crucible! Not just for the massively improved reload, but for the new perk:
 
-New perk:
 > **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
 {: .notice--success}
 
@@ -94,20 +93,11 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
   - `Air Assault` lmao, I dunno, I kinda want to try it with an **Austringer**.
 
 - **Damage Perks**
-  - `Kill clip`, `Rampage`
+  - `Kill clip`, `Rampage`, `Swashbuckler`
 
     <figure class="video_container">
       <iframe src='https://gfycat.com/ifr/ablewhoppingargusfish?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
     </figure>
-
-  - `Vorpal` - Do extra damage to Guardians using their Super.
-    - **Breachlight**, a sidearm, does 50% extra dmg against supers.  It's a 3 shot head and 4 shot body on supers. It 2 shots golden gun super.
-
-    <figure class="video_container">
-      <iframe src='https://gfycat.com/ifr/decentilliteratealligator?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-    </figure>
-
-    - **Trophy Hunter**, a sniper, only does 15%.
 
 **Utility perks**
 
@@ -121,12 +111,20 @@ Let me say that again. Fighting Lion's Masterwork perk gives your Kinetic weapon
 
 ## Specific PvP Recommendations
 
-- `Kill Clip` **Service Revolver** (on console)
-- `Vorpal`, `Hipfire Grip` **Breachlight**
-- `Kill Clip` **Antiope-D**
-- `Rampage`, `Opening Shot` **Duke Mk-44**
-- **Redrix's Broadsword**
-- `Auto-loading Holster`, `Kill Clip` **Spare Rations**
-- **Revoker**
-- `Auto-loading holster`, `Opening shot` **Blasphemer**
-- `Tap the Trigger` **Smuggler's Word**
+### Primary options
+
+- **Steady Hand** 120rpm Hand cannon with Swashbuckler/ Iron Gaze
+- **True Prophecy** 120rpm Hand cannon with Opening Shot/Rangefinder, Rampage/Explosive Payload
+- **The Messenger** High Impact Pulse with Kill Clip or Desperado
+- **Sacred Provenance** Aggressive Pulse with Rapid Hit/Outlaw and Kill Clip
+- **Biting Winds** Precision Bow with Moving Target, Swashbuckler
+- **Multimach CCX** Lightweight SMG with Kill Clip
+- **Friction Fire** Precision SMG with Killing Wind and Well Spring
+- **Extraordinary Rendition** Aggressive SMG with Surplus and Tap the Trigger/Rampage
+
+### Special options
+
+- **Heritage** Precision Shotgun with Reconstruction and Thresh
+- **Blasphemer** Precision Shotgun with Quickdraw and Rampage/Thresh/Opening Shot
+- **Astral Horizon** Aggressive Shotgun with Auto-loading holster/Pulse Monitor and Opening Shot
+- **Bite of the Fox** Aggressive Sniper with Opening Shot/ Rampage
