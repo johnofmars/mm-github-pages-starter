@@ -24,7 +24,7 @@ sidebar:
 
 [Update 3.1.0](https://www.bungie.net/en/News/Article/50097) - _Season of the Chosen (13) patch_
 
-    - Breech Grenade Launcher projectiles will now detonate on impact with enemies, even if holding the trigger.
+- Breech Grenade Launcher projectiles will now detonate on impact with enemies, even if holding the trigger.
 
 _Note: This effectively removes the ability for Lion to one shot in extremely rare/niche situations with a double impact._
 
