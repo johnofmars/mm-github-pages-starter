@@ -88,7 +88,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Warlock**
 
-| Element 	| Ability                  	| Explosion 	| Direct 	| Total 	| Damage Reduction 	|
+| Element 	| Ability                  	| Explosion 	| Direct 	| Total 	| Damage Resist 	|
 |---------	|--------------------------	|-----------:	|--------:	|-------:	|------------------:	|
 | Solar   	| Daybreak                 	| 71        	| 11     	| 82    	| 51%              	|
 |         	| Well of Radiance         	| 144       	| 22     	| 166   	| 0%               	|
@@ -103,7 +103,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Hunter**
 
-| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Reduction 	|
+| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
 |---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
 | Solar   	| Golden Gun                 	|       144 	|     22 	|   166 	|        0% 	|
 |         	| Blade Barrage              	|        74 	|     12 	|    86 	|       48% 	|
@@ -121,7 +121,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Titan**
 
-| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Reduction 	|
+| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
 |---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
 | Solar   	| Hammer of Sol              	|        71 	|     11 	|    82 	|       51% 	|
 |         	| Burning Maul               	|        68 	|     11 	|    79 	|       52% 	|
