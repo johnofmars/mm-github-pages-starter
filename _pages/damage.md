@@ -103,7 +103,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Hunter**
 
-| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
+| Element 	| Ability                     	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
 |---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
 | Solar   	| Golden Gun                 	|       144 	|     22 	|   166 	|        0% 	|
 |         	| Blade Barrage              	|        74 	|     12 	|    86 	|       48% 	|
@@ -121,14 +121,14 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Titan**
 
-| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
+| Element 	| Ability                      	| Explosion 	| Direct 	| Total 	| Damage Resist  	|
 |---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
 | Solar   	| Hammer of Sol              	|        71 	|     11 	|    82 	|       51% 	|
 |         	| Burning Maul               	|        68 	|     11 	|    79 	|       52% 	|
 | Arc     	| Fist of Havoc              	|        68 	|     11 	|    79 	|       52% 	|
 |         	| Thundercrash               	|        48 	|     11 	|    59 	|       64% 	|
 | Void    	| Sentinel Shield            	|        68 	|     11 	|    79 	|       52% 	|
-|         	| Armor of Light             	|       116 	|     22 	|   138 	|       17% 	|
+|         	| Titan with Armor of Light 	|       116 	|     22 	|   138 	|       17% 	|
 | Stasis  	| Behemoth                   	|        58 	|      9 	|    67 	|       60% 	|
 |         	| Behemoth Whisper of Chains 	|        44 	|      7 	|    50 	|       70% 	|
 |         	| Normal Whisper of Chains   	|       108 	|     17 	|   125 	|       25% 	|
