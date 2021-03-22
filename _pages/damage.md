@@ -63,14 +63,15 @@ Damage fall-off after 2.8.0 appears to be between 3.5m and 4.0m.
 
 ### Rifts, Wells & Weapons of Light
 
-| Skill            	| Buff 	| Splash 	| Direct Hit 	| Total 	|
-|------------------	|------:	|--------:	|------------:	|-------:	|
-| Base             	| --   	| 144    	| 22         	| 166   	|
-| Empowering Rift  	| +20% 	| 170    	| 32         	| 198   	|
-| Charged with Light 	| +20% 	| 173    	| 27         	| 223   	|
-| Inertia Override	| +25% 	| 180   	| 27         	| 207   	|
-| Well of Radiance 	| +25% 	| 180   	| 27         	| 207   	|
-| Weapons of Light 	| +35% 	| 194    	| 29         	| 223   	|
+| Damage             	| Bonus 	| Explosion 	| Direct 	| Total 	|
+|--------------------	|-------	|-----------	|--------	|-------	|
+| Base               	|   N/A 	|       144 	|     22 	|   166 	|
+| Post-death         	|   22% 	|       175 	|     27 	|   202 	|
+| Empowering         	|   20% 	|       173 	|     27 	|   200 	|
+| Charged with Light 	|   20% 	|       173 	|     27 	|   200 	|
+| Inertia Override   	|   20% 	|       173 	|     27 	|   200 	|
+| Well               	|   25% 	|       180 	|     27 	|   207 	|
+| Weapons of Light   	|   34% 	|       194 	|     29 	|   223 	|
 
 
 ### Damage Against Titan Barricades
@@ -87,41 +88,50 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 
 **Warlock**
 
-|  Element 	| Super           	| Damage 	|
-|----------	|-----------------	|--------	|
-| Base    	| (no super)       	| 142+26 	|
-| Solar    	| Daybreak        	| 70+13  	|
-|          	| Well of Radiance 	| 114+21 	|
-|          	| Well Sword       	| 142+26 	|
-| Arc      	| Stormtrance      	| 67+13  	|
-|          	| Chaos Reach      	| 85+16  	|
-| Void     	| Nova Bomb        	| 142+26 	|
-|          	| Nova Warp       	| 70+13  	|
+| Element 	| Ability                  	| Explosion 	| Direct 	| Total 	| Damage Reduction 	|
+|---------	|--------------------------	|-----------:	|--------:	|-------:	|------------------:	|
+| Solar   	| Daybreak                 	| 71        	| 11     	| 82    	| 51%              	|
+|         	| Well of Radiance         	| 144       	| 22     	| 166   	| 0%               	|
+|         	| Sword in the Well        	| 116       	| 18     	| 134   	| 19%              	|
+| Arc     	| Stormtrance              	| 68        	| 11     	| 79    	| 52%              	|
+|         	| Chaos Reach              	| 87        	| 14     	| 101   	| 39%              	|
+| Void    	| Nova Bomb                	| 144       	| 22     	| 166   	| 0%               	|
+|         	| Nova Warp                	| 71        	| 11     	| 82    	| 51%              	|
+| Stasis  	| Shadebinder              	| 71        	| 11     	| 82    	| 51%              	|
+|         	| Shade Whisper of Chains  	| 53        	| 9      	| 62    	| 63%              	|
+|         	| Normal Whisper of Chains 	| 108       	| 17     	| 125   	| 25%              	|
 
 **Hunter**
 
-|  Element 	| Super                   	| Damage 	|
-|----------	|--------------------------	|--------	|
-| Base   	  | (no super)               	| 142+26 	|
-| Solar    	| Golden Gun               	| 142+26 	|
-|          	| Blade Barrage           	| 73+14  	|
-| Arc      	| Arcstaff                	| 67+13  	|
-|          	| Arcstaff reflected round 	| 180+33!!! 	|
-| Void     	| Spectral Blades         	| 68+13  	|
-|          	| Spectral Blades (invis) 	| 65+12  	|
-|          	| Shadowshot              	| 67+13  	|
+| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Reduction 	|
+|---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
+| Solar   	| Golden Gun                 	|       144 	|     22 	|   166 	|        0% 	|
+|         	| Blade Barrage              	|        74 	|     12 	|    86 	|       48% 	|
+| Arc     	| Arcstaff                   	|        68 	|     11 	|    79 	|       52% 	|
+|         	| Arcstaff Reflection        	|       144 	|     22 	|   166 	|        0% 	|
+|         	| Lighting Reflexes          	|        98 	|     15 	|   113 	|       32% 	|
+| Void    	| Spectral Blades            	|        70 	|     11 	|    81 	|       51% 	|
+|         	| Spectral Blades (invis)    	|        66 	|     11 	|    77 	|       54% 	|
+|         	| Shadowshot (roaming)       	|        68 	|     11 	|    79 	|       52% 	|
+|         	| Shadowshot (single)        	|        68 	|     11 	|    79 	|       52% 	|
+|         	| Tether                     	|       144 	|     22 	|   166 	|        0% 	|
+| Stasis  	| Revanant                   	|        68 	|     11 	|    79 	|       48% 	|
+|         	| Revenant Whisper of Chains 	|        51 	|      8 	|    59 	|       64% 	|
+|         	| Whisper of Chains          	|       108 	|     17 	|   125 	|       25% 	|
 
 **Titan**
 
-|  Element 	| Super          	| Damage 	|
-|----------	|----------------	|--------	|
-| Base    	| (no super)    	| 142+26 	|
-| Solar    	| Hammer of Sol 	| 70+13  	|
-|          	| Burning Maul   	| 67+13  	|
-| Arc      	| Fist of Havoc  	| 67+13  	|
-|          	| Thundercrash   	| 23+13  	|
-| Void     	| Sentinel Shield	| 67+13  	|
-|          	| Armor of Light 	| 142+26 	|
+| Element 	| Super                      	| Explosion 	| Direct 	| Total 	| Reduction 	|
+|---------	|----------------------------	|----------:	|-------:	|------:	|----------:	|
+| Solar   	| Hammer of Sol              	|        71 	|     11 	|    82 	|       51% 	|
+|         	| Burning Maul               	|        68 	|     11 	|    79 	|       52% 	|
+| Arc     	| Fist of Havoc              	|        68 	|     11 	|    79 	|       52% 	|
+|         	| Thundercrash               	|        48 	|     11 	|    59 	|       64% 	|
+| Void    	| Sentinel Shield            	|        68 	|     11 	|    79 	|       52% 	|
+|         	| Armor of Light             	|       116 	|     22 	|   138 	|       17% 	|
+| Stasis  	| Behemoth                   	|        58 	|      9 	|    67 	|       60% 	|
+|         	| Behemoth Whisper of Chains 	|        44 	|      7 	|    50 	|       70% 	|
+|         	| Normal Whisper of Chains   	|       108 	|     17 	|   125 	|       25% 	|
 
 
 **Self-Damage & Point Blank Damage**
