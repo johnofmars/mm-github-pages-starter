@@ -191,9 +191,9 @@ The Fighting Lion grenade has <=11 hp in Crucible, (as tested by a rapid fire SM
 </figure>
 Watch close and you can see the Lion did 180+33, killing the Golden Gun Hunter.
 
-If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **142+26** damage, it will instead be **180 + 33**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
+If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **144+22** damage, it will instead be **175 + 27**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
 
-_This used to be literally double damage, but since patch 2.8.0, it's merely +27% damage._
+_This used to be literally double damage, but since patch 2.8.0, it's merely +27% damage, and since Y4 it's down to +22%._
 
 
 **~~Murder~~ Friendly Fire**
