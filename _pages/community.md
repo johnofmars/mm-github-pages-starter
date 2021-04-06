@@ -20,13 +20,8 @@ sidebar:
 
 >We are concerned guardians, who by virtue of taste are advancing the cause of the greatest weapon of all time, the Fighting Lion
 
-Over 3,000 members all helping and meming away. Helpful tags for `Lion Tips` and `Lion Gameplay` as resources.
+Nearly 6,000 members all helping and meme-ing away. Helpful tags for `Lion Tips` and `Lion Gameplay` as resources.
 
-[![Discord](/assets/images/discord.png)](https://discord.gg/ejv9t2P)
-
-[Join the Fighting Lion Discord](https://discord.gg/ejv9t2P){: .btn .btn--info}
-
-The place for theory-crafting, meming, shit-talking Jötunn and just hanging out with other Lion fans.
 
 ## Other Community resources:
 
