@@ -25,7 +25,7 @@ Tested in Presage Hangar where there are 3 Scorn captains, one with each shield.
 |Stat       	|No Shield  	| Void        | Arc   	| Solar   	|
 |---	        |---	        |---	       |---	|---	|
 |Raw Damage	  | 9,423 + 1,436  	| 12,416 + 7,501 + 3095  	| 13,351 + 3,576  	| 13,351 + 3,576   	|
-|Total Damage |23,012  	| 26,366  	| 16,927  	| 16,927   	|
+|Total Damage | 10,859  	| 26,366  	| 16,927  	| 16,927   	|
 |% Change   	| _(base)_  	| 212%  	| 156%   	| 156%   	|
 
 
@@ -114,7 +114,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 |         	| Shadowshot (roaming)       	|        68 	|     11 	|    79 	|       52% 	|
 |         	| Shadowshot (single)        	|        68 	|     11 	|    79 	|       52% 	|
 |         	| Tether                     	|       144 	|     22 	|   166 	|        0% 	|
-| Stasis  	| Revanant                   	|        68 	|     11 	|    79 	|       48% 	|
+| Stasis  	| Revenant                   	|        68 	|     11 	|    79 	|       48% 	|
 |         	| Revenant Whisper of Chains 	|        51 	|      8 	|    59 	|       64% 	|
 |         	| Whisper of Chains          	|       108 	|     17 	|   125 	|       25% 	|
 
