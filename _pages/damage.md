@@ -18,17 +18,16 @@ sidebar:
 
 ## PvE
 
-As tested in the Tribute Hall.
+Tested in Presage Hangar where there are 3 Scorn captains, one with each shield.
 
 ### Damage vs Shields
 
 |Stat       	|No Shield  	| Void        | Arc   	| Solar   	|
 |---	        |---	        |---	       |---	|---	|
-|Raw Damage	  | 10,995 + 1,676  	| 16,661 + 6,258 + 3,447  	| 10,995 + 2,086  	| 16,287 + 4,172   	|
-|Total Damage |12,671   	| 26,366  	| 13,081  	| 20,459   	|
-|% Change   	| _(base)_  	| 208%  	| 103%   	| 161%   	|
+|Raw Damage	  | 9,423 + 1,436  	| 12,416 + 7,501 + 3095  	| 13,351 + 3,576  	| 13,351 + 3,576   	|
+|Total Damage |23,012  	| 26,366  	| 16,927  	| 16,927   	|
+|% Change   	| _(base)_  	| 212%  	| 156%   	| 156%   	|
 
-As you can see, Arc bonus damage is busted.
 
 ### Damage per Combatant Tier
 
