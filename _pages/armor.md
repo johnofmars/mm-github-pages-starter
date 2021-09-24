@@ -50,7 +50,6 @@ Where **Reload Stat** is the combined stat from the gun and any boosts from mods
 | Dragon's Shadow, 1x Loader                    	| 1.53     	| -53%         	|
 | Lunafaction Rift/Rally Barricade              	| 1.62     	| -50%         	|
 | Lunafaction Rift/Rally Barricade, 1x   loader 	| 1.53     	| -53%         	|
-| Original Masterwork, 1x Loader                	| 1.59     	| -32%         	|
 |                                               	|          	|             	|
 | Reload Cap                                     	| 1.49     	| -54%     	    |
 
