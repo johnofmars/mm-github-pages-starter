@@ -31,7 +31,8 @@ sidebar:
 - Fighting Lion
   - Fighting Lion ammo increased from "a lot" to "infinite."
   - Receives the same changes as other breech Grenade Launchers.
-  - Reduced base reload stat to 0. 
+    - (editor's note: Special GLs had damage reduced by 20, Fighting Lion had it reduced by 16)
+  - Reduced base reload stat to 0.
     - (editor's note: Catalyst still gives a +27 reload bump)
     - (editors' note 2: reload stat really lowered to 10)
   - Now increases reload speed to its previous level on damaging multiple enemies with one grenade.
