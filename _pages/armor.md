@@ -28,45 +28,22 @@ https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-
 
 The Lion has two phases before another round can be fired: `Reload Delay` + `Reload Animation`. Reload Delay can be mitigated by  `Manual Reloads`, i.e. reloading as soon as you fire, not after the round explodes. We will test both the reload animation alone as well as the shot to shot time, which would include both Reload Delay and Reload Animation.
 
-**Pre-Patch 3.3.0 Values**
-- No Masterwork - 2.34 seconds
-- Masterwork - 1.97 seconds
-- Masterwork, 1x Loader - 1.59 seconds
-
-**Post-Nerf Values**
-- Base - 3.24 seconds
-- Masterwork - 2.66 seconds
-- Masterwork, 1x Loader - 2.10 seconds
-- Masterwork, 2x Loaders - 2.03 seconds
-
-(do not bother with 2x loaders)
-
-**Modified Values (Exotic armors, class abilities, assume Masterworked Lion)**
-- Dragon's Shadow - 1.80 seconds
-- Dragon's Shadow, 1x Loader - 1.53 seconds
-- Ophidian Aspect - 2.13 seconds
-- Ophidian Aspect, 1x Loader - 1.71 seconds
-- Lunafaction Rift/Rally Barricade - 1.62 seconds
-- Lunafaction Rift/Rally Barricade, 1x Loader - 1.53 seconds
-
-
-**Reload Animation**
-This test only judges the time from the start of reload animation to return to neutral position.
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/V2PZj-Wz0VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-| Perks       	| Time  	| Reduction |
-|:-----------  	|-------:	|---------:	|
-| None        	| 3:04   	| _(base)_  |
-| Ophidians, no mods   	| 2:49  	| -8%      	|
-| 1x Large Arms  | 2:37  	| -15%     	|
-| 1x GL Loader  | 2:32  	| -17%     	|
-| 1x Enhanced   | 2:29  	| -19%     	|
-| 2x Large Arm  | 2:27  	| -20%     	|
-| 2x GL loader  | 2:27  	| -20%     	|
-| 2x Enhanced   | 2:26  	| -21%     	|
+| Reload                                        	| Time (s) 	| % Reduction 	|
+|-----------------------------------------------	|----------	|------------:	|
+| No Masterwork                                 	| 2.34     	| 0%          	|
+| Masterwork                                    	| 1.97     	| 16%         	|
+| Masterwork, 1x Loader                         	| 1.59     	| 32%         	|
+|                                               	|          	|             	|
+| Base                                          	| 3.24     	| 0%          	|
+| Masterwork                                    	| 2.66     	| 18%         	|
+| Masterwork, 1x Loader                         	| 2.10     	| 35%         	|
+| Masterwork, 2x Loader                         	| 2.03     	| 37%         	|
+| Dragon's Shadow                               	| 1.80     	| 44%         	|
+| Dragon's Shadow, 1x Loader                    	| 1.53     	| 53%         	|
+| Ophidian aspect                               	| 2.13     	| 34%         	|
+| Ophidian aspect, 1x Loader                    	| 1.71     	| 47%         	|
+| Lunafaction Rift/Rally Barricade              	| 1.62     	| 50%         	|
+| Lunafaction Rift/Rally Barricade, 1x   loader 	| 1.53     	| 53%         	|
 
 **Fire to Fire**
 
