@@ -59,7 +59,7 @@ Not gonna waste your time & bandwidth with a video for this one. Detonate Lion r
   <iframe src='https://gfycat.com/ifr/respectfulglassiggypops?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
-144 damage from your Lion makes for an easy clean-up from your team.
+128 damage from your Lion makes for an easy clean-up from your team.
 
 ### Super Long Range
 <figure class="video_container">

@@ -18,9 +18,36 @@ sidebar:
 
 ![Fighting Lion Damage per Patch](/assets/images/damage.png)
 
-![Stonks!](/assets/images/stonks.jpg)
 
 ## Patch notes:
+
+[Update 3.3.0](https://www.bungie.net/en/Explore/Detail/News/50599) - _Season of the Lost (15) patch_notes
+
+- Breech Grenade Launchers
+  - Reduced blast radius by 0.4m, e.g. max blast radius decreased from 4.55m to 4.15m, min blast radius decreased from 3.80m to 3.40m.
+  - Reduced splash damage by 20, which reduces total damage for a direct hit from 220 to 200 (before taking spike or proximity grenades into account).
+  - Increased damage in PvE by 12%.
+
+- Fighting Lion
+  - Fighting Lion ammo increased from "a lot" to "infinite."
+  - Receives the same changes as other breech Grenade Launchers.
+  - Reduced base reload stat to 0. 
+    - (editor's note: Catalyst still gives a +27 reload bump)
+    - (editors' note 2: reload stat really lowered to 10)
+  - Now increases reload speed to its previous level on damaging multiple enemies with one grenade.
+
+Discussion of changes [in the TWAB here.](https://www.bungie.net/en/Explore/Detail/News/50572)
+
+- Fighting Lion has always been fun but not dominant in PvE, so we weren't worried about the impact infinite ammo would have there. However enabling fast, unlimited grenade spamming was too much in PvP based on internal playtests, so we've addressed that specific case without significantly impacting its feel in PvE.
+
+  - Fighting Lion reserve ammo increased from "a lot" to "infinite."
+  - Receives the same changes as other breech Grenade Launchers.
+  - Reduced base reload stat to 0 (breech Grenade Launchers with 0 reload stat reload very, very slowly).
+  - Now increases reload speed to its previous level on damaging multiple enemies with one grenade.
+  - We'll be keeping an eye on this, but believe it's in a good place with this change (and note that we're not going to over-nerf an Exotic with its own subreddit).
+  - You shouldn't be manually reloading Fighting Lion anyway.
+
+Discussion from Chris Proctor, Weapons Lead, [on the Massive Breakdown Podcast here.](https://overcast.fm/+QofQoqOK0/1:08:23)
 
 [Update 3.1.0](https://www.bungie.net/en/News/Article/50097) - _Season of the Chosen (13) patch_
 

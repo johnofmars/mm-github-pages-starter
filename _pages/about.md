@@ -19,6 +19,7 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 ![My tattoo](/assets/images/tattoo.jpg){:class="img-responsive"}
 
 ## Update log:
+- 2021/9/23: First update for S15 nerf
 - 2021/3/22: Updated Damage numbers
 - 2021/3/20: Updated patch notes for Season of the Chosen
 - 2021/3/19: Updated weapon suggestions, post-sunsetting

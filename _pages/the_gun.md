@@ -37,8 +37,21 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 
 ![The Stats](/assets/images/stats.png)
 
-> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values. Note: this is not a result of perk application not showing. These are radically different values that conflict.
+> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values. Note: this is not a result of perk application not showing. Here are the actual values.
 {: .notice--warning}
+
+Counterbalance:
+- Stability + 9
+- Recoil Direction + 30
+- Handling + 9
+
+Implosion Rounds:
+- Velocity + 9
+- Stability + 13
+- Blast Radius -5
+
+Short-Action Stock:
+- Handling + 16
 
 ## The Basics
 
@@ -106,7 +119,7 @@ For more information, refer to [this CruciblePlayBook](https://www.reddit.com/r/
 - Too close to arm
   - The Fighting Lion grenade [needs 15 meters (or about a 0.5 seconds)](https://i.imgur.com/R2S0XfD.jpg) to prime itself before it can be detonated (unless it's a body hit). This means you can't do an in-air detonation in close proximity to yourself.
 
-### PvE only: Inverted Lion
+### Inverted Lion
 
 The `Thin the Herd` perk says "Rapid hits against Grenade Damaged Targets Refill the Magazine".
 
@@ -120,12 +133,11 @@ You can get the kill _**first!**_ Behold, the Inverted Lion!
   <iframe src='https://gfycat.com/ifr/phonycalculatingbluebird?autoplay=0' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 </figure>
 
->This doesn't work in Crucible, however.
-{: .notice--warning}
+This didn't use to work in Crucible, but since Season 11 it does.
 
 ### Reloading
 
-The reload cap is approximately 20% faster. A single reloader will get you 80% of that cap. Check out [Armor: Mods & Stats](https://www.fightinglion.club/armor/#reload-mods) for more information on reload speed mods.
+Check out [Armor: Mods & Stats](https://www.fightinglion.club/armor/#reload-mods) for more information on reload speed mods.
 
 But that's only part of the story! Fighting Lion will automatically reload after the round you've fired detonates. However!
 
@@ -155,18 +167,7 @@ It is tricky to get the perfect timing to pull this off however. The community h
 ## The Details
 ### Ammo Management
 
-**Exotic Perk: Thin the Herd** guarantees an ammo brick on kill. Occasionally, a second brick will fall from a kill, as it would from any kill. These two bricks are different. The brick from the exotic perk will refill your ammo reserves entirely in Crucible. The random kill brick has a variable amount and needs further testing.
-
-**Crucible**
-
-- Spawning Ammo: **9**
-- Maximum Ammo: **20**, without perks
-- Maximum Ammo: **24**, with double reserves
-
-- Ammo per random drop brick: **8,10,15**
-- Ammo per kill brick: _**FULL**_ (i.e. 20 to 24, depending on reserves perks)
-
-[Refer to Armor: Perks & Stats](/armor/#mods-to-take/) for more on how to manage your ammo with perks.
+Fighting Lion is a primary ammo weapon and thus has infinite ammo. The price we paid for that is a reload stat of 0.
 
 ### Grenade Health
 
@@ -191,7 +192,7 @@ The Fighting Lion grenade has <=11 hp in Crucible, (as tested by a rapid fire SM
 </figure>
 Watch close and you can see the Lion did 180+33, killing the Golden Gun Hunter.
 
-If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **144+22** damage, it will instead be **175 + 27**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
+If you fire your round and are killed before you detonate it, it will detonate on impact with a guardian or the timer. Instead of the normal **128+22** damage, it will instead be **154 + 27**. It happens rarely and mostly when I engage with long-range, insta-kill targets such as snipers or Golden Guns.
 
 _This used to be literally double damage, but since patch 2.8.0, it's merely +27% damage, and since Y4 it's down to +22%._
 

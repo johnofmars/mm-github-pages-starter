@@ -14,13 +14,40 @@ sidebar:
     nav: "docs"
 ---
 
-[Here is a breakdown](https://i.imgur.com/hixbrKA.jpg) of which mods are available in which slot and which elemental affinity.
+
 
 ## Mods to take:
+
+
+With the 3.3.0 patch, mitigating Lion's atrocious reload stat of `10` is now defines your build. [Refer to Massive Breakdown's reload spreadsheet as a source.](https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-E2I/edit#gid=778444816)
+
+https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-E2I/edit#gid=778444816
+
 
 ### Reload mods
 
 The Lion has two phases before another round can be fired: `Reload Delay` + `Reload Animation`. Reload Delay can be mitigated by  `Manual Reloads`, i.e. reloading as soon as you fire, not after the round explodes. We will test both the reload animation alone as well as the shot to shot time, which would include both Reload Delay and Reload Animation.
+
+**Pre-Patch 3.3.0 Values**
+- No Masterwork - 2.34 seconds
+- Masterwork - 1.97 seconds
+- Masterwork, 1x Loader - 1.59 seconds
+
+**Post-Nerf Values**
+- Base - 3.24 seconds
+- Masterwork - 2.66 seconds
+- Masterwork, 1x Loader - 2.10 seconds
+- Masterwork, 2x Loaders - 2.03 seconds
+
+(do not bother with 2x loaders)
+
+**Modified Values (Exotic armors, class abilities, assume Masterworked Lion)**
+- Dragon's Shadow - 1.80 seconds
+- Dragon's Shadow, 1x Loader - 1.53 seconds
+- Ophidian Aspect - 2.13 seconds
+- Ophidian Aspect, 1x Loader - 1.71 seconds
+- Lunafaction Rift/Rally Barricade - 1.62 seconds
+- Lunafaction Rift/Rally Barricade, 1x Loader - 1.53 seconds
 
 
 **Reload Animation**
