@@ -37,23 +37,24 @@ Where **Reload Stat** is the combined stat from the gun and any boosts from mods
 | Reload                                        	| Time (s) 	| % Reduction 	|
 |-----------------------------------------------	|----------	|------------:	|
 | Original Base                                 	| 2.34     	|  _(base)_     |
-| Original Masterworked                          	| 1.97     	| 16%         	|
-| Original Masterwork, 1x Loader                	| 1.59     	| 32%         	|
+| Original Masterworked                          	| 1.97     	| -16%         	|
+| Original Masterwork, 1x Loader                	| 1.59     	| -32%         	|
 |                                               	|          	|             	|
 | Base                                          	| 3.24     	| _(base)_     	|
-| Masterwork                                    	| 2.66     	| 18%         	|
-| Masterwork, 1x Loader                         	| 2.10     	| 35%         	|
-| Masterwork, 2x Loader                         	| 2.03     	| 37%         	|
-| Ophidian aspect                               	| 2.13     	| 34%         	|
-| Ophidian aspect, 1x Loader                    	| 1.71     	| 47%         	|
-| Dragon's Shadow                               	| 1.80     	| 44%         	|
-| Dragon's Shadow, 1x Loader                    	| 1.53     	| 53%         	|
-| Lunafaction Rift/Rally Barricade              	| 1.62     	| 50%         	|
-| Lunafaction Rift/Rally Barricade, 1x   loader 	| 1.53     	| 53%         	|
+| Masterwork                                    	| 2.66     	| -18%         	|
+| Masterwork, 1x Loader                         	| 2.10     	| -35%         	|
+| Masterwork, 2x Loader                         	| 2.03     	| -37%         	|
+| Ophidian Aspect                               	| 2.13     	| -34%         	|
+| Ophidian Aspect, 1x Loader                    	| 1.71     	| -47%         	|
+| Dragon's Shadow                               	| 1.80     	| -44%         	|
+| Dragon's Shadow, 1x Loader                    	| 1.53     	| -53%         	|
+| Lunafaction Rift/Rally Barricade              	| 1.62     	| -50%         	|
+| Lunafaction Rift/Rally Barricade, 1x   loader 	| 1.53     	| -53%         	|
 
 **Fire to Fire**
 
 Refer to the [Reloading section of The Gun for detail on Manual Reloading.](/the_gun/#reloading)
+(not updated post-Patch 3.3.0)
 
 | Perks       	| Time  	| Reduction |
 |:-----------  	|-------:	|---------:	|

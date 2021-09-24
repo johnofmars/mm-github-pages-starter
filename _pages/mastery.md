@@ -31,7 +31,7 @@ sidebar:
   - Fighting Lion dictates your whole loadout, so here are some thoughts on playstyle, perks and specific choices to get you started. Also, a neat Time-to-kill and Shots-to-kill discussion for clean-up kills.
 
 - [Armor: Mods & Stats](/armor/)
-  - Discussion on Individual Mods such as `Dire Artillery` and `Reloader`s, as well as Stat Preferences.
+  - Discussion on Individual Mods such as `Reloader`s, as well as Stat Preferences.
 
 - [Sample Builds: Non-Seasonal & Charged with Light](/builds/)
   - Putting it all together, with the first 3 armor slots and/or the last one.
