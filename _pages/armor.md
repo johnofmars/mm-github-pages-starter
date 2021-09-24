@@ -19,14 +19,20 @@ sidebar:
 ## Mods to take:
 
 
-With the 3.3.0 patch, mitigating Lion's atrocious reload stat of `10` is now defines your build. [Refer to Massive Breakdown's reload spreadsheet as a source.](https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-E2I/edit#gid=778444816)
-
-https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-E2I/edit#gid=778444816
+With the 3.3.0 patch, mitigating Lion's atrocious reload stat of `10` is now defines your build.
 
 
 ### Reload mods
 
-The Lion has two phases before another round can be fired: `Reload Delay` + `Reload Animation`. Reload Delay can be mitigated by  `Manual Reloads`, i.e. reloading as soon as you fire, not after the round explodes. We will test both the reload animation alone as well as the shot to shot time, which would include both Reload Delay and Reload Animation.
+Reload has been very well defined by the community and for Grenade Launchers it is:
+
+>Reload Speed = (0.00268222 * (Reload Stat ^ 2) + -0.775084 * Reload Stat + 104.714)*RDS/30
+{: .text-center}
+
+Where **Reload Stat** is the combined stat from the gun and any boosts from mods, exotics abilities.
+**RDS** is the "reload duration scale" and is a scalar that reduces the overall reload time.
+
+[Refer to Massive Breakdown's reload spreadsheet for the numbers.](https://docs.google.com/spreadsheets/d/1h_xbE4U8JZMCfOqdwg-RqhbBYqaSERFH1wZ7wl5-E2I/edit#gid=778444816) Here they are calculated for Fighting Lion.
 
 | Reload                                        	| Time (s) 	| % Reduction 	|
 |-----------------------------------------------	|----------	|------------:	|
@@ -62,39 +68,16 @@ Refer to the [Reloading section of The Gun for detail on Manual Reloading.](/the
 Fighting Lion is a primary and thus has infinite ammo.
 **Grenade Launcher Holster** mod only works on Heavy Grenade Launchers.
 
-### Dire Artillery
-![Dire Artillery](/assets/images/dire_artillery.png)
-
-(Source: Obelisks in Season of the Dawn, Vendor rank ups afterward.)
->Grants additional Super energy on Energy or Power Grenade Launcher final blows.
-
-This perk is correctly worded. It's by slot (Kinetic/Energy), not by ammo type (Primary/Special). [Confirmed to work with Fighting Lion, but _not_ Mountaintop.](https://thumbs.gfycat.com/UnderstatedMarvelousIrukandjijellyfish-mobile.mp4)
-
-Also, it stacks.
-
-![stacks](https://cdn.discordapp.com/attachments/647452715441717248/654820665467338752/unknown.png)
-> Tested with a Tier 1 combatant in the Tribute Hall. The enemy kill was at 50%.
-
-Eyeballing it here, but 2.5% with 1 mod, 5% with 2x mods.
-
-It works in Crucible too:
-![super mods](/assets/images/supermods.png)
-
 ### Other choices:
 
 - **Unflinching mods for your Kinetic Weapon (but not GL unflinching)**
   - You only need to be on your target for an instant with Fighting Lion out. But then you'll need to swap to your kinetic to clean it up. This means you'll be swapping and potentially ADSing in the middle of your fight. Unflinching mods for your kinetic are invaluable since you won't have the advantage of opening the fight with your kinetic.
-- **Traction**
-  - Fighting Lion is a mobility based weapon, so having the +10 mobility and increased turn speed is a real asset.
 
 ## Mods to avoid in PvP:
 
 - Ammo Finder
   - Fighting Lion's exotic perk provides Primary ammo on kill, so this is unnecessary.
   - In PvE, it's a good choice because it procs A LOT, because the game thinks you're using a special ammo weapon, which has less up time.
-- Excessive GL launcher reload perks
-  - You get 80% of the reload cap with a single GL loader. [See the **Reloading** for more detail.](/armor/#reload-mods)
-- Concussive Dampener does NOT work in Crucible
 - Dexterity mods
   - Fighting Lion already has a *100* in Handling, so it doesn't need the help. As far as kinetics, remember Fighting Lion's Masterwork perk, Chimera. This masterwork effectively gives your kinetic Quickdraw.  Dexterity mods still help, since it's not true "Quickdraw", but it has diminishing returns.
   - For more on Dexterity Perks, Freehand Mod and Quickdraw, refer to [this post on r/CruciblePlayBook](https://www.reddit.com/r/CruciblePlaybook/comments/a0itxx/massive_breakdown_of_dexterity_perks_with/)
