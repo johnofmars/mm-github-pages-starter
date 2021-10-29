@@ -45,6 +45,8 @@ _**"I call it the Zhang Fei. It hits almost as hard as I do." — Wei Ning**_
 >
 > Wei Ning tapped her fists together. “Huh,” she said.
 
+Wei Ning's armor is in-game and [the concept art, by Zaki zou is located here](https://www.artstation.com/artwork/KaPDoX).
+
 This lore card was illustrated by ClashingShaders:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">[2/2] &quot;It hits almost as hard as I do.&quot;<a href="https://t.co/emm9eUSxMI">https://t.co/emm9eUSxMI</a> <a href="https://t.co/lZVbRdcGMh">pic.twitter.com/lZVbRdcGMh</a></p>&mdash; wynkyn de worme (@clashingshaders) <a href="https://twitter.com/clashingshaders/status/1265777669268017152?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -35,6 +35,8 @@ gallery2:
   image_path: /assets/images/memes/lion_wapp.png
 - url: /assets/images/memes/bi_lion.jpg
   image_path: /assets/images/memes/bi_lion.jpg
+- url: /assets/images/memes/blackandwhite.jpg
+  image_path: /assets/images/memes/blackandwhite.jpg
 
 header:
   teaser: /assets/images/teaser.jpg
