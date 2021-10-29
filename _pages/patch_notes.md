@@ -21,6 +21,21 @@ sidebar:
 
 ## Patch notes:
 
+[Patch note preview for 30th Anniversary Patch:](https://www.reddit.com/r/DestinyTheGame/comments/qd27mx/comment/hhjw72u/?context=3)
+
+"Got in touch with the team, here's some info straight from their keyboards:
+
+> Fighting Lion wasn't a specific problem before we reworked the weapon, but given increasing frustration with breech grenade launchers in crucible it seemed like a misstep to say "we hear you" and "here's an infinite ammo version of that thing you're frustrated about" in the same patch
+> It has become clear through hands on, feedback, and backend data that the full nerf isn't needed, so we're adjusting it in the 30th Anniversary patch
+
+> **Note:** This is not a full rollback - there's still a difference between "almost infinite ammo" and "actually infinite ammo" in how weapons are used, so we want to make sure we don't create a monster.
+
+Here's a quick patchnote preview for December:
+
+- Removed the multi-hit requirement for the reload speed buff
+- Increased the buff to the reload stat
+- i.e. reload will still be slow if you miss, but if you land any damage Fighting Lion will reload faster than it did before the nerf"
+
 [Update 3.3.0](https://www.bungie.net/en/Explore/Detail/News/50599) - _Season of the Lost (15) patch_
 
 - Breech Grenade Launchers
