@@ -29,6 +29,8 @@ gallery:
     image_path: /assets/images/memes/bank_those.jpg
   - url: /assets/images/memes/bernie.jpg
     image_path: /assets/images/memes/bernie.jpg
+  - url: /assets/images/memes/the_boys.jpg
+    image_path: /assets/images/memes/the_boys.jpg
 
 gallery2:
 - url: /assets/images/memes/lion_wapp.png

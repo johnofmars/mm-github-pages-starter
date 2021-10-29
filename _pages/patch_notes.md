@@ -21,7 +21,7 @@ sidebar:
 
 ## Patch notes:
 
-[Update 3.3.0](https://www.bungie.net/en/Explore/Detail/News/50599) - _Season of the Lost (15) patch_notes
+[Update 3.3.0](https://www.bungie.net/en/Explore/Detail/News/50599) - _Season of the Lost (15) patch_
 
 - Breech Grenade Launchers
   - Reduced blast radius by 0.4m, e.g. max blast radius decreased from 4.55m to 4.15m, min blast radius decreased from 3.80m to 3.40m.
