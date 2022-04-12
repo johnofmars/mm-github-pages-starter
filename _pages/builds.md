@@ -36,6 +36,14 @@ This page will evaluate two things:
 - Non-Seasonal builds (choices from the first 3 armor slots)
 - Charged with Light (Season of Dawn (8) or Arrivals (11))
 
+#Witch Queen Build for Void 3.0
+
+[Fighting Lion can both apply and detonate `Volatile` targets!!!](https://www.reddit.com/r/FightingLion/comments/t3zd5y/fighting_lion_has_some_very_interesting/)
+
+[Here is a video for folks to see it in action.](https://cdn.discordapp.com/attachments/947262151201022002/948330145305989120/LION_BOOM.mp4)
+
+[Here's a quick full build in DIM with Nezerac's Sins for you Voidlocks out there.](https://dim.gg/hbrqg2q/Voltatile-Lion)
+
 ## Non-Seasonal Builds
 
 **Head (any element):**
