@@ -18,7 +18,7 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 
 ![My tattoo](/assets/images/tattoo.jpg){:class="img-responsive"}
 
-![my warlock](/assets/images/Watamalone_Final_NS.jpg)[:class="img-responsive"]
+![my warlock](/assets/images/Watamalone_Final_NS.jpg){:class="img-responsive"}
 Commission by [@Ohlac3D](https://twitter.com/Ohlac3D)
 
 ## Update log:
