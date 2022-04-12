@@ -22,6 +22,9 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 Commission by [@Ohlac3D](https://twitter.com/Ohlac3D)
 
 ## Update log:
+- 2022/4/11: Updates for Year 4
+- 2021/12/7: Update for 30th anniversary "buff"
+- 2021/10/21: Patch note previews for balance update
 - 2021/9/23: First update for S15 nerf
 - 2021/3/22: Updated Damage numbers
 - 2021/3/20: Updated patch notes for Season of the Chosen
