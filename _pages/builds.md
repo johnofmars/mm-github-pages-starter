@@ -44,49 +44,6 @@ This page will evaluate two things:
 
 [Here's a quick full build in DIM with Nezerac's Sins for you Voidlocks out there.](https://dim.gg/hbrqg2q/Voltatile-Lion)
 
-## Non-Seasonal Builds
-
-**Head (any element):**
-- Enhanced Aiming Perks or 2x Regular Aiming Perks
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
-**Void Gloves:**
-- 1x Grenade Launcher loader (3 energy)
-- 1x HC Loader (3 energy) OR
-- 1x Sniper Loader (4 energy)
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
-**Ophidian Aspects (Solar/Arc):**
-> Because Ophidians gives a +30 to handling and huge reload boosts, you get more bang for your buck with other perks for your grenades/melees.
-
-- Fastball (2 energy)
-- Enhanced Momentum Transfer (3 Solar energy) OR
-- Enhanced Impact Induction (5 Arc energy)
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
-**Chest (any element):**
-- Unfliching of your kinetic's choice
-
-**Boots with _Primary_ Ammo Kinetic Weapon (any element):**
-> With Chimera giving Quickdraw like boosts to handling, you don't need Dexterity perks, really. Additionally, GL scavenger doesn't work on Lion, since it takes Primary ammo. But honestly, there aren't a lot of options left, so take a dexterity perk anyway.
-
-- Traction (3 energy)
-- Primary Weapon Dexterity (1-2 energy)
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
-**Boots with _Special_ Ammo Kinetic Weapon (any element):**
-> With Chimera giving Quickdraw like boosts to handling, you don't need Dexterity perks, really. Additionally, GL scavenger doesn't work on Lion, since it takes Primary ammo. So take a dexterity perk anyway.
-
-- Traction (3 energy)
-- Special Ammo Weapon Dexterity (2-4 energy)
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
-**Void Class Item**
-> The only element and perk that has direct Lion synergy is Dire Artillery. If you don't want to use Lion as your primary means of getting kills, then build however you would otherwise.
-
-- Dire Artillery x2 (3 energy x2)
-- Stat Perk such as Mobility, Recovery, etc. (3-4 energy)
-
 ## Charged with Light Build (CwL)
 
 Charged with Light is a really strong system that synergizes well with Lion. Unfortunately, it's a bit obtuse.
