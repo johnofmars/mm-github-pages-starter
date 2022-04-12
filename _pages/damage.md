@@ -88,6 +88,7 @@ Crucially, the damage numbers against the shield are precision yellow. This mean
 **Hunter**
 
 (will post updated damage tables soon)
+
 **Titan**
 
 (will post updated damage tables soon)

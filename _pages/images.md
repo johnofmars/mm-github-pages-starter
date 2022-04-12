@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/memes/bernie.jpg
 
 gallery2:
+- url: /assets/images/jade_wall.jpg
+  image_path: /assets/images/jade_wall.jpg
+- url: /assets/images/jade_phone.jpg
+  image_path: /assets/images/jade_phone.jpg
 - url: /assets/images/memes/lion_wapp.png
   image_path: /assets/images/memes/lion_wapp.png
 - url: /assets/images/memes/bi_lion.jpg
