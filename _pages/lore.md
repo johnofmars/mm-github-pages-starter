@@ -64,7 +64,7 @@ A commission of Jade Lion at high resolution [by Alyx](https://twitter.com/AlyxM
 ![Jade](/assets/images/jade_wall.jpg)
 
 A commision of a cartoon lion head [by Brooke](https://twitter.com/rookiebe_)
-![cartoon](assets/images/brooke_comm.jpg)
+![cartoon](/assets/images/brooke_comm.jpg)
 
 ## The Ornaments
 
