@@ -14,7 +14,8 @@ sidebar:
     nav: "docs"
 ---
 
-### Year 3 Showcase & Tutorial
+
+### Showcase & Tutorial (Year 3)
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jMJZc7bL0zU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,6 +25,24 @@ sidebar:
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DfoRT-ER5TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Short Videos
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/44JPSqKixzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jsS02EICPKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BpOMeaq4rEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/g198ZhqsLb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### Masterwork
