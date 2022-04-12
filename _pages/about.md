@@ -19,6 +19,7 @@ John of Mars fell in love with Fighting Lion in January 2018 and has praised it 
 ![My tattoo](/assets/images/tattoo.jpg){:class="img-responsive"}
 
 ![my warlock](Watamalone_Final_NS.jpg)[:class="img-responsive"]
+Commission by [@Ohlac3D](https://twitter.com/Ohlac3D)
 
 ## Update log:
 - 2021/9/23: First update for S15 nerf
