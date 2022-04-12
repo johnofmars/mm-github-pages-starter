@@ -19,7 +19,15 @@ sidebar:
 ![Fighting Lion Damage per Patch](/assets/images/damage.png)
 
 
+
 ## Patch notes:
+
+[Update 3.4.0](https://www.bungie.net/en/Explore/Detail/News/50880) - _30th Anniversary Patch_
+  - Fighting Lion
+    - Removed the multi-hit requirement (i.e. dealing any damage will grant the buff).
+    - Increased the buff to the reload stat from +50 to +70.
+    "Reload will still be slow if you miss, but if you land any damage Fighting Lion will reload faster than it did before the nerf."
+    - Increased the buff duration to 7s.
 
 [Patch note preview for 30th Anniversary Patch:](https://www.reddit.com/r/DestinyTheGame/comments/qd27mx/comment/hhjw72u/?context=3)
 
