@@ -211,4 +211,4 @@ Because Fighting Lion is a projectile, you can cause people in ManCannons (lifts
 
 ![Double Impact Glitch](/assets/images/glitch_double_impact.png){:class="img-responsive"}
 
-Happens when someone is touch a wall and the grenade hits them twice.
+Happens when someone is touching a wall and the grenade hits them twice.
