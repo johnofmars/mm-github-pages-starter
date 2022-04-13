@@ -41,6 +41,7 @@ Commission by [@Ohlac3D](https://twitter.com/Ohlac3D)
 - **Wizard Magizard** for PvP damage & glitch testing.
 - **Prostate Puncher** for PvP testing and Video Editing Software.
 - **Murphy's Reel** and **Goo154** for Pvp testing
+- **Frantastic** for post-nerf proof-reading and edit suggestions.
 
 ## Copyright
 

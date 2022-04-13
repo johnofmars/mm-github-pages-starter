@@ -73,20 +73,17 @@ Misleading, RPM is gated by reload speed, not firing rate. The practical RPM of 
 
 With that out of the way, it's worth looking at the _actual_ exotic perk: `Thin the Herd`. There are three full distinct parts and each of them is more than can be discussed in a short list.
 1. Direct hits do more damage to enemy combatant shields.
-  - In Crucible, this is not in effective. In PvE, Void damage naturally does a huge amount of damage. Solar is a hefty boost over damage to an unshielded enemy, but bonus damage against Arc shields is effectively non-existent. [See **Detailed Damage** for more.](/damage/)
+  - In Crucible, this is not applicable. In PvE, Void damage naturally does a huge amount of damage. Solar and Arc both do the same and larger amounts of damage. [See **Detailed Damage** for more.](/damage/)
 2. Rapid kills against grenade-damaged enemies refill the magazine.
   - This aspect of the perk is badly worded.
     - If you do damage with Fighting Lion, getting a kill (against any target), will refill the magazine.
     - A rapid kill after _or before_ causing damage with the target will refill it. [See **Techniques** for more.](/basic_techniques/)
 
-3. Kills always drop Primary ammo.
-  - There is zero cooldown here and a single brick will completely refill your ammo in PvP, with NO scavenger perks. [See **Ammo Management** below for more.](/the_gun/#ammo-management)
-
 ### Masterwork
 
 ![Masterwork](/assets/images/catalyst.jpg)
 
-+27 Reload speed from **55** to **82**. That's an astonishing 50% increase.
++27 Reload speed from **10** to **27**. However, there is an additional **+70** bonus that lasts for 7 seconds whenever you hit any target.
 
 New perk:
 > **Chimera** - After this weapon fires, equipped Kinetic and Power weapons gain a brief period of increased handling and accuracy.
@@ -154,7 +151,10 @@ This process is referred to as **Manual Reloading**. This removes the entire rec
 
 As you can see, Manual Reloading significantly cuts down on recoil & return, and eliminates the cooldown. It's still not anywhere close to 90 rpm, though.
 
-> Manual reloading: Practice hitting reload after you fire the weapon. Don't wait until after detonate the round!
+The Manual Reload button sequence is:
+Fire (mouse 1 or RT) and while holding, Hit Reload, Release Fire (m1/RT).
+
+> Manual reloading: Practice hitting reload after you fire the weapon. Don't wait until after detonate the round! However, with the new reload bonus, you want to only manually reload after you get the initial hit reload bonus. Before then it will be slow.
 {: .notice--success}
 
 It is tricky to get the perfect timing to pull this off however. The community has developed a macro for this purpose, but even that can be inconsistent. The Macro is really for instructive purposes only. It's cool script, but it's not feasible to use in Crucible for any real means.
