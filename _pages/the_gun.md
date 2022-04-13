@@ -36,22 +36,22 @@ Here is the [official entry page](https://www.bungie.net/en/Explore/Detail/Item/
 {% include feature_row %}
 
 ![The Stats](/assets/images/stats.png)
+(modified from [light.gg](https://www.light.gg/db/items/3549153978/fighting-lion/))
 
-> Caution: The API is showing different stats than the actual in-game results. As a result, DIM, Light.gg, DestinyTracker, DestinySets, and the official entry page all show different/incorrect values. Note: this is not a result of perk application not showing. Here are the actual values.
-{: .notice--warning}
-
-Counterbalance:
+If you're curious about the bonuses of individual perks on the gun, they are below:
+Countermass Rounds:
 - Stability + 9
 - Recoil Direction + 30
 - Handling + 9
+- Bounce Intensity - 10
 
 Implosion Rounds:
 - Velocity + 9
 - Stability + 13
-- Blast Radius -5
+- Blast Radius - 5
 
 Short-Action Stock:
-- Handling + 16
+- Handling + 14
 
 ## The Basics
 
